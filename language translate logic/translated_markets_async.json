@@ -1,0 +1,2492 @@
+[
+    {
+        "market_id": "11",
+        "market_name": "અબેદાસ",
+        "district_name": "કાચડી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "45",
+        "market_name": "અમદાવાદ",
+        "district_name": "અમદાવાદ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "46",
+        "market_name": "અમદાવાદ (ચિમાનભાઇ પાટલ માર્કેટ વસના)",
+        "district_name": "અમદાવાદ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "47",
+        "market_name": "અમદાવાદ (ફૂલ બજાર જમાલપુર)",
+        "district_name": "પાનાનું",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "48",
+        "market_name": "અમદાવાદ (ફળોના બજાર, નરોદા)",
+        "district_name": "અમદાવાદ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "49",
+        "market_name": "અમદાવાદ (માનેકચોક)",
+        "district_name": "અમદાવાદ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "50",
+        "market_name": "અમદાવાદ (રાજનગર પેટા યાર્ડ)",
+        "district_name": "અમદાવાદ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "54",
+        "market_name": "અહવા-દેંગ",
+        "district_name": "ડાંગ્સ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "156",
+        "market_name": "અમીરગ adh",
+        "district_name": "પાનાનું",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "161",
+        "market_name": "આમોદ",
+        "district_name": "ભારુચ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "162",
+        "market_name": "આમોદ (સારબાન)",
+        "district_name": "ભારુચ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "166",
+        "market_name": "અમૂલ",
+        "district_name": "અમૂલ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "178",
+        "market_name": "દાદા",
+        "district_name": "દાદા",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "181",
+        "market_name": "આનંદ (શાકાહારી, યાર્ડ, આનંદ)",
+        "district_name": "દાદા",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "200",
+        "market_name": "અન્જર",
+        "district_name": "કાચડી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "201",
+        "market_name": "અંજાર (શાકાહારી, પેટા યાર્ડ)",
+        "district_name": "કાચડી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "203",
+        "market_name": "કણક",
+        "district_name": "દાદા",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "204",
+        "market_name": "અંકલાવ (શાકાહારી, બજાર, એસોદર)",
+        "district_name": "ભારુચ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "205",
+        "market_name": "પગની ઘૂંટી",
+        "district_name": "ભારુચ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "301",
+        "market_name": "નાવાપી",
+        "district_name": "અમૂલ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "304",
+        "market_name": "બાચૌ",
+        "district_name": "કાચડી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "332",
+        "market_name": "ગાલસારા",
+        "district_name": "અમૂલ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "374",
+        "market_name": "બાલાસિનોર",
+        "district_name": "Khષધ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "399",
+        "market_name": "પાનાશં",
+        "district_name": "પાનાનું",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "448",
+        "market_name": "તડાકો",
+        "district_name": "માંદગી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "449",
+        "market_name": "બાર્ડોલી (કેટોદ)",
+        "district_name": "માંદગી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "450",
+        "market_name": "બાર્ડોલી (માની)",
+        "district_name": "માંદગી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "476",
+        "market_name": "બરુચ (રપ)",
+        "district_name": "ભારુચ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "479",
+        "market_name": "Barાળ",
+        "district_name": "અમદાવાદ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "498",
+        "market_name": "બાવલા",
+        "district_name": "અમદાવાદ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "500",
+        "market_name": "બadડ",
+        "district_name": "સાબરકંથા",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "501",
+        "market_name": "બાયદ (ડીમાઇ)",
+        "district_name": "સાબરકંથા",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "502",
+        "market_name": "બાયદ (સદેમ્બા)",
+        "district_name": "સાબરકંથા",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "508",
+        "market_name": "વર્ચરાજી",
+        "district_name": "મેહસાના",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "551",
+        "market_name": "ભાહર",
+        "district_name": "પાનાનું",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "584",
+        "market_name": "ભણવદ",
+        "district_name": "દેવદાર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "585",
+        "market_name": "ભણવદ",
+        "district_name": "જામનગર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "592",
+        "market_name": "ભારુચ",
+        "district_name": "ભારુચ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "596",
+        "market_name": "ભટિયા",
+        "district_name": "જામનગર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "601",
+        "market_name": "ભવનનગર",
+        "district_name": "ભવનનગર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "616",
+        "market_name": "ગુંદરવાળું",
+        "district_name": "જૂનાગ.",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "626",
+        "market_name": "ભાઇલોડા",
+        "district_name": "સાબરકંથા",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "662",
+        "market_name": "ભુજ",
+        "district_name": "કાચડી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "704",
+        "market_name": "બિહામણું",
+        "district_name": "નવમા",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "705",
+        "market_name": "બિલીમોરા (ગાંડવી)",
+        "district_name": "નવમા",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "732",
+        "market_name": "બોડલી",
+        "district_name": "વડોદરા (બરોડા)",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "733",
+        "market_name": "બોડેલી (હાડોડ)",
+        "district_name": "વડોદરા (બરોડા)",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "734",
+        "market_name": "બોડેલી (કાલેદિયા)",
+        "district_name": "વડોદરા (બરોડા)",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "735",
+        "market_name": "બોડેલી (મોડાસાર)",
+        "district_name": "વડોદરા (બરોડા)",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "736",
+        "market_name": "શણગાર",
+        "district_name": "છોટા ઉદયપુર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "737",
+        "market_name": "શણગાર",
+        "district_name": "વડોદરા (બરોડા)",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "758",
+        "market_name": "બોરસદ",
+        "district_name": "દાદા",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "759",
+        "market_name": "બોરસદ (એસોદર)",
+        "district_name": "દાદા",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "760",
+        "market_name": "બોરસદ (શાકાહારી યાર્ડ બારસેડ)",
+        "district_name": "દાદા",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "762",
+        "market_name": "બોટડ",
+        "district_name": "બોટડ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "763",
+        "market_name": "બોટડ (ભાબરકોટ)",
+        "district_name": "ભવનનગર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "764",
+        "market_name": "બોટડ (ભાબરકોટ)",
+        "district_name": "બોટડ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "765",
+        "market_name": "બોટાડ (હડદાદ)",
+        "district_name": "ભવનનગર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "766",
+        "market_name": "બોટાડ (હડદાદ)",
+        "district_name": "બોટડ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "850",
+        "market_name": "ચાન્સમા",
+        "district_name": "પૌષ્ટિક",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "916",
+        "market_name": "છોટા ઉદયપુર",
+        "district_name": "વડોદરા (બરોડા)",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "917",
+        "market_name": "છોટા ઉદયપુર (તેજગ adh)",
+        "district_name": "વડોદરા (બરોડા)",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "926",
+        "market_name": "ચીકણું",
+        "district_name": "નવમા",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "929",
+        "market_name": "ચિકલી (ખોરગમ)",
+        "district_name": "વાલસેડ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "953",
+        "market_name": "મુલતવી",
+        "district_name": "ભવનનગર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "976",
+        "market_name": "કોરયશી",
+        "district_name": "માંદગી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "980",
+        "market_name": "Chotial (શાકાહારી, યાર્ડ)",
+        "district_name": "સુરેન્દ્રનગર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "981",
+        "market_name": "Chષધ",
+        "district_name": "સુરેન્દ્રનગર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "982",
+        "market_name": "ચોટિલા (શાકાહારી, યાર્ડ ચોટિલા)",
+        "district_name": "સુરેન્દ્રનગર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "987",
+        "market_name": "ચડા",
+        "district_name": "સુરેન્દ્રનગર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1003",
+        "market_name": "દબ્હોઇ (કાયવરુહન)",
+        "district_name": "વડોદરા (બરોડા)",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1006",
+        "market_name": "દબોઇ",
+        "district_name": "વડોદરા (બરોડા)",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1017",
+        "market_name": "ડહોડ",
+        "district_name": "ડહોડ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1018",
+        "market_name": "દહોદ (ગાર્બાડા)",
+        "district_name": "ડહોડ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1019",
+        "market_name": "દહોદ (હિમાલય)",
+        "district_name": "ડહોડ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1020",
+        "market_name": "દહોદ (જેસાવાડા)",
+        "district_name": "ડહોડ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1021",
+        "market_name": "દહોદ (શાકાહારી. બજાર)",
+        "district_name": "ડહોડ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1023",
+        "market_name": "ડાકોર",
+        "district_name": "Khષધ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1031",
+        "market_name": "ભ્રષ્ટ",
+        "district_name": "અમૂલ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1036",
+        "market_name": "દંત",
+        "district_name": "પાનાનું",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1037",
+        "market_name": "કૃત્રિકવાડા",
+        "district_name": "પાનાનું",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1046",
+        "market_name": "દશદા પાટાડી",
+        "district_name": "સુરેન્દ્રનગર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1048",
+        "market_name": "દાસ્કોરોઈ",
+        "district_name": "અમદાવાદ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1056",
+        "market_name": "દગદબેરિયા (પીપ્લોડ)",
+        "district_name": "ડહોડ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1059",
+        "market_name": "દયાપર",
+        "district_name": "કાચડી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1060",
+        "market_name": "સમન્વય",
+        "district_name": "બુદ્ધિ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1066",
+        "market_name": "ડીસા",
+        "district_name": "પાનાનું",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1067",
+        "market_name": "ડીસા (ભિલ્ડી)",
+        "district_name": "પાનાનું",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1068",
+        "market_name": "ડીસા (ડીસા વેજ યાર્ડ)",
+        "district_name": "પાનાનું",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1071",
+        "market_name": "દેહગામ",
+        "district_name": "ગાંડિનાગર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1072",
+        "market_name": "દેહગમ (દેહગમ વેજ યાર્ડ)",
+        "district_name": "ગાંડિનાગર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1073",
+        "market_name": "દેહગમ (રેખીયલ)",
+        "district_name": "ગાંડિનાગર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1092",
+        "market_name": "ડરોલ",
+        "district_name": "પંચમહલો",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1093",
+        "market_name": "ડેરોલ (અદાદરા)",
+        "district_name": "પંચમહલો",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1094",
+        "market_name": "ડેરોલ (વેજલપુર)",
+        "district_name": "પંચમહલો",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1096",
+        "market_name": "ડટેક",
+        "district_name": "અમદાવાદ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1112",
+        "market_name": "દેવળ",
+        "district_name": "ડહોડ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1132",
+        "market_name": "Handષધ",
+        "district_name": "અમદાવાદ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1133",
+        "market_name": "ધંધકુકા (ધોલેરા)",
+        "district_name": "અમદાવાદ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1135",
+        "market_name": "ધૂન",
+        "district_name": "પાનાનું",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1136",
+        "market_name": "ધનેરા (સમરવાડા)",
+        "district_name": "પાનાનું",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1137",
+        "market_name": "ધનેરા (શાકાહારી, યાર્ડ ધનેરા)",
+        "district_name": "પાનાનું",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1140",
+        "market_name": "ધનપુર",
+        "district_name": "ડહોડ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1141",
+        "market_name": "ધનુરા",
+        "district_name": "સાબરકંથા",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1150",
+        "market_name": "ધરમપુર (શાકાહારી)",
+        "district_name": "વાલસેડ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1159",
+        "market_name": "ખાદ્ય",
+        "district_name": "અમૂલ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1160",
+        "market_name": "ધારી (ચલાલા)",
+        "district_name": "અમૂલ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1175",
+        "market_name": "ધોધ",
+        "district_name": "ભવનનગર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1176",
+        "market_name": "Holલકા",
+        "district_name": "અમદાવાદ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1177",
+        "market_name": "ધોલકા (કોથ)",
+        "district_name": "અમદાવાદ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1178",
+        "market_name": "ધોલકા (માર્કેટ યાર્ડની શાકાહારી)",
+        "district_name": "અમદાવાદ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1181",
+        "market_name": "દિહરજી",
+        "district_name": "રાજકોટ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1182",
+        "market_name": "ધહરજી (ચેટલ માર્કેટ યાર્ડ)",
+        "district_name": "રાજકોટ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1184",
+        "market_name": "ધ્રાગ્રાદા",
+        "district_name": "સુરેન્દ્રનગર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1185",
+        "market_name": "ધ્રોલ",
+        "district_name": "જામનગર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1211",
+        "market_name": "મર્તર",
+        "district_name": "પાનાનું",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1214",
+        "market_name": "Dણદળ",
+        "district_name": "તાપસ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1250",
+        "market_name": "દ્વારકા",
+        "district_name": "દેવદાર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1339",
+        "market_name": "ગડ",
+        "district_name": "ભવનનગર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1361",
+        "market_name": "ગાલલ",
+        "district_name": "Khષધ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1372",
+        "market_name": "ગાંંધિનાગર (બોર્ડ)",
+        "district_name": "ગાંડિનાગર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1403",
+        "market_name": "ગાર્યદાર",
+        "district_name": "ભવનનગર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1445",
+        "market_name": "ગિર ગાદડા",
+        "district_name": "ગિર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1454",
+        "market_name": "ગોધન",
+        "district_name": "પંચમહલો",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1455",
+        "market_name": "ગોધરા (કકનપુર)",
+        "district_name": "પંચમહલો",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1456",
+        "market_name": "ગોધરા (ટિમ્બારોડ)",
+        "district_name": "પંચમહલો",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1457",
+        "market_name": "ગુંડો",
+        "district_name": "પંચમહલો",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1458",
+        "market_name": "ગોગમ્બા (સિમિલીયા)",
+        "district_name": "પંચમહલો",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1467",
+        "market_name": "વાંકું",
+        "district_name": "રાજકોટ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1468",
+        "market_name": "ગોંડલ (પશુ બજાર ગોંડલ)",
+        "district_name": "રાજકોટ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1469",
+        "market_name": "ગોંડલ (વેગ.માર્કેટ ગોંડલ)",
+        "district_name": "રાજકોટ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1540",
+        "market_name": "હદીદ",
+        "district_name": "છોટા ઉદયપુર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1541",
+        "market_name": "હદીદ",
+        "district_name": "વડોદરા (બરોડા)",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1554",
+        "market_name": "શણગારવું",
+        "district_name": "પંચમહલો",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1555",
+        "market_name": "શણગુણી",
+        "district_name": "મોર્બી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1556",
+        "market_name": "શણગુણી",
+        "district_name": "સુરેન્દ્રનગર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1581",
+        "market_name": "હારીજ",
+        "district_name": "પૌષ્ટિક",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1591",
+        "market_name": "શયતાન",
+        "district_name": "ભારુચ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1592",
+        "market_name": "હાસોટ (ઇએલએવી)",
+        "district_name": "ભારુચ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1604",
+        "market_name": "હિમતનગર",
+        "district_name": "સાબરકંથા",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1605",
+        "market_name": "હિમાતનગર (ગેમ્હોઇ)",
+        "district_name": "સાબરકંથા",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1606",
+        "market_name": "હિમાતનગર (વેગ.માર્કેટ હિમાતનગર)",
+        "district_name": "સાબરકંથા",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1668",
+        "market_name": "ઈડાર",
+        "district_name": "સાબરકંથા",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1669",
+        "market_name": "ઇડર (જદર)",
+        "district_name": "સાબરકંથા",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1697",
+        "market_name": "જાફરાબાદ",
+        "district_name": "અમૂલ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1747",
+        "market_name": "જલાલપોર",
+        "district_name": "નવમા",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1768",
+        "market_name": "જામ જોધપુર",
+        "district_name": "જામનગર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1769",
+        "market_name": "જામ ખામબાલીયા",
+        "district_name": "દેવદાર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1770",
+        "market_name": "જામ ખામબાલીયા",
+        "district_name": "જામનગર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1773",
+        "market_name": "જાંબુડો",
+        "district_name": "પંચમહલો",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1774",
+        "market_name": "જાંઘર",
+        "district_name": "ભારુચ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1775",
+        "market_name": "જામ્બુસર (કાવી)",
+        "district_name": "ભારુચ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1777",
+        "market_name": "જામકંદોર્ના",
+        "district_name": "રાજકોટ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1782",
+        "market_name": "જામનગર",
+        "district_name": "જામનગર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1797",
+        "market_name": "જસદાન",
+        "district_name": "રાજકોટ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1798",
+        "market_name": "જસદાન (વિચિઆ)",
+        "district_name": "રાજકોટ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1821",
+        "market_name": "જેપુર પાવી (ચાક્કક)",
+        "district_name": "વડોદરા (બરોડા)",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1822",
+        "market_name": "જેટલપુર (એ'બેડ સિટી)",
+        "district_name": "અમદાવાદ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1823",
+        "market_name": "જેટપુર પાવી",
+        "district_name": "છોટા ઉદયપુર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1824",
+        "market_name": "જેટપુર પાવી",
+        "district_name": "વડોદરા (બરોડા)",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1825",
+        "market_name": "જેટપુર (ડિસ્ટ.રાજકોટ)",
+        "district_name": "રાજકોટ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1831",
+        "market_name": "કૃત્રક",
+        "district_name": "ભારુચ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1835",
+        "market_name": "ઝાલોદ",
+        "district_name": "ડહોડ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1863",
+        "market_name": "જોડકણ",
+        "district_name": "જામનગર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1868",
+        "market_name": "ઉન્મત્ત",
+        "district_name": "મેહસાના",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1875",
+        "market_name": "જૂનાગ adh",
+        "district_name": "જૂનાગ.",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1876",
+        "market_name": "જુનાગ adh (શાકાહારી, યાર્ડ, જુનાગ adh)",
+        "district_name": "જૂનાગ.",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1887",
+        "market_name": "કે.એમ.ંડવી",
+        "district_name": "કાચડી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1897",
+        "market_name": "કડના",
+        "district_name": "મહેસગર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1900",
+        "market_name": "કાડી",
+        "district_name": "મેહસાના",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1901",
+        "market_name": "કડી (કડી કોટન યાર્ડ)",
+        "district_name": "મેહસાના",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1903",
+        "market_name": "કાડોદરા",
+        "district_name": "માંદગી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1944",
+        "market_name": "કલાવાડ",
+        "district_name": "જામનગર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1948",
+        "market_name": "ક્લેદિયા",
+        "district_name": "છોટા ઉદયપુર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1949",
+        "market_name": "ક્લેદિયા",
+        "district_name": "વડોદરા (બરોડા)",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1971",
+        "market_name": "કાલો",
+        "district_name": "ગાંડિનાગર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1972",
+        "market_name": "કાલોલ (શાકાહારી, બજાર, કાલોલ)",
+        "district_name": "ગાંડિનાગર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1982",
+        "market_name": "કલ્યાણપુર",
+        "district_name": "દેવદાર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "1998",
+        "market_name": "કામરેજ",
+        "district_name": "માંદગી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2035",
+        "market_name": "કાંકરેજ",
+        "district_name": "પાનાનું",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2048",
+        "market_name": "કપદંજ (મોતી જેહર)",
+        "district_name": "Khષધ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2049",
+        "market_name": "કપદવંજ",
+        "district_name": "Khષધ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2050",
+        "market_name": "કપરાદ",
+        "district_name": "વાલસેડ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2076",
+        "market_name": "કરજનો",
+        "district_name": "વડોદરા (બરોડા)",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2111",
+        "market_name": "કથલાલ",
+        "district_name": "Khષધ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2118",
+        "market_name": "કટોસન",
+        "district_name": "અમદાવાદ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2139",
+        "market_name": "કોરા",
+        "district_name": "વડોદરા (બરોડા)",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2140",
+        "market_name": "કવંત (પાનવદ)",
+        "district_name": "વડોદરા (બરોડા)",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2167",
+        "market_name": "કેશદ",
+        "district_name": "જૂનાગ.",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2188",
+        "market_name": "ખાદ્ય",
+        "district_name": "અમૂલ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2189",
+        "market_name": "ખાદ્ય",
+        "district_name": "દેવદાર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2190",
+        "market_name": "ખાદ્યપદ",
+        "district_name": "દાદા",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2191",
+        "market_name": "ખંભાટ (અનાજ બજાર)",
+        "district_name": "દાદા",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2192",
+        "market_name": "ખંભત (શાકાહારી યાર્ડ ખંબટ)",
+        "district_name": "દાદા",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2207",
+        "market_name": "ખાનપુર",
+        "district_name": "પંચમહલો",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2225",
+        "market_name": "ખાવા",
+        "district_name": "કાચડી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2229",
+        "market_name": "Khષધ",
+        "district_name": "Khષધ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2230",
+        "market_name": "ઘેડા (નાયક)",
+        "district_name": "Khષધ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2231",
+        "market_name": "ઘાતકી",
+        "district_name": "સાબરકંથા",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2232",
+        "market_name": "ઘડબ્રાહમા (લેમ્બડિયા)",
+        "district_name": "સાબરકંથા",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2233",
+        "market_name": "ઘડબ્રાહમા (પોસિના)",
+        "district_name": "સાબરકંથા",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2241",
+        "market_name": "ખરગમ",
+        "district_name": "નવમા",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2273",
+        "market_name": "કિમ",
+        "district_name": "માંદગી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2305",
+        "market_name": "કોદીનાર",
+        "district_name": "ગિર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2306",
+        "market_name": "કોદીનાર",
+        "district_name": "જૂનાગ.",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2307",
+        "market_name": "કોડિનાર (ડ la લાસા)",
+        "district_name": "જૂનાગ.",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2364",
+        "market_name": "કોસંબા",
+        "district_name": "માંદગી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2366",
+        "market_name": "કોસમ્બા (વાંકલ)",
+        "district_name": "માંદગી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2367",
+        "market_name": "કોસમ્બા (ઝંગવવ)",
+        "district_name": "માંદગી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2378",
+        "market_name": "કોટાદસગની",
+        "district_name": "રાજકોટ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2388",
+        "market_name": "કોથંબા",
+        "district_name": "મહેસગર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2391",
+        "market_name": "કોઠાર",
+        "district_name": "કાચડી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2491",
+        "market_name": "કુતિયાણા",
+        "district_name": "પહાડ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2496",
+        "market_name": "ક્વાટ",
+        "district_name": "છોટા ઉદયપુર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2505",
+        "market_name": "લાખાનિ",
+        "district_name": "પાનાનું",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2516",
+        "market_name": "લાખપત",
+        "district_name": "કાચડી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2518",
+        "market_name": "ધાર",
+        "district_name": "સુરેન્દ્રનગર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2530",
+        "market_name": "લાલ",
+        "district_name": "જામનગર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2548",
+        "market_name": "લઠી",
+        "district_name": "અમૂલ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2562",
+        "market_name": "લિલિયા",
+        "district_name": "અમૂલ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2563",
+        "market_name": "ક limંગું",
+        "district_name": "સુરેન્દ્રનગર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2564",
+        "market_name": "લિમખેદા",
+        "district_name": "ડહોડ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2568",
+        "market_name": "લોધિકા",
+        "district_name": "રાજકોટ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2589",
+        "market_name": "લુનાવડા",
+        "district_name": "પંચમહલો",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2590",
+        "market_name": "લુનાવાડા (કોબમ્બા)",
+        "district_name": "પંચમહલો",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2648",
+        "market_name": "મહંડ",
+        "district_name": "Khષધ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2650",
+        "market_name": "માહુવા",
+        "district_name": "માંદગી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2651",
+        "market_name": "મહૂવા (અનાવલ)",
+        "district_name": "માંદગી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2652",
+        "market_name": "મહુવા (જેસર)",
+        "district_name": "ભવનનગર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2653",
+        "market_name": "મહુવા (સ્ટેશન રોડ)",
+        "district_name": "ભવનનગર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2679",
+        "market_name": "માલિયા હેટિના",
+        "district_name": "જૂનાગ.",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2681",
+        "market_name": "મલિયા-મિયાના",
+        "district_name": "મોર્બી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2698",
+        "market_name": "માલપુર",
+        "district_name": "સાબરકંથા",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2715",
+        "market_name": "માનવી",
+        "district_name": "જૂનાગ.",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2720",
+        "market_name": "માજ્ mand",
+        "district_name": "અમદાવાદ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2735",
+        "market_name": "માંદવી",
+        "district_name": "માંદગી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2736",
+        "market_name": "માંડવી (અંબા પરદી)",
+        "district_name": "માંદગી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2746",
+        "market_name": "મંગળ",
+        "district_name": "માંદગી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2751",
+        "market_name": "મેંગ્રોલ",
+        "district_name": "જૂનાગ.",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2771",
+        "market_name": "માણસ",
+        "district_name": "ગાંડિનાગર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2775",
+        "market_name": "મનસા (માનસ શાકાહારી યાર્ડ)",
+        "district_name": "ગાંડિનાગર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2805",
+        "market_name": "માસ્ટર",
+        "district_name": "Khષધ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2806",
+        "market_name": "માતર (લિમ્બાસી)",
+        "district_name": "Khષધ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2835",
+        "market_name": "મેદરાડા",
+        "district_name": "જૂનાગ.",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2841",
+        "market_name": "મેઘરાજ",
+        "district_name": "સાબરકંથા",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2842",
+        "market_name": "મેઘરાજ (રડલાવડા)",
+        "district_name": "સાબરકંથા",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2852",
+        "market_name": "મેહમદાબાદ",
+        "district_name": "Khષધ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2853",
+        "market_name": "મેહમદાબાદ (શાકાહારી, બજાર)",
+        "district_name": "Khષધ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2858",
+        "market_name": "મેહસાના",
+        "district_name": "મેહસાના",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2859",
+        "market_name": "મેહસાના (જોનાંગ)",
+        "district_name": "મેહસાના",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2860",
+        "market_name": "મેહસાના (મેહસાના શાકાહારી)",
+        "district_name": "મેહસાના",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2891",
+        "market_name": "અર્થ",
+        "district_name": "સાબરકંથા",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2892",
+        "market_name": "મોડાસા (ટિંટોઇ)",
+        "district_name": "સાબરકંથા",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2893",
+        "market_name": "મધ્યસ",
+        "district_name": "છોટા ઉદયપુર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2894",
+        "market_name": "મધ્યસ",
+        "district_name": "વડોદરા (બરોડા)",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2926",
+        "market_name": "મોર્બી",
+        "district_name": "મોર્બી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2927",
+        "market_name": "મોર્બી",
+        "district_name": "રાજકોટ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2928",
+        "market_name": "મોર્બી (veg.sub, યાર્ડ)",
+        "district_name": "રાજકોટ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2934",
+        "market_name": "મોર્વા હાફાદ",
+        "district_name": "પંચમહલો",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2963",
+        "market_name": "ખંડો",
+        "district_name": "સુરેન્દ્રનગર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "2977",
+        "market_name": "ભૌતિક",
+        "district_name": "કાચડી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3014",
+        "market_name": "નાદઆદ",
+        "district_name": "Khષધ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3015",
+        "market_name": "નાદિયાદ (ચક્લાસી)",
+        "district_name": "Khષધ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3016",
+        "market_name": "નાદિયાદ (પીપલાગ)",
+        "district_name": "Khષધ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3054",
+        "market_name": "નખરાનો",
+        "district_name": "કાચડી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3061",
+        "market_name": "નાલિયા",
+        "district_name": "કાચડી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3081",
+        "market_name": "નાન્ડોદા",
+        "district_name": "બુદ્ધિ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3131",
+        "market_name": "નાસ્વાડી",
+        "district_name": "વડોદરા (બરોડા)",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3132",
+        "market_name": "નસ્વદી (થાલકલા)",
+        "district_name": "વડોદરા (બરોડા)",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3143",
+        "market_name": "નાગમ",
+        "district_name": "માંદગી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3147",
+        "market_name": "નવમા",
+        "district_name": "નવમા",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3228",
+        "market_name": "નિઝર",
+        "district_name": "માંદગી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3229",
+        "market_name": "નિઝર (કુકાર્મુદા)",
+        "district_name": "માંદગી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3230",
+        "market_name": "નિઝર (પમકિટોવ)",
+        "district_name": "માંદગી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3255",
+        "market_name": "અણીદાર",
+        "district_name": "માંદગી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3279",
+        "market_name": "પૌદ",
+        "district_name": "રાજકોટ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3285",
+        "market_name": "મદિધરો",
+        "district_name": "વડોદરા (બરોડા)",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3310",
+        "market_name": "પેલાનપુર",
+        "district_name": "પાનાનું",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3311",
+        "market_name": "પલાનપુર (શાકાહારી, યાર્ડ પલાનપુર)",
+        "district_name": "પાનાનું",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3324",
+        "market_name": "પાલિતાન",
+        "district_name": "ભવનનગર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3337",
+        "market_name": "પેલાસન",
+        "district_name": "માંદગી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3376",
+        "market_name": "દંતક",
+        "district_name": "પાનાનું",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3402",
+        "market_name": "ખર્ખ",
+        "district_name": "વાલસેડ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3403",
+        "market_name": "પારડી (મોતાવાગાચિયા)",
+        "district_name": "વાલસેડ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3404",
+        "market_name": "પારડી (રોહિની)",
+        "district_name": "વાલસેડ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3405",
+        "market_name": "પારડી (ઉગવાડા)",
+        "district_name": "વાલસેડ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3406",
+        "market_name": "પારડી (VAPI)",
+        "district_name": "વાલસેડ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3429",
+        "market_name": "પૌષ્ટિક",
+        "district_name": "પૌષ્ટિક",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3432",
+        "market_name": "પતંગ (શાકાહારી, યાર્ડ પતંગ)",
+        "district_name": "પૌષ્ટિક",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3508",
+        "market_name": "પેટલાશ",
+        "district_name": "દાદા",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3509",
+        "market_name": "પેટલાડ (શાકાહારી યાર્ડ, પેટલાડ)",
+        "district_name": "દાદા",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3570",
+        "market_name": "પહાડ",
+        "district_name": "પહાડ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3582",
+        "market_name": "પ્રાંટિજ",
+        "district_name": "સાબરકંથા",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3583",
+        "market_name": "પ્રાંતીજ (સલાલા)",
+        "district_name": "સાબરકંથા",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3652",
+        "market_name": "નાપસી",
+        "district_name": "પૌષ્ટિક",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3653",
+        "market_name": "રાદાજા",
+        "district_name": "ગાંડિનાગર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3698",
+        "market_name": "રાજકોટ",
+        "district_name": "રાજકોટ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3699",
+        "market_name": "રાજકોટ (ઘી પીથ)",
+        "district_name": "રાજકોટ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3700",
+        "market_name": "રાજકોટ (વેગ.સુબ યાર્ડ)",
+        "district_name": "રાજકોટ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3704",
+        "market_name": "રાજપિલા",
+        "district_name": "બુદ્ધિ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3705",
+        "market_name": "રાજપિપલા (ગરુડેશવાલ)",
+        "district_name": "બુદ્ધિ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3710",
+        "market_name": "રાજમા",
+        "district_name": "અમૂલ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3711",
+        "market_name": "રાજુલા (ડુંગર)",
+        "district_name": "અમૂલ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3741",
+        "market_name": "રામ્પુરા",
+        "district_name": "અમદાવાદ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3756",
+        "market_name": "રાણાવ",
+        "district_name": "પહાડ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3758",
+        "market_name": "રાંધાજા (ચિલોદા)",
+        "district_name": "ગાંડિનાગર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3759",
+        "market_name": "રાંધાજા (વેગ.માર્કેટ ગાંધીગરે)",
+        "district_name": "ગાંડિનાગર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3775",
+        "market_name": "રણપુર",
+        "district_name": "અમદાવાદ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3776",
+        "market_name": "Rapલટ",
+        "district_name": "કાચડી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3844",
+        "market_name": "એસ.મંડવી",
+        "district_name": "માંદગી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3858",
+        "market_name": "ગાલબારા",
+        "district_name": "બુદ્ધિ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3904",
+        "market_name": "સામી",
+        "district_name": "પૌષ્ટિક",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3913",
+        "market_name": "સનાદ",
+        "district_name": "અમદાવાદ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3938",
+        "market_name": "સાંધા",
+        "district_name": "વાલસેડ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3945",
+        "market_name": "સંખાડા",
+        "district_name": "છોટા ઉદયપુર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3948",
+        "market_name": "સાંતલપુર",
+        "district_name": "પૌષ્ટિક",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3955",
+        "market_name": "સંવાદિતા",
+        "district_name": "પંચમહલો",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3956",
+        "market_name": "સંત્રેમપુર (ફાથપુરા)",
+        "district_name": "પંચમહલો",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3981",
+        "market_name": "સરવાવા",
+        "district_name": "પૌષ્ટિક",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "3995",
+        "market_name": "સંલાસન",
+        "district_name": "મેહસાના",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4006",
+        "market_name": "સાબરકંડલા",
+        "district_name": "અમૂલ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4007",
+        "market_name": "સાપ",
+        "district_name": "વડોદરા (બરોડા)",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4008",
+        "market_name": "સાવિલી (દેસાર)",
+        "district_name": "વડોદરા (બરોડા)",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4009",
+        "market_name": "સાવિલી (સમલ્યા)",
+        "district_name": "વડોદરા (બરોડા)",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4012",
+        "market_name": "વ્યભિચાર",
+        "district_name": "સુરેન્દ્રનગર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4025",
+        "market_name": "Selીમણિ",
+        "district_name": "બુદ્ધિ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4026",
+        "market_name": "સેલેમ્બા (નવીગામ જાવાલી)",
+        "district_name": "બુદ્ધિ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4076",
+        "market_name": "શેહરા",
+        "district_name": "પંચમહલો",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4089",
+        "market_name": "પર્વતમાળા",
+        "district_name": "ભવનનગર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4101",
+        "market_name": "ઝેરી",
+        "district_name": "વડોદરા (બરોડા)",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4102",
+        "market_name": "શિનોર (શિનોર શાકાહારી)",
+        "district_name": "વડોદરા (બરોડા)",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4111",
+        "market_name": "શણશેશ્વર",
+        "district_name": "પૌષ્ટિક",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4126",
+        "market_name": "સિદ્ધાપુર",
+        "district_name": "પૌષ્ટિક",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4176",
+        "market_name": "સિંહદ",
+        "district_name": "ડહોડ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4207",
+        "market_name": "સાગમ",
+        "district_name": "પાનાનું",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4224",
+        "market_name": "તલવાર",
+        "district_name": "દાદા",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4242",
+        "market_name": "ગીત",
+        "district_name": "માંદગી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4243",
+        "market_name": "સોન્ગાડ (બદપરપડા)",
+        "district_name": "માંદગી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4244",
+        "market_name": "સોન્ગાડ (ઉમરાડા)",
+        "district_name": "માંદગી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4283",
+        "market_name": "સુઘડ",
+        "district_name": "ડામ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4317",
+        "market_name": "માંદગી",
+        "district_name": "માંદગી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4318",
+        "market_name": "સુરત (ઓલ્ડ સરદાર માર્કેટ)",
+        "district_name": "માંદગી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4321",
+        "market_name": "સુમેળ",
+        "district_name": "સુરેન્દ્રનગર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4327",
+        "market_name": "સુત્રાપદ",
+        "district_name": "ગિર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4340",
+        "market_name": "તલાલા",
+        "district_name": "જૂનાગ.",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4341",
+        "market_name": "તલાલાગિર",
+        "district_name": "ગિર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4342",
+        "market_name": "તલાલાગિર",
+        "district_name": "જૂનાગ.",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4345",
+        "market_name": "તાલજા",
+        "district_name": "ભવનનગર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4349",
+        "market_name": "ટેલોડ",
+        "district_name": "સાબરકંથા",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4350",
+        "market_name": "ટેલોદ (હર્ષોલ)",
+        "district_name": "સાબરકંથા",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4372",
+        "market_name": "ટાંકરા",
+        "district_name": "મોર્બી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4379",
+        "market_name": "તારાપુર",
+        "district_name": "દાદા",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4422",
+        "market_name": "થેગડ",
+        "district_name": "સુરેન્દ્રનગર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4425",
+        "market_name": "થરા",
+        "district_name": "પાનાનું",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4426",
+        "market_name": "થરા (શિહોરી)",
+        "district_name": "પાનાનું",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4427",
+        "market_name": "થરાદ",
+        "district_name": "પાનાનું",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4428",
+        "market_name": "થરાદ (રહે)",
+        "district_name": "પાનાનું",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4430",
+        "market_name": "થસારા",
+        "district_name": "Khષધ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4431",
+        "market_name": "થસારા (ડોકર)",
+        "district_name": "Khષધ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4493",
+        "market_name": "તિલકવાડા",
+        "district_name": "બુદ્ધિ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4498",
+        "market_name": "લાકડાનો અવાજ",
+        "district_name": "અમૂલ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4555",
+        "market_name": "જાદુઈ",
+        "district_name": "માંદગી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4556",
+        "market_name": "ઉચાલ (કેરોદ)",
+        "district_name": "માંદગી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4582",
+        "market_name": "ઉમરલા",
+        "district_name": "ભવનનગર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4586",
+        "market_name": "ઉમર્ગામ",
+        "district_name": "વાલસેડ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4591",
+        "market_name": "ઉમર્પડા",
+        "district_name": "માંદગી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4593",
+        "market_name": "ઉમરેથ",
+        "district_name": "દાદા",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4594",
+        "market_name": "અનુપાદ",
+        "district_name": "ગિર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4595",
+        "market_name": "અનુપાદ",
+        "district_name": "જૂનાગ.",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4597",
+        "market_name": "સમન્વય",
+        "district_name": "મેહસાના",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4602",
+        "market_name": "ઉન્માદ",
+        "district_name": "મેહસાના",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4604",
+        "market_name": "ઉપસ્થિત",
+        "district_name": "રાજકોટ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4619",
+        "market_name": "વાડલી",
+        "district_name": "સાબરકંથા",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4623",
+        "market_name": "ખલાસી",
+        "district_name": "પાનાનું",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4625",
+        "market_name": "વાણ",
+        "district_name": "સુરેન્દ્રનગર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4626",
+        "market_name": "VADIA",
+        "district_name": "અમૂલ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4628",
+        "market_name": "વારાફરતી",
+        "district_name": "મેહસાના",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4629",
+        "market_name": "વડનગર (ખેરાલુ)",
+        "district_name": "મેહસાના",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4630",
+        "market_name": "વાટ",
+        "district_name": "વડોદરા (બરોડા)",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4631",
+        "market_name": "વડોદરા (નવપુરા)",
+        "district_name": "વડોદરા (બરોડા)",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4632",
+        "market_name": "વડોદરા (સયાજીપુરા)",
+        "district_name": "વડોદરા (બરોડા)",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4636",
+        "market_name": "વાંકું",
+        "district_name": "ડામ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4637",
+        "market_name": "વાગ્યો",
+        "district_name": "વડોદરા (બરોડા)",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4648",
+        "market_name": "ગંદી",
+        "district_name": "ભારુચ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4649",
+        "market_name": "વાલિયા (નેથ્રંગ)",
+        "district_name": "ભારુચ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4651",
+        "market_name": "વલ્લબબાર",
+        "district_name": "ભવનનગર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4656",
+        "market_name": "શબલ",
+        "district_name": "માંદગી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4657",
+        "market_name": "વાલોદ (બુહારી)",
+        "district_name": "માંદગી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4659",
+        "market_name": "વાલસેડ",
+        "district_name": "વાલસેડ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4660",
+        "market_name": "વાલસાડ (ડુંગરી)",
+        "district_name": "વાલસેડ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4672",
+        "market_name": "વાંકું",
+        "district_name": "મોર્બી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4673",
+        "market_name": "વાંકનેર (પેટા યાર્ડ)",
+        "district_name": "મોર્બી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4674",
+        "market_name": "વાંસા",
+        "district_name": "નવમા",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4675",
+        "market_name": "વાનસા (લિમ્ઝાર)",
+        "district_name": "નવમા",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4677",
+        "market_name": "એક જાતની કળા",
+        "district_name": "જૂનાગ.",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4678",
+        "market_name": "વાંછે",
+        "district_name": "વાલસેડ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4679",
+        "market_name": "વરણાગ",
+        "district_name": "પૌષ્ટિક",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4693",
+        "market_name": "વાટો",
+        "district_name": "Khષધ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4696",
+        "market_name": "વાવ",
+        "district_name": "પાનાનું",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4738",
+        "market_name": "વેરાવલ",
+        "district_name": "ગિર",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4739",
+        "market_name": "વેરાવલ",
+        "district_name": "જૂનાગ.",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4743",
+        "market_name": "વિજાપુર",
+        "district_name": "મેહસાના",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4744",
+        "market_name": "વિજાપુર (ગાજજારીયા)",
+        "district_name": "મેહસાના",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4745",
+        "market_name": "વિજાપુર (કુકારવાડા)",
+        "district_name": "મેહસાના",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4746",
+        "market_name": "વિજાપુર (લાડોલ)",
+        "district_name": "મેહસાના",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4747",
+        "market_name": "વિજાપુર (શાકાહારી)",
+        "district_name": "મેહસાના",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4755",
+        "market_name": "વિજયનાગર (કુંડલાકપ)",
+        "district_name": "સાબરકંથા",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4768",
+        "market_name": "વિરામગામ",
+        "district_name": "અમદાવાદ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4769",
+        "market_name": "વિરજ",
+        "district_name": "Khષધ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4775",
+        "market_name": "વિઝાર",
+        "district_name": "જૂનાગ.",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4778",
+        "market_name": "વિજ્નેગર",
+        "district_name": "મેહસાના",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4790",
+        "market_name": "વ્યાર (પાતી)",
+        "district_name": "માંદગી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4791",
+        "market_name": "સ્વર",
+        "district_name": "માંદગી",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4835",
+        "market_name": "ઝાલોદ (સંજેલી)",
+        "district_name": "ડહોડ",
+        "state_name": "ગુજરાત"
+    },
+    {
+        "market_id": "4836",
+        "market_name": "ઝલોદ (ઝલોદ)",
+        "district_name": "ડહોડ",
+        "state_name": "ગુજરાત"
+    }
+]

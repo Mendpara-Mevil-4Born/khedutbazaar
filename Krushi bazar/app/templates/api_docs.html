@@ -1,0 +1,330 @@
+{% extends "base.html" %}
+
+{% block title %}{{ title }}{% endblock %}
+
+{% block content %}
+<!-- API Docs Hero Section -->
+<section class="hero-section">
+    <div class="container text-center">
+        <h1 class="display-4 fw-bold mb-3">
+            <i class="fas fa-code me-3"></i>API Documentation
+        </h1>
+        <p class="lead">Complete API reference for Khedut Bazaar location data</p>
+    </div>
+</section>
+
+<!-- API Documentation Content -->
+<section class="container mb-5">
+    <div class="row">
+        <div class="col-lg-8 mx-auto">
+            <!-- Overview -->
+            <div class="card mb-4">
+                <div class="card-body">
+                    <h2 class="fw-bold text-dark mb-3">Overview</h2>
+                    <p>The Khedut Bazaar API provides access to location data including states, districts, and markets scraped from <a href="https://agriplus.in/price/all" target="_blank">Agriplus.in</a>.</p>
+                    
+                    <div class="alert alert-info">
+                        <h6><i class="fas fa-info-circle me-2"></i>Base URL</h6>
+                        <code>https://khedut-bazaar.4born.com/api</code>
+                    </div>
+                    
+                    <div class="alert alert-success">
+                        <h6><i class="fas fa-check-circle me-2"></i>Authentication</h6>
+                        <p class="mb-0">No authentication required. All endpoints are publicly accessible.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Health Check -->
+            <div class="card mb-4">
+                <div class="card-body">
+                    <h3 class="fw-bold text-dark mb-3">Health Check</h3>
+                    <div class="api-endpoint">
+                        <h6 class="fw-bold method-get">GET /api/health</h6>
+                        <p class="text-muted">Check API health and get available endpoints</p>
+                        
+                        <h6>Response:</h6>
+                        <pre><code>{
+  "status": "healthy",
+  "service": "Khedut Bazaar API",
+  "version": "1.0.0",
+  "timestamp": "2024-01-01T12:00:00",
+  "endpoints": {
+    "states": "/api/states",
+    "districts": "/api/states/&lt;state_id&gt;/districts",
+    "markets": "/api/states/&lt;state_id&gt;/districts/&lt;district_id&gt;/markets",
+    "stats": "/api/stats"
+  }
+}</code></pre>
+                        
+                        <a href="/api/health" class="btn btn-sm btn-outline-success">Test Endpoint</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- States API -->
+            <div class="card mb-4">
+                <div class="card-body">
+                    <h3 class="fw-bold text-dark mb-3">States</h3>
+                    <div class="api-endpoint">
+                        <h6 class="fw-bold method-get">GET /api/states</h6>
+                        <p class="text-muted">Get all states with their IDs</p>
+                        
+                        <h6>Response:</h6>
+                        <pre><code>{
+  "status": "success",
+  "data": [
+    {
+      "id": 1,
+      "name": "Andaman and Nicobar"
+    },
+    {
+      "id": 2,
+      "name": "Andhra Pradesh"
+    }
+  ],
+  "count": 36,
+  "timestamp": "2024-01-01T12:00:00"
+}</code></pre>
+                        
+                        <a href="/api/states" class="btn btn-sm btn-outline-success">Test Endpoint</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Districts API -->
+            <div class="card mb-4">
+                <div class="card-body">
+                    <h3 class="fw-bold text-dark mb-3">Districts</h3>
+                    <div class="api-endpoint">
+                        <h6 class="fw-bold method-get">GET /api/states/{state_id}/districts</h6>
+                        <p class="text-muted">Get districts for a specific state</p>
+                        
+                        <h6>Parameters:</h6>
+                        <ul>
+                            <li><code>state_id</code> (integer, required) - The ID of the state</li>
+                        </ul>
+                        
+                        <h6>Response:</h6>
+                        <pre><code>{
+  "status": "success",
+  "data": [
+    {
+      "id": 130,
+      "name": "Ahmedabad"
+    },
+    {
+      "id": 131,
+      "name": "Amreli"
+    }
+  ],
+  "count": 33,
+  "state_id": 11,
+  "timestamp": "2024-01-01T12:00:00"
+}</code></pre>
+                        
+                        <a href="/api/states/11/districts" class="btn btn-sm btn-outline-success">Test Endpoint</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Markets API -->
+            <div class="card mb-4">
+                <div class="card-body">
+                    <h3 class="fw-bold text-dark mb-3">Markets</h3>
+                    <div class="api-endpoint">
+                        <h6 class="fw-bold method-get">GET /api/states/{state_id}/districts/{district_id}/markets</h6>
+                        <p class="text-muted">Get markets for a specific state and district</p>
+                        
+                        <h6>Parameters:</h6>
+                        <ul>
+                            <li><code>state_id</code> (integer, required) - The ID of the state</li>
+                            <li><code>district_id</code> (integer, required) - The ID of the district</li>
+                        </ul>
+                        
+                        <h6>Response:</h6>
+                        <pre><code>{
+  "status": "success",
+  "data": [
+    {
+      "id": 686,
+      "name": "Bhavnagar"
+    },
+    {
+      "id": 687,
+      "name": "Botad"
+    }
+  ],
+  "count": 5,
+  "state_id": 11,
+  "district_id": 136,
+  "timestamp": "2024-01-01T12:00:00"
+}</code></pre>
+                        
+                        <a href="/api/states/11/districts/136/markets" class="btn btn-sm btn-outline-success">Test Endpoint</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Alternative Markets API -->
+            <div class="card mb-4">
+                <div class="card-body">
+                    <h3 class="fw-bold text-dark mb-3">Markets by District Only</h3>
+                    <div class="api-endpoint">
+                        <h6 class="fw-bold method-get">GET /api/districts/{district_id}/markets</h6>
+                        <p class="text-muted">Get markets for a specific district (alternative endpoint)</p>
+                        
+                        <h6>Parameters:</h6>
+                        <ul>
+                            <li><code>district_id</code> (integer, required) - The ID of the district</li>
+                        </ul>
+                        
+                        <h6>Response:</h6>
+                        <pre><code>{
+  "status": "success",
+  "data": [
+    {
+      "id": 686,
+      "name": "Bhavnagar"
+    }
+  ],
+  "count": 1,
+  "district_id": 136,
+  "timestamp": "2024-01-01T12:00:00"
+}</code></pre>
+                        
+                        <a href="/api/districts/136/markets" class="btn btn-sm btn-outline-success">Test Endpoint</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Stats API -->
+            <div class="card mb-4">
+                <div class="card-body">
+                    <h3 class="fw-bold text-dark mb-3">Statistics</h3>
+                    <div class="api-endpoint">
+                        <h6 class="fw-bold method-get">GET /api/stats</h6>
+                        <p class="text-muted">Get database statistics</p>
+                        
+                        <h6>Response:</h6>
+                        <pre><code>{
+  "status": "success",
+  "data": {
+    "states": 36,
+    "districts": 500,
+    "markets": 2500
+  },
+  "timestamp": "2024-01-01T12:00:00"
+}</code></pre>
+                        
+                        <a href="/api/stats" class="btn btn-sm btn-outline-success">Test Endpoint</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Search API -->
+            <div class="card mb-4">
+                <div class="card-body">
+                    <h3 class="fw-bold text-dark mb-3">Search</h3>
+                    <div class="api-endpoint">
+                        <h6 class="fw-bold method-get">GET /api/search?q={query}</h6>
+                        <p class="text-muted">Search locations by name</p>
+                        
+                        <h6>Parameters:</h6>
+                        <ul>
+                            <li><code>q</code> (string, required) - Search query</li>
+                        </ul>
+                        
+                        <h6>Response:</h6>
+                        <pre><code>{
+  "status": "success",
+  "data": {
+    "states": [
+      {
+        "id": 11,
+        "name": "Gujarat"
+      }
+    ],
+    "districts": [
+      {
+        "id": 130,
+        "name": "Ahmedabad",
+        "state_name": "Gujarat"
+      }
+    ],
+    "markets": []
+  },
+  "query": "gujarat",
+  "timestamp": "2024-01-01T12:00:00"
+}</code></pre>
+                        
+                        <a href="/api/search?q=gujarat" class="btn btn-sm btn-outline-success">Test Endpoint</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Error Responses -->
+            <div class="card mb-4">
+                <div class="card-body">
+                    <h3 class="fw-bold text-dark mb-3">Error Responses</h3>
+                    <p>All endpoints return consistent error responses:</p>
+                    
+                    <h6>400 Bad Request:</h6>
+                    <pre><code>{
+  "status": "error",
+  "message": "Query parameter 'q' is required",
+  "timestamp": "2024-01-01T12:00:00"
+}</code></pre>
+                    
+                    <h6>404 Not Found:</h6>
+                    <pre><code>{
+  "status": "error",
+  "message": "Endpoint not found",
+  "timestamp": "2024-01-01T12:00:00"
+}</code></pre>
+                    
+                    <h6>500 Internal Server Error:</h6>
+                    <pre><code>{
+  "status": "error",
+  "message": "Internal server error",
+  "timestamp": "2024-01-01T12:00:00"
+}</code></pre>
+                </div>
+            </div>
+
+            <!-- Usage Examples -->
+            <div class="card mb-4">
+                <div class="card-body">
+                    <h3 class="fw-bold text-dark mb-3">Usage Examples</h3>
+                    
+                    <h6>JavaScript/Fetch:</h6>
+                    <pre><code>// Get all states
+fetch('/api/states')
+  .then(response => response.json())
+  .then(data => console.log(data));
+
+// Get districts for Gujarat (ID: 11)
+fetch('/api/states/11/districts')
+  .then(response => response.json())
+  .then(data => console.log(data));
+
+// Get markets for Ahmedabad district (ID: 130) in Gujarat
+fetch('/api/states/11/districts/130/markets')
+  .then(response => response.json())
+  .then(data => console.log(data));</code></pre>
+                    
+                    <h6>cURL:</h6>
+                    <pre><code># Get all states
+curl https://khedut-bazaar.4born.com/api/states
+
+# Get districts for Gujarat
+curl https://khedut-bazaar.4born.com/api/states/11/districts
+
+# Get markets for Ahmedabad
+curl https://khedut-bazaar.4born.com/api/states/11/districts/130/markets</code></pre>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{% endblock %} 

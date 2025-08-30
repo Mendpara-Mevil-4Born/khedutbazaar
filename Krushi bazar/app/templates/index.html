@@ -1,0 +1,136 @@
+{% extends "base.html" %}
+
+{% block title %}Khedut Bazaar - Agricultural Marketplace{% endblock %}
+
+{% block content %}
+<!-- Hero Section -->
+<section class="hero-gradient text-white py-20">
+    <div class="container mx-auto px-4 text-center">
+        <div class="max-w-4xl mx-auto">
+            <h1 class="text-5xl md:text-6xl font-bold mb-6 animate-pulse-slow">
+                Welcome to Khedut Bazaar
+            </h1>
+            <p class="text-xl md:text-2xl mb-8 text-blue-100">
+                Connecting farmers directly to consumers for fresh, organic produce.
+            </p>
+            <div class="flex flex-col sm:flex-row gap-4 justify-center">
+                <a href="/api-docs" class="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition-colors duration-200 flex items-center justify-center space-x-2">
+                    <i class="fas fa-code"></i>
+                    <span>Explore API</span>
+                </a>
+                <a href="/about" class="border-2 border-white text-white px-8 py-3 rounded-lg font-semibold hover:bg-white hover:text-blue-600 transition-colors duration-200 flex items-center justify-center space-x-2">
+                    <i class="fas fa-info-circle"></i>
+                    <span>Learn More</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Statistics Section -->
+<section class="py-16 bg-white">
+    <div class="container mx-auto px-4">
+        <h2 class="text-3xl font-bold text-center text-gray-800 mb-12">Our Reach</h2>
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-6">
+            <div class="stats-card text-white p-6 rounded-xl text-center card-hover">
+                <div class="text-4xl font-bold mb-2">{{ stats.states }}</div>
+                <div class="text-lg opacity-90">States</div>
+                <i class="fas fa-map text-2xl mt-3 opacity-75"></i>
+            </div>
+            <div class="stats-card text-white p-6 rounded-xl text-center card-hover">
+                <div class="text-4xl font-bold mb-2">{{ stats.districts }}</div>
+                <div class="text-lg opacity-90">Districts</div>
+                <i class="fas fa-city text-2xl mt-3 opacity-75"></i>
+            </div>
+            <div class="stats-card text-white p-6 rounded-xl text-center card-hover">
+                <div class="text-4xl font-bold mb-2">{{ stats.markets }}</div>
+                <div class="text-lg opacity-90">Markets</div>
+                <i class="fas fa-store text-2xl mt-3 opacity-75"></i>
+            </div>
+            <div class="stats-card text-white p-6 rounded-xl text-center card-hover">
+                <div class="text-4xl font-bold mb-2">{{ stats.commodities|default(1068) }}</div>
+                <div class="text-lg opacity-90">Commodities</div>
+                <i class="fas fa-wheat-awn text-2xl mt-3 opacity-75"></i>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Features Section -->
+<section class="py-16 bg-gray-50">
+    <div class="container mx-auto px-4">
+        <h2 class="text-3xl font-bold text-center text-gray-800 mb-12">Why Choose Khedut Bazaar?</h2>
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+            <div class="bg-white p-8 rounded-xl shadow-lg card-hover">
+                <div class="w-16 h-16 bg-green-100 rounded-lg flex items-center justify-center mb-6">
+                    <i class="fas fa-database text-2xl text-green-600"></i>
+                </div>
+                <h3 class="text-xl font-semibold mb-4 text-gray-800">Real-time Data</h3>
+                <p class="text-gray-600">Get live commodity prices from markets across India with automatic data synchronization.</p>
+            </div>
+            <div class="bg-white p-8 rounded-xl shadow-lg card-hover">
+                <div class="w-16 h-16 bg-blue-100 rounded-lg flex items-center justify-center mb-6">
+                    <i class="fas fa-code text-2xl text-blue-600"></i>
+                </div>
+                <h3 class="text-xl font-semibold mb-4 text-gray-800">RESTful API</h3>
+                <p class="text-gray-600">Comprehensive API with detailed documentation for easy integration into your applications.</p>
+            </div>
+            <div class="bg-white p-8 rounded-xl shadow-lg card-hover">
+                <div class="w-16 h-16 bg-purple-100 rounded-lg flex items-center justify-center mb-6">
+                    <i class="fas fa-chart-line text-2xl text-purple-600"></i>
+                </div>
+                <h3 class="text-xl font-semibold mb-4 text-gray-800">Market Insights</h3>
+                <p class="text-gray-600">Track price trends, market analysis, and historical data for informed decision making.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- API Quick Start Section -->
+<section class="py-16 bg-white">
+    <div class="container mx-auto px-4">
+        <h2 class="text-3xl font-bold text-center text-gray-800 mb-12">Quick API Start</h2>
+        <div class="max-w-4xl mx-auto">
+            <div class="bg-gray-900 text-green-400 p-6 rounded-lg font-mono text-sm overflow-x-auto">
+                <div class="mb-4">
+                    <span class="text-gray-400"># Health Check</span><br>
+                    <span class="text-blue-400">curl</span> -X GET <span class="text-yellow-400">https://khedut-bazaar-py.4born.com/api/database/health</span>
+                </div>
+                <div class="mb-4">
+                    <span class="text-gray-400"># Get All States</span><br>
+                    <span class="text-blue-400">curl</span> -X GET <span class="text-yellow-400">https://khedut-bazaar-py.4born.com/api/database/states</span>
+                </div>
+                <div class="mb-4">
+                    <span class="text-gray-400"># Get Commodity Prices</span><br>
+                    <span class="text-blue-400">curl</span> -X GET <span class="text-yellow-400">"https://khedut-bazaar-py.4born.com/api/database/yard?state_id=11&district_id=162"</span>
+                </div>
+                <div>
+                    <span class="text-gray-400"># Scrape New Data</span><br>
+                    <span class="text-blue-400">curl</span> -X GET <span class="text-yellow-400">"https://khedut-bazaar-py.4born.com/scrape/yard?state_id=11&district_id=162"</span>
+                </div>
+            </div>
+            <div class="text-center mt-6">
+                <a href="/api-docs" class="bg-green-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-green-700 transition-colors duration-200">
+                    View Full API Documentation
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Call to Action -->
+<section class="py-16 gradient-bg text-white">
+    <div class="container mx-auto px-4 text-center">
+        <h2 class="text-3xl font-bold mb-6">Ready to Get Started?</h2>
+        <p class="text-xl mb-8 opacity-90">Join thousands of developers using Khedut Bazaar API</p>
+        <div class="flex flex-col sm:flex-row gap-4 justify-center">
+            <a href="/api-docs" class="bg-white text-purple-600 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition-colors duration-200">
+                Start Building
+            </a>
+            <a href="/contact" class="border-2 border-white text-white px-8 py-3 rounded-lg font-semibold hover:bg-white hover:text-purple-600 transition-colors duration-200">
+                Contact Us
+            </a>
+        </div>
+    </div>
+</section>
+{% endblock %}

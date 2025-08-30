@@ -1,0 +1,152 @@
+{% extends "base.html" %}
+
+{% block title %}{{ title }}{% endblock %}
+
+{% block content %}
+<!-- Contact Hero Section -->
+<section class="hero-section">
+    <div class="container text-center">
+        <h1 class="display-4 fw-bold mb-3">
+            <i class="fas fa-envelope me-3"></i>Contact Us
+        </h1>
+        <p class="lead">Get in touch with us for any questions or support</p>
+    </div>
+</section>
+
+<!-- Contact Content -->
+<section class="container mb-5">
+    <div class="row">
+        <div class="col-lg-8 mx-auto">
+            <div class="card">
+                <div class="card-body p-5">
+                    <div class="row">
+                        <div class="col-md-6 mb-4">
+                            <h3 class="fw-bold text-dark mb-4">Get in Touch</h3>
+                            <p class="text-muted mb-4">
+                                Have questions about our platform or need technical support? 
+                                We're here to help you succeed with Khedut Bazaar.
+                            </p>
+                            
+                            <div class="mb-4">
+                                <h6 class="fw-bold text-dark">
+                                    <i class="fas fa-envelope text-primary me-2"></i>Email
+                                </h6>
+                                <p class="text-muted">support@khedut-bazaar.com</p>
+                            </div>
+                            
+                            <div class="mb-4">
+                                <h6 class="fw-bold text-dark">
+                                    <i class="fas fa-phone text-primary me-2"></i>Phone
+                                </h6>
+                                <p class="text-muted">+91 98765 43210</p>
+                            </div>
+                            
+                            <div class="mb-4">
+                                <h6 class="fw-bold text-dark">
+                                    <i class="fas fa-map-marker-alt text-primary me-2"></i>Address
+                                </h6>
+                                <p class="text-muted">
+                                    Khedut Bazaar<br>
+                                    Gujarat, India<br>
+                                    380001
+                                </p>
+                            </div>
+                            
+                            <div class="mb-4">
+                                <h6 class="fw-bold text-dark">
+                                    <i class="fas fa-clock text-primary me-2"></i>Business Hours
+                                </h6>
+                                <p class="text-muted">
+                                    Monday - Friday: 9:00 AM - 6:00 PM<br>
+                                    Saturday: 9:00 AM - 2:00 PM<br>
+                                    Sunday: Closed
+                                </p>
+                            </div>
+                        </div>
+                        
+                        <div class="col-md-6">
+                            <h3 class="fw-bold text-dark mb-4">Send us a Message</h3>
+                            <form>
+                                <div class="mb-3">
+                                    <label for="name" class="form-label">Full Name</label>
+                                    <input type="text" class="form-control" id="name" placeholder="Enter your full name" required>
+                                </div>
+                                
+                                <div class="mb-3">
+                                    <label for="email" class="form-label">Email Address</label>
+                                    <input type="email" class="form-control" id="email" placeholder="Enter your email" required>
+                                </div>
+                                
+                                <div class="mb-3">
+                                    <label for="subject" class="form-label">Subject</label>
+                                    <select class="form-select" id="subject" required>
+                                        <option value="">Select a subject</option>
+                                        <option value="general">General Inquiry</option>
+                                        <option value="technical">Technical Support</option>
+                                        <option value="partnership">Partnership</option>
+                                        <option value="feedback">Feedback</option>
+                                        <option value="other">Other</option>
+                                    </select>
+                                </div>
+                                
+                                <div class="mb-3">
+                                    <label for="message" class="form-label">Message</label>
+                                    <textarea class="form-control" id="message" rows="5" placeholder="Enter your message" required></textarea>
+                                </div>
+                                
+                                <button type="submit" class="btn btn-primary">
+                                    <i class="fas fa-paper-plane me-2"></i>Send Message
+                                </button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Additional Contact Info -->
+<section class="container mb-5">
+    <div class="row">
+        <div class="col-md-4 mb-4">
+            <div class="card text-center h-100">
+                <div class="card-body">
+                    <i class="fas fa-headset fa-3x text-primary mb-3"></i>
+                    <h5 class="fw-bold">Customer Support</h5>
+                    <p class="text-muted">24/7 customer support for all your queries and concerns.</p>
+                    <a href="mailto:support@khedut-bazaar.com" class="btn btn-outline-primary btn-sm">
+                        Contact Support
+                    </a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-md-4 mb-4">
+            <div class="card text-center h-100">
+                <div class="card-body">
+                    <i class="fas fa-code fa-3x text-success mb-3"></i>
+                    <h5 class="fw-bold">Technical Support</h5>
+                    <p class="text-muted">Technical assistance for API integration and development.</p>
+                    <a href="/api-docs" class="btn btn-outline-success btn-sm">
+                        View API Docs
+                    </a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-md-4 mb-4">
+            <div class="card text-center h-100">
+                <div class="card-body">
+                    <i class="fas fa-handshake fa-3x text-warning mb-3"></i>
+                    <h5 class="fw-bold">Partnership</h5>
+                    <p class="text-muted">Interested in partnering with us? Let's discuss opportunities.</p>
+                    <a href="mailto:partnership@khedut-bazaar.com" class="btn btn-outline-warning btn-sm">
+                        Partner With Us
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{% endblock %} 

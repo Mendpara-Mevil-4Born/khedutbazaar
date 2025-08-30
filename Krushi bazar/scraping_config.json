@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "schedule_time": "21:00",
+  "states_to_scrape": [11],
+  "delay_between_requests": 3,
+  "max_retries": 3,
+  "log_file": "scraping_scheduler.log",
+  "description": "Only add state IDs here. The system will automatically get all districts for each state and scrape commodity data."
+} 
