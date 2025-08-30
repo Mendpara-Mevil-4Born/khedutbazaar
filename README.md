@@ -664,5 +664,3 @@ This project is licensed under the MIT License.
 ---
 
 © 2025 Khedut Bazaar. All rights reserved.
-#   k h e d u t b a z a a r  
- 
