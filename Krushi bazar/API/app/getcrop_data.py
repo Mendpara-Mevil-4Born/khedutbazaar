@@ -1,105 +1,11 @@
 from flask import Blueprint, request, jsonify
 from API.db_connect import get_db
 from datetime import datetime
-import aiohttp
+from API.app.translation_service import HybridTranslationService
 import asyncio
 import time
 
 getcrop_data_bp = Blueprint('getcrop_data', __name__)
-
-# Simple in-memory cache for translations
-translation_cache = {}
-
-async def translate_text_async(session, text, target_lang):
-    """Fast translation using unofficial Google Translate API"""
-    url = "https://translate.googleapis.com/translate_a/single"
-    params = {
-        "client": "gtx",
-        "sl": "en",
-        "tl": target_lang,
-        "dt": "t",
-        "q": text
-    }
-    try:
-        async with session.get(url, params=params) as response:
-            res = await response.json()
-            # Extract translated text from response structure
-            translated = "".join([item[0] for item in res[0]])
-            return translated
-    except Exception as e:
-        print(f"Error translating '{text}': {e}")
-        return text
-
-async def batch_translate_crop_data_async(crop_data, target_lang):
-    """Async batch translation for crop data fields"""
-    try:
-        if target_lang in ['hi', 'gu']:  # Hindi or Gujarati
-            # Extract all unique text fields for translation
-            all_texts = []
-            text_mapping = {}  # To track which texts belong to which fields and items
-            
-            for item in crop_data:
-                # Collect commodity names
-                commodity = item['commodity']
-                if commodity not in text_mapping:
-                    text_mapping[commodity] = {'type': 'commodity', 'items': []}
-                    all_texts.append(commodity)
-                text_mapping[commodity]['items'].append(item)
-                
-                # Collect variety names
-                variety = item['variety']
-                if variety not in text_mapping:
-                    text_mapping[variety] = {'type': 'variety', 'items': []}
-                    all_texts.append(variety)
-                text_mapping[variety]['items'].append(item)
-                
-                # Collect market names
-                market_name = item['market_name']
-                if market_name not in text_mapping:
-                    text_mapping[market_name] = {'type': 'market_name', 'items': []}
-                    all_texts.append(market_name)
-                text_mapping[market_name]['items'].append(item)
-                
-                # Collect status messages for both Hindi and Gujarati
-                status = item['status']
-                if status not in text_mapping:
-                    text_mapping[status] = {'type': 'status', 'items': []}
-                    all_texts.append(status)
-                text_mapping[status]['items'].append(item)
-            
-            # Check cache first
-            cache_key = f"crop_data_{target_lang}_{','.join(all_texts)}"
-            if cache_key in translation_cache:
-                translated_texts = translation_cache[cache_key]
-            else:
-                # Create async session and translate all unique texts in parallel
-                async with aiohttp.ClientSession() as session:
-                    tasks = [translate_text_async(session, text, target_lang) for text in all_texts]
-                    translated_texts = await asyncio.gather(*tasks)
-                
-                # Cache the result
-                translation_cache[cache_key] = translated_texts
-            
-            # Create translation dictionary
-            translation_dict = dict(zip(all_texts, translated_texts))
-            
-            # Apply translations to crop data
-            translated_crop_data = []
-            for item in crop_data:
-                translated_item = item.copy()
-                translated_item['commodity'] = translation_dict[item['commodity']]
-                translated_item['variety'] = translation_dict[item['variety']]
-                translated_item['market_name'] = translation_dict[item['market_name']]
-                # Translate status for both Hindi and Gujarati
-                translated_item['status'] = translation_dict[item['status']]
-                translated_crop_data.append(translated_item)
-            
-            return translated_crop_data
-        else:
-            return crop_data  # Return original if language not supported
-    except Exception as e:
-        print(f"Batch translation error: {e}")
-        return crop_data  # Return original on translation error
 
 def timeAgo(dt_input):
     """Handle both string and datetime inputs for timeAgo calculation"""
@@ -186,7 +92,7 @@ def getcrop_data():
         formatted_date = format_price_date(latest['price_date'])
         
         final_data.append({
-            'id': latest['id'],
+            'id': str(latest['id']),  # Convert id to string
             'commodity': latest['commodity'],
             'variety': latest['variety'],
             'modal_price': int(latest['modal_price'] / 5),  # Match PHP: divide by 5, no decimals
@@ -200,8 +106,23 @@ def getcrop_data():
     
     # Translate data if language is specified
     if language in ['hi', 'gu'] and final_data:  # Hindi or Gujarati
-        # Run async batch translation
-        translated_data = asyncio.run(batch_translate_crop_data_async(final_data, language))
+        # Use the HybridTranslationService for accurate translations
+        # First translate commodity names
+        data_with_translated_commodities = asyncio.run(
+            HybridTranslationService.batch_hybrid_translate(final_data, language, 'commodity')
+        )
+        # Then translate variety names
+        data_with_translated_varieties = asyncio.run(
+            HybridTranslationService.batch_hybrid_translate(data_with_translated_commodities, language, 'variety')
+        )
+        # Then translate market names
+        data_with_translated_markets = asyncio.run(
+            HybridTranslationService.batch_hybrid_translate(data_with_translated_varieties, language, 'market_name')
+        )
+        # Finally translate status messages
+        translated_data = asyncio.run(
+            HybridTranslationService.batch_hybrid_translate(data_with_translated_markets, language, 'status')
+        )
         return jsonify({'status': 'success', 'data': translated_data})
     else:
         # Return original data for English or unsupported languages

@@ -1,97 +1,10 @@
 from flask import Blueprint, request, jsonify
 from API.db_connect import get_db
 from datetime import datetime, timedelta
-import aiohttp
+from API.app.translation_service import HybridTranslationService
 import asyncio
-import time
 
 commodity_stats_bp = Blueprint('commodity_stats', __name__)
-
-# Simple in-memory cache for translations
-translation_cache = {}
-
-async def translate_text_async(session, text, target_lang):
-    """Fast translation using unofficial Google Translate API"""
-    url = "https://translate.googleapis.com/translate_a/single"
-    params = {
-        "client": "gtx",
-        "sl": "en",
-        "tl": target_lang,
-        "dt": "t",
-        "q": text
-    }
-    try:
-        async with session.get(url, params=params) as response:
-            res = await response.json()
-            # Extract translated text from response structure
-            translated = "".join([item[0] for item in res[0]])
-            return translated
-    except Exception as e:
-        print(f"Error translating '{text}': {e}")
-        return text
-
-async def batch_translate_commodity_stats_async(stats_data, target_lang):
-    """Async batch translation for commodity stats fields"""
-    try:
-        if target_lang in ['hi', 'gu']:  # Hindi or Gujarati
-            # Extract all unique text fields for translation
-            all_texts = []
-            text_mapping = {}  # To track which texts belong to which fields and items
-            
-            for item in stats_data:
-                # Collect commodity names
-                commodity = item['commodity']
-                if commodity not in text_mapping:
-                    text_mapping[commodity] = {'type': 'commodity', 'items': []}
-                    all_texts.append(commodity)
-                text_mapping[commodity]['items'].append(item)
-                
-                # Collect variety names
-                variety = item['variety']
-                if variety not in text_mapping:
-                    text_mapping[variety] = {'type': 'variety', 'items': []}
-                    all_texts.append(variety)
-                text_mapping[variety]['items'].append(item)
-                
-                # Collect status messages for both Hindi and Gujarati
-                status = item['status']
-                if status not in text_mapping:
-                    text_mapping[status] = {'type': 'status', 'items': []}
-                    all_texts.append(status)
-                text_mapping[status]['items'].append(item)
-            
-            # Check cache first
-            cache_key = f"commodity_stats_{target_lang}_{','.join(all_texts)}"
-            if cache_key in translation_cache:
-                translated_texts = translation_cache[cache_key]
-            else:
-                # Create async session and translate all unique texts in parallel
-                async with aiohttp.ClientSession() as session:
-                    tasks = [translate_text_async(session, text, target_lang) for text in all_texts]
-                    translated_texts = await asyncio.gather(*tasks)
-                
-                # Cache the result
-                translation_cache[cache_key] = translated_texts
-            
-            # Create translation dictionary
-            translation_dict = dict(zip(all_texts, translated_texts))
-            
-            # Apply translations to stats data
-            translated_stats_data = []
-            for item in stats_data:
-                translated_item = item.copy()
-                translated_item['commodity'] = translation_dict[item['commodity']]
-                translated_item['variety'] = translation_dict[item['variety']]
-                # Translate status for both Hindi and Gujarati
-                translated_item['status'] = translation_dict[item['status']]
-                translated_stats_data.append(translated_item)
-            
-            return translated_stats_data
-        else:
-            return stats_data  # Return original if language not supported
-    except Exception as e:
-        print(f"Batch translation error: {e}")
-        return stats_data  # Return original on translation error
 
 def format_price_date(date_str):
     """Handle different date formats and return consistent format"""
@@ -124,6 +37,36 @@ def commodity_stats():
     if not market_id:
         return jsonify({'status': 'error', 'message': 'Market ID is required'})
 
+    # Auto-detect input language and translate to English for database query
+    original_commodity = commodity
+    original_variety = variety
+    
+    # Always translate input to English for database query (regardless of input language)
+    try:
+        # Create temporary data for translation
+        temp_data = [{'commodity': commodity, 'variety': variety}]
+        
+        # Auto-detect language and translate commodity to English for database query
+        translated_data = asyncio.run(
+            HybridTranslationService.batch_detect_and_translate_to_english(temp_data, 'commodity')
+        )
+        commodity = translated_data[0]['commodity']
+        
+        # Auto-detect language and translate variety to English for database query
+        translated_data = asyncio.run(
+            HybridTranslationService.batch_detect_and_translate_to_english(temp_data, 'variety')
+        )
+        variety = translated_data[0]['variety']
+        
+        print(f"Translated input - Original: {original_commodity} -> English: {commodity}")
+        print(f"Translated input - Original: {original_variety} -> English: {variety}")
+        
+    except Exception as e:
+        print(f"Translation error for input parameters: {e}")
+        # If translation fails, use original values
+        commodity = original_commodity
+        variety = original_variety
+
     from_date = (datetime.now() - timedelta(days=days)).strftime('%Y-%m-%d')
     to_date = datetime.now().strftime('%Y-%m-%d')
 
@@ -155,7 +98,7 @@ def commodity_stats():
         formatted_date = format_price_date(row['price_date'])
         
         temp_data.append({
-            'id': row['id'],
+            'id': str(row['id']),
             'commodity': row['commodity'],
             'variety': row['variety'],
             'modal_price': int(row['modal_price'] / 5),  # Match PHP: divide by 5, no decimals
@@ -182,8 +125,20 @@ def commodity_stats():
         
         # Translate data if language is specified
         if language in ['hi', 'gu'] and all_data:  # Hindi or Gujarati
-            # Run async batch translation
-            translated_data = asyncio.run(batch_translate_commodity_stats_async(all_data, language))
+            # Use the HybridTranslationService for accurate translations
+            # First translate commodity names
+            data_with_translated_commodities = asyncio.run(
+                HybridTranslationService.batch_hybrid_translate(all_data, language, 'commodity')
+            )
+            # Then translate variety names
+            data_with_translated_varieties = asyncio.run(
+                HybridTranslationService.batch_hybrid_translate(data_with_translated_commodities, language, 'variety')
+            )
+            # Finally translate status messages
+            translated_data = asyncio.run(
+                HybridTranslationService.batch_hybrid_translate(data_with_translated_varieties, language, 'status')
+            )
+            
             return jsonify({
                 'status': 'success',
                 'filter_days': days,

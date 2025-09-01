@@ -1,0 +1,3744 @@
+{
+  "markets": [
+    {
+      "english": "27-A",
+      "hindi": "27-ए",
+      "gujarati": "27-એ"
+    },
+    {
+      "english": "4th Mile Dimapur",
+      "hindi": "4थ माइल दीमापुर",
+      "gujarati": "4થી માઇલ દિમાપુર"
+    },
+    {
+      "english": "50-GB",
+      "hindi": "50-जीबी",
+      "gujarati": "50-જીબી"
+    },
+    {
+      "english": "A lot",
+      "hindi": "ए लॉट",
+      "gujarati": "એ લોટ"
+    },
+    {
+      "english": "A.A.Nagar,Kurnool,RBZ",
+      "hindi": "ए.ए.नगर,कुरनूल,आरबीजेड",
+      "gujarati": "એ.એ.નગર,કુર્નૂલ,આરબીઝેડ"
+    },
+    {
+      "english": "Aamdi",
+      "hindi": "आमड़ी",
+      "gujarati": "આમડી"
+    },
+    {
+      "english": "Aarah",
+      "hindi": "आरा",
+      "gujarati": "આરા"
+    },
+    {
+      "english": "Aarni",
+      "hindi": "आरनी",
+      "gujarati": "આર્ની"
+    },
+    {
+      "english": "Aashta(F&V)",
+      "hindi": "आष्टा(एफएंडवी)",
+      "gujarati": "આષ્ટા(એફએન્ડવી)"
+    },
+    {
+      "english": "Aatpadi",
+      "hindi": "आटपड़ी",
+      "gujarati": "આટપડી"
+    },
+    {
+      "english": "Abadasa",
+      "hindi": "अबदासा",
+      "gujarati": "અબદાસા"
+    },
+    {
+      "english": "Abhanpur",
+      "hindi": "अभनपुर",
+      "gujarati": "અભનપુર"
+    },
+    {
+      "english": "Abohar",
+      "hindi": "अबोहर",
+      "gujarati": "અબોહર"
+    },
+    {
+      "english": "Abu Road",
+      "hindi": "आबू रोड",
+      "gujarati": "આબુ રોડ"
+    },
+    {
+      "english": "ACF Agro Marketing",
+      "hindi": "एसीएफ एग्रो मार्केटिंग",
+      "gujarati": "એસીએફ એગ્રો માર્કેટિંગ"
+    },
+    {
+      "english": "Achalda",
+      "hindi": "अचलदा",
+      "gujarati": "અચલદા"
+    },
+    {
+      "english": "Achalpur",
+      "hindi": "अचलपुर",
+      "gujarati": "અચલપુર"
+    },
+    {
+      "english": "Achampet",
+      "hindi": "अचम्पेट",
+      "gujarati": "અચમ્પેટ"
+    },
+    {
+      "english": "Achampet(Amrabad)",
+      "hindi": "अचम्पेट(अमराबाद)",
+      "gujarati": "અચમ્પેટ(અમરાબાદ)"
+    },
+    {
+      "english": "Achampet(Lingal)",
+      "hindi": "अचम्पेट(लिंगल)",
+      "gujarati": "અચમ્પેટ(લિંગલ)"
+    },
+    {
+      "english": "Achanta",
+      "hindi": "अचंता",
+      "gujarati": "અચંતા"
+    },
+    {
+      "english": "Acharapakkam",
+      "hindi": "अचारापक्कम",
+      "gujarati": "અચારાપક્કમ"
+    },
+    {
+      "english": "Achnera",
+      "hindi": "अछनेरा",
+      "gujarati": "અછનેરા"
+    },
+    {
+      "english": "Adampur",
+      "hindi": "अदमपुर",
+      "gujarati": "અદમપુર"
+    },
+    {
+      "english": "Adampur(Agroha)",
+      "hindi": "अदमपुर(अग्रोहा)",
+      "gujarati": "અદમપુર(અગ્રોહા)"
+    },
+    {
+      "english": "Adampur(Bahodinpur)",
+      "hindi": "अदमपुर(बहोदिनपुर)",
+      "gujarati": "અદમપુર(બહોદિનપુર)"
+    },
+    {
+      "english": "Adampur(Daroli Kalan)",
+      "hindi": "अदमपुर(दारोली कलां)",
+      "gujarati": "અદમપુર(દારોલી કલાં)"
+    },
+    {
+      "english": "Addanki",
+      "hindi": "अड्डंकी",
+      "gujarati": "અડ્ડંકી"
+    },
+    {
+      "english": "Adilabad",
+      "hindi": "अदिलाबाद",
+      "gujarati": "અદિલાબાદ"
+    },
+    {
+      "english": "Adilabad(Rythu Bazar)",
+      "hindi": "अदिलाबाद(रैथु बाजार)",
+      "gujarati": "અદિલાબાદ(રૈથુ બજાર)"
+    },
+    {
+      "english": "Adimali",
+      "hindi": "अदिमाली",
+      "gujarati": "અદિમાલી"
+    },
+    {
+      "english": "Adithyapuram",
+      "hindi": "अदिथ्यापुरम",
+      "gujarati": "અદિથ્યાપુરમ"
+    },
+    {
+      "english": "Adithyapuram VFPCK",
+      "hindi": "अदिथ्यापुरम वीएफपीसीके",
+      "gujarati": "અદિથ્યાપુરમ વીએફપીસીકે"
+    },
+    {
+      "english": "Adoni",
+      "hindi": "अदोनी",
+      "gujarati": "અદોની"
+    },
+    {
+      "english": "Adoni,RBZ",
+      "hindi": "अदोनी,आरबीजेड",
+      "gujarati": "અદોની,આરબીઝેડ"
+    },
+    {
+      "english": "AGALI VFPCK",
+      "hindi": "अगाली वीएफपीसीके",
+      "gujarati": "અગાલી વીએફપીસીકે"
+    },
+    {
+      "english": "Agar",
+      "hindi": "अगर",
+      "gujarati": "અગર"
+    },
+    {
+      "english": "Agar(F&V)",
+      "hindi": "अगर(एफएंडवी)",
+      "gujarati": "અગર(એફએન્ડવી)"
+    },
+    {
+      "english": "Agra",
+      "hindi": "आगरा",
+      "gujarati": "આગરા"
+    },
+    {
+      "english": "Ahemadpur",
+      "hindi": "अहमदपुर",
+      "gujarati": "અહમદપુર"
+    },
+    {
+      "english": "Aheri",
+      "hindi": "अहेरी",
+      "gujarati": "અહેરી"
+    },
+    {
+      "english": "Ahirora",
+      "hindi": "अहिरोरा",
+      "gujarati": "અહિરોરા"
+    },
+    {
+      "english": "Ahivara",
+      "hindi": "अहिवारा",
+      "gujarati": "અહિવારા"
+    },
+    {
+      "english": "Ahmedabad",
+      "hindi": "अहमदाबाद",
+      "gujarati": "અમદાવાદ"
+    },
+    {
+      "english": "Ahmedabad(Chimanbhai Patal Market Vasana)",
+      "hindi": "अहमदाबाद(चिमनभाई पटेल मार्केट वासना)",
+      "gujarati": "અમદાવાદ(ચિમનભાઈ પટેલ માર્કેટ વાસણા)"
+    },
+    {
+      "english": "Ahmedabad(Flower Market Jamalpur)",
+      "hindi": "अहमदाबाद(फूल बाजार जमालपुर)",
+      "gujarati": "અમદાવાદ(ફૂલ માર્કેટ જમાલપુર)"
+    },
+    {
+      "english": "Ahmedabad(Fruit Market, Naroda)",
+      "hindi": "अहमदाबाद(फल बाजार, नरोडा)",
+      "gujarati": "અમદાવાદ(ફળ માર્કેટ, નરોડા)"
+    },
+    {
+      "english": "Ahmedabad(Manekchowk)",
+      "hindi": "अहमदाबाद(मानेकचोक)",
+      "gujarati": "અમદાવાદ(માનેકચોક)"
+    },
+    {
+      "english": "Ahmedabad(Rajnagar sub yard)",
+      "hindi": "अहमदाबाद(राजनगर उप यार्ड)",
+      "gujarati": "અમદાવાદ(રાજનગર સબ યાર્ડ)"
+    },
+    {
+      "english": "Ahmedgarh",
+      "hindi": "अहमदगढ़",
+      "gujarati": "અહમદગઢ"
+    },
+    {
+      "english": "Ahmednagar",
+      "hindi": "अहमदनगर",
+      "gujarati": "અમદનગર"
+    },
+    {
+      "english": "Ahmedpur",
+      "hindi": "अहमदपुर",
+      "gujarati": "અહમદપુર"
+    },
+    {
+      "english": "Ahwa-Dang",
+      "hindi": "अहवा-डांग",
+      "gujarati": "અહવા-ડાંગ"
+    },
+    {
+      "english": "Aiginia Mandi",
+      "hindi": "ऐगिनिया मंडी",
+      "gujarati": "ઐગિનિયા મંડી"
+    },
+    {
+      "english": "Airwan",
+      "hindi": "एरवां",
+      "gujarati": "એરવાં"
+    },
+    {
+      "english": "Ait",
+      "hindi": "एट",
+      "gujarati": "એટ"
+    },
+    {
+      "english": "Aizuto",
+      "hindi": "ऐजुतो",
+      "gujarati": "ઐઝુતો"
+    },
+    {
+      "english": "AJattihalli(Uzhavar Sandhai )",
+      "hindi": "एजत्तिहल्ली(उझावर संधाई)",
+      "gujarati": "એજત્તિહલ્લી(ઉઝાવર સંધાઈ)"
+    },
+    {
+      "english": "Ajaygarh",
+      "hindi": "अजयगढ़",
+      "gujarati": "અજયગઢ"
+    },
+    {
+      "english": "Ajitwal",
+      "hindi": "अजितवाल",
+      "gujarati": "અજિતવાલ"
+    },
+    {
+      "english": "Ajitwal (Chogawan)",
+      "hindi": "अजितवाल (चोगावां)",
+      "gujarati": "અજિતવાલ (ચોગાવાં)"
+    },
+    {
+      "english": "Ajitwal (Dala)",
+      "hindi": "अजितवाल (डाला)",
+      "gujarati": "અજિતવાલ (ડાલા)"
+    },
+    {
+      "english": "Ajmer (Grain)",
+      "hindi": "अजमेर (अनाज)",
+      "gujarati": "અજમેર (અનાજ)"
+    },
+    {
+      "english": "Ajmer(F&V)",
+      "hindi": "अजमेर(एफएंडवी)",
+      "gujarati": "અજમેર(એફએન્ડવી)"
+    },
+    {
+      "english": "Ajnala",
+      "hindi": "अजनाला",
+      "gujarati": "અજનાલા"
+    },
+    {
+      "english": "Ajnala (Sudhar)",
+      "hindi": "अजनाला (सुधार)",
+      "gujarati": "અજનાલા (સુધાર)"
+    },
+    {
+      "english": "Ajuha",
+      "hindi": "अजुहा",
+      "gujarati": "અજુહા"
+    },
+    {
+      "english": "Akaltara",
+      "hindi": "अकलतरा",
+      "gujarati": "અકલતરા"
+    },
+    {
+      "english": "Akbarpur",
+      "hindi": "अकबरपुर",
+      "gujarati": "અકબરપુર"
+    },
+    {
+      "english": "Akhadabalapur",
+      "hindi": "अखड़ाबलापुर",
+      "gujarati": "અખડાબલાપુર"
+    },
+    {
+      "english": "Akhnoor",
+      "hindi": "अखनूर",
+      "gujarati": "અખનૂર"
+    },
+    {
+      "english": "Akhnur",
+      "hindi": "अखनूर",
+      "gujarati": "અખનૂર"
+    },
+    {
+      "english": "Akiveedu",
+      "hindi": "अकीवीडु",
+      "gujarati": "અકીવીડુ"
+    },
+    {
+      "english": "Akkaiahpalem,RBZ,Visakhapatnam",
+      "hindi": "अक्कैया पालेम,आरबीजेड,विशाखापट्टनम",
+      "gujarati": "અક્કૈયા પાલેમ,આરબીઝેડ,વિશાખાપટ્ટનમ"
+    },
+    {
+      "english": "Akkalkot",
+      "hindi": "अक्कलकोट",
+      "gujarati": "અક્કલકોટ"
+    },
+    {
+      "english": "Akkalkuwa",
+      "hindi": "अक्कलकुवा",
+      "gujarati": "અક્કલકુવા"
+    },
+    {
+      "english": "Aklera",
+      "hindi": "अकलेरा",
+      "gujarati": "અકલેરા"
+    },
+    {
+      "english": "Akluj",
+      "hindi": "अक्लुज",
+      "gujarati": "અક્લુજ"
+    },
+    {
+      "english": "Akodia",
+      "hindi": "अकोदिया",
+      "gujarati": "અકોદિયા"
+    },
+    {
+      "english": "Akodiya",
+      "hindi": "अकोदिया",
+      "gujarati": "અકોદિયા"
+    },
+    {
+      "english": "Akodiya(F&V)",
+      "hindi": "अकोदिया(एफएंडवी)",
+      "gujarati": "અકોદિયા(એફએન્ડવી)"
+    },
+    {
+      "english": "Akola",
+      "hindi": "अकोला",
+      "gujarati": "અકોલા"
+    },
+    {
+      "english": "Akola(Borgaon Manju)",
+      "hindi": "अकोला(बोरगांव मंजू)",
+      "gujarati": "અકોલા(બોરગાંવ મંજુ)"
+    },
+    {
+      "english": "Akole",
+      "hindi": "अकोले",
+      "gujarati": "અકોલે"
+    },
+    {
+      "english": "Akot",
+      "hindi": "अकोट",
+      "gujarati": "અકોટ"
+    },
+    {
+      "english": "Alacode",
+      "hindi": "अलाकोड",
+      "gujarati": "અલાકોડ"
+    },
+    {
+      "english": "Alacode VFPCK",
+      "hindi": "अलाकोड वीएफपीसीके",
+      "gujarati": "અલાકોડ વીએફપીસીકે"
+    },
+    {
+      "english": "Alampur",
+      "hindi": "अलमपुर",
+      "gujarati": "અલમપુર"
+    },
+    {
+      "english": "Alamuru",
+      "hindi": "अलमुरु",
+      "gujarati": "અલમુરુ"
+    },
+    {
+      "english": "Alanda",
+      "hindi": "अलंदा",
+      "gujarati": "અલંદા"
+    },
+    {
+      "english": "Alangeyam",
+      "hindi": "अलंगेयम",
+      "gujarati": "અલંગેયમ"
+    },
+    {
+      "english": "Alangudi",
+      "hindi": "अलंगुड़ी",
+      "gujarati": "અલંગુડી"
+    },
+    {
+      "english": "Alangudi(Uzhavar Sandhai )",
+      "hindi": "अलंगुड़ी(उझावर संधाई)",
+      "gujarati": "અલંગુડી(ઉઝાવર સંધાઈ)"
+    },
+    {
+      "english": "Alappuzha",
+      "hindi": "अलप्पुझा",
+      "gujarati": "અલપ્પુઝા"
+    },
+    {
+      "english": "Alathur",
+      "hindi": "अलाथुर",
+      "gujarati": "અલાથુર"
+    },
+    {
+      "english": "Alenellur VFPCK",
+      "hindi": "अलेनेल्लुर वीएफपीसीके",
+      "gujarati": "અલેનેલ્લુર વીએફપીસીકે"
+    },
+    {
+      "english": "Alengad",
+      "hindi": "अलेंगाड",
+      "gujarati": "અલેંગાડ"
+    },
+    {
+      "english": "Alengad VFPCK",
+      "hindi": "अलेंगाड वीएफपीसीके",
+      "gujarati": "અલેંગાડ વીએફપીસીકે"
+    },
+    {
+      "english": "Aler",
+      "hindi": "अलेर",
+      "gujarati": "અલેર"
+    },
+    {
+      "english": "Alibagh",
+      "hindi": "अलीबाग",
+      "gujarati": "અલીબાગ"
+    },
+    {
+      "english": "Aliganj",
+      "hindi": "अलीगंज",
+      "gujarati": "અલીગંજ"
+    },
+    {
+      "english": "Aligarh",
+      "hindi": "अलीगढ़",
+      "gujarati": "અલીગઢ"
+    },
+    {
+      "english": "Aligarh gon",
+      "hindi": "अलीगढ़ गोण",
+      "gujarati": "અલીગઢ ગોન"
+    },
+    {
+      "english": "Alipurduar",
+      "hindi": "अलीपुरद्वार",
+      "gujarati": "અલીપુરદ્વાર"
+    },
+    {
+      "english": "Alirajpur",
+      "hindi": "अलीराजपुर",
+      "gujarati": "અલીરાજપુર"
+    },
+    {
+      "english": "Alirajpur(F&V)",
+      "hindi": "अलीराजपुर(एफएंडवी)",
+      "gujarati": "અલીરાજપુર(એફએન્ડવી)"
+    },
+    {
+      "english": "Alisher Kalan",
+      "hindi": "अलिशेर कलां",
+      "gujarati": "અલીશેર કલાં"
+    },
+    {
+      "english": "All India Cottonseed Crushers Association",
+      "hindi": "ऑल इंडिया कॉटनसीड क्रशर्स एसोसिएशन",
+      "gujarati": "ઓલ ઇન્ડિયા કોટનસીડ ક્રશર્સ એસોસિએશન"
+    },
+    {
+      "english": "Allagadda",
+      "hindi": "अल्लागड्डा",
+      "gujarati": "અલ્લાગડ્ડા"
+    },
+    {
+      "english": "Allahabad",
+      "hindi": "इलाहाबाद",
+      "gujarati": "ઇલાહાબાદ"
+    },
+    {
+      "english": "Allavaram",
+      "hindi": "अल्लावरम",
+      "gujarati": "અલ્લાવરમ"
+    },
+    {
+      "english": "Alluru",
+      "hindi": "अल्लुरु",
+      "gujarati": "અલ્લુરુ"
+    },
+    {
+      "english": "Along",
+      "hindi": "अलोंग",
+      "gujarati": "અલોંગ"
+    },
+    {
+      "english": "Alot(F&V)",
+      "hindi": "अलोट(एफएंडवी)",
+      "gujarati": "અલોટ(એફએન્ડવી)"
+    },
+    {
+      "english": "Alur",
+      "hindi": "अलुर",
+      "gujarati": "અલુર"
+    },
+    {
+      "english": "Alwal,RBZ",
+      "hindi": "अलवाल,आरबीजेड",
+      "gujarati": "અલવાલ,આરબીઝેડ"
+    },
+    {
+      "english": "Alwar",
+      "hindi": "अलवर",
+      "gujarati": "અલવર"
+    },
+    {
+      "english": "Alwar (F&V)",
+      "hindi": "अलवर (एफएंडवी)",
+      "gujarati": "અલવર (એફએન્ડવી)"
+    },
+    {
+      "english": "Alwar(FV)",
+      "hindi": "अलवर(एफवी)",
+      "gujarati": "અલવર(એફવી)"
+    },
+    {
+      "english": "Amadalavalasa",
+      "hindi": "अमदलावलासा",
+      "gujarati": "અમદલાવલાસા"
+    },
+    {
+      "english": "Amadula",
+      "hindi": "अमदुला",
+      "gujarati": "અમદુલા"
+    },
+    {
+      "english": "Amalapuram",
+      "hindi": "अमलापुरम",
+      "gujarati": "અમલાપુરમ"
+    },
+    {
+      "english": "Amalapuram VFPCK",
+      "hindi": "अमलापुरम वीएफपीसीके",
+      "gujarati": "અમલાપુરમ વીએફપીસીકે"
+    },
+    {
+      "english": "Amalapuram(Mpl. Gate),RBZ",
+      "hindi": "अमलापुरम(एमपीएल गेट),आरबीजेड",
+      "gujarati": "અમલાપુરમ(એમપીએલ ગેટ),આરબીઝેડ"
+    },
+    {
+      "english": "Amalner",
+      "hindi": "अमलनेर",
+      "gujarati": "અમલનેર"
+    },
+    {
+      "english": "Amangal",
+      "hindi": "अमंगल",
+      "gujarati": "અમંગલ"
+    },
+    {
+      "english": "Amarawati",
+      "hindi": "अमरावती",
+      "gujarati": "અમરાવતી"
+    },
+    {
+      "english": "Amargarh",
+      "hindi": "अमरगढ़",
+      "gujarati": "અમરગઢ"
+    },
+    {
+      "english": "Amarpatan",
+      "hindi": "अमरपाटन",
+      "gujarati": "અમરપાટન"
+    },
+    {
+      "english": "Amarpur",
+      "hindi": "अमरपुर",
+      "gujarati": "અમરપુર"
+    },
+    {
+      "english": "Amarwda",
+      "hindi": "अमरवड़ा",
+      "gujarati": "અમરવડા"
+    },
+    {
+      "english": "Ambad (Vadigodri)",
+      "hindi": "अंबड (वडिगोदरी)",
+      "gujarati": "અંબડ (વડિગોદરી)"
+    },
+    {
+      "english": "Ambagan",
+      "hindi": "अंबागन",
+      "gujarati": "અંબાગન"
+    },
+    {
+      "english": "Ambagarh Chowki",
+      "hindi": "अंबागढ़ चौकी",
+      "gujarati": "અંબાગઢ ચૌકી"
+    },
+    {
+      "english": "Ambaha",
+      "hindi": "अंबाहा",
+      "gujarati": "અંબાહા"
+    },
+    {
+      "english": "Ambajipeta",
+      "hindi": "अंबाजीपेटा",
+      "gujarati": "અંબાજીપેટા"
+    },
+    {
+      "english": "Ambala Cantt.",
+      "hindi": "अंबाला कैंट",
+      "gujarati": "અંબાલા કેન્ટ"
+    },
+    {
+      "english": "Ambala City",
+      "hindi": "अंबाला शहर",
+      "gujarati": "અંબાલા શહેર"
+    },
+    {
+      "english": "Ambala City(Subji Mandi)",
+      "hindi": "अंबाला शहर(सब्जी मंडी)",
+      "gujarati": "અંબાલા શહેર(સબ્જી મંડી)"
+    },
+    {
+      "english": "Amballur",
+      "hindi": "अंबल्लुर",
+      "gujarati": "અંબલ્લુર"
+    },
+    {
+      "english": "Amballur VFPCK",
+      "hindi": "अंबल्लुर वीएफपीसीके",
+      "gujarati": "અંબલ્લુર વીએફપીસીકે"
+    },
+    {
+      "english": "Ambasamudram",
+      "hindi": "अंबासमुद्रम",
+      "gujarati": "અંબાસમુદ્રમ"
+    },
+    {
+      "english": "Ambasamudram(Uzhavar Sandhai )",
+      "hindi": "अंबासमुद्रम(उझावर संधाई)",
+      "gujarati": "અંબાસમુદ્રમ(ઉઝાવર સંધાઈ)"
+    },
+    {
+      "english": "Ambattur(Uzhavar Sandhai )",
+      "hindi": "अंबट्टुर(उझावर संधाई)",
+      "gujarati": "અંબટ્ટુર(ઉઝાવર સંધાઈ)"
+    },
+    {
+      "english": "Ambejaogai",
+      "hindi": "अंबेजोगाई",
+      "gujarati": "અંબેજોગાઈ"
+    },
+    {
+      "english": "Ambikapur",
+      "hindi": "अंबिकापुर",
+      "gujarati": "અંબિકાપુર"
+    },
+    {
+      "english": "Ambur",
+      "hindi": "अंबुर",
+      "gujarati": "અંબુર"
+    },
+    {
+      "english": "Amgaon",
+      "hindi": "अमगांव",
+      "gujarati": "અમગાંવ"
+    },
+    {
+      "english": "Amirgadh",
+      "hindi": "अमीरगढ़",
+      "gujarati": "અમીરગઢ"
+    },
+    {
+      "english": "Amloh",
+      "hindi": "अमलोह",
+      "gujarati": "અમલોહ"
+    },
+    {
+      "english": "Amloh(Gobind Garh Mandi)",
+      "hindi": "अमलोह(गोबिंद गढ़ मंडी)",
+      "gujarati": "અમલોહ(ગોબિંદ ગઢ મંડી)"
+    },
+    {
+      "english": "Ammapet(Uzhavar Sandhai )",
+      "hindi": "अम्मापेट(उझावर संधाई)",
+      "gujarati": "અમ્માપેટ(ઉઝાવર સંધાઈ)"
+    },
+    {
+      "english": "Ammoor",
+      "hindi": "अम्मूर",
+      "gujarati": "અમ્મૂર"
+    },
+    {
+      "english": "Amod",
+      "hindi": "अमोड",
+      "gujarati": "અમોડ"
+    },
+    {
+      "english": "Amod(Sarban)",
+      "hindi": "अमोड(सरबन)",
+      "gujarati": "અમોડ(સરબન)"
+    },
+    {
+      "english": "Amoda",
+      "hindi": "अमोदा",
+      "gujarati": "અમોદા"
+    },
+    {
+      "english": "Ampati",
+      "hindi": "अम्पाटी",
+      "gujarati": "અમ્પાટી"
+    },
+    {
+      "english": "Amrawati(Frui & Veg. Market)",
+      "hindi": "अमरावती(फल और सब्जी बाजार)",
+      "gujarati": "અમરાવતી(ફળ અને શાકભાજી માર્કેટ)"
+    },
+    {
+      "english": "Amreli",
+      "hindi": "अमरेली",
+      "gujarati": "અમરેલી"
+    },
+    {
+      "english": "Amritsar",
+      "hindi": "अमृतसर",
+      "gujarati": "અમૃતસર"
+    },
+    {
+      "english": "Amritsar(Amritsar Mewa Mandi)",
+      "hindi": "अमृतसर(अमृतसर मेवा मंडी)",
+      "gujarati": "અમૃતસર(અમૃતસર મેવા મંડી)"
+    },
+    {
+      "english": "Amritsar(Chehreta)",
+      "hindi": "अमृतसर(चेहरटा)",
+      "gujarati": "અમૃતસર(ચેહરેટા)"
+    },
+    {
+      "english": "Amritsar(Takharpura)",
+      "hindi": "अमृतसर(तखारपुरा)",
+      "gujarati": "અમૃતસર(તખારપુરા)"
+    },
+    {
+      "english": "Amroha",
+      "hindi": "अमरोहा",
+      "gujarati": "અમરોહા"
+    },
+    {
+      "english": "Amudalavalasa ,RBZ",
+      "hindi": "अमुदालावलासा ,आरबीजेड",
+      "gujarati": "અમુદાલાવલાસા ,આરબીઝેડ"
+    },
+    {
+      "english": "Anaimalai",
+      "hindi": "अनैमलाई",
+      "gujarati": "અનૈમલાઈ"
+    },
+    {
+      "english": "Anaiyur(Uzhavar Sandhai )",
+      "hindi": "अनैयुर(उझावर संधाई)",
+      "gujarati": "અનૈયુર(ઉઝાવર સંધાઈ)"
+    },
+    {
+      "english": "Anajngaon",
+      "hindi": "अनजंगांव",
+      "gujarati": "અનજંગાંવ"
+    },
+    {
+      "english": "Anakapally",
+      "hindi": "अनाकापल्ली",
+      "gujarati": "અનાકાપલ્લી"
+    },
+    {
+      "english": "Anand",
+      "hindi": "आनंद",
+      "gujarati": "આણંદ"
+    },
+    {
+      "english": "Anand Bazar",
+      "hindi": "आनंद बाजार",
+      "gujarati": "આણંદ બજાર"
+    },
+    {
+      "english": "Anand Nagar",
+      "hindi": "आनंद नगर",
+      "gujarati": "આણંદ નગર"
+    },
+    {
+      "english": "Anand(Veg,Yard,Anand)",
+      "hindi": "आनंद(सब्जी यार्ड,आनंद)",
+      "gujarati": "આણંદ(શાકભાજી યાર્ડ,આણંદ)"
+    },
+    {
+      "english": "Anandapur",
+      "hindi": "आनंदपुर",
+      "gujarati": "આણંદપુર"
+    },
+    {
+      "english": "Anandnagar",
+      "hindi": "आनंदनगर",
+      "gujarati": "આણંદનગર"
+    },
+    {
+      "english": "Anandpur Sahib",
+      "hindi": "आनंदपुर साहिब",
+      "gujarati": "આણંદપુર સાહિબ"
+    },
+    {
+      "english": "Anantapur",
+      "hindi": "अनंतपुर",
+      "gujarati": "અનંતપુર"
+    },
+    {
+      "english": "Ananthapuram",
+      "hindi": "अनंतपुरम",
+      "gujarati": "અનંતપુરમ"
+    },
+    {
+      "english": "Anaparthy",
+      "hindi": "अनापार्थी",
+      "gujarati": "અનાપાર્થી"
+    },
+    {
+      "english": "Anchal",
+      "hindi": "अंचल",
+      "gujarati": "અંચલ"
+    },
+    {
+      "english": "Anchal VFPCK",
+      "hindi": "अंचल वीएफपीसीके",
+      "gujarati": "અંચલ વીએફપીસીકે"
+    },
+    {
+      "english": "Andimadom",
+      "hindi": "अंडिमाडोम",
+      "gujarati": "અંડિમાડોમ"
+    },
+    {
+      "english": "Andipatti(Uzhavar Sandhai )",
+      "hindi": "अंडिपट्टी(उझावर संधाई)",
+      "gujarati": "અંડિપટ્ટી(ઉઝાવર સંધાઈ)"
+    },
+    {
+      "english": "ANGADIPPURAM VFPCK",
+      "hindi": "अंगाडिप्पुरम वीएफपीसीके",
+      "gujarati": "અંગાડિપ્પુરમ વીએફપીસીકે"
+    },
+    {
+      "english": "Angamaly",
+      "hindi": "अंगमाली",
+      "gujarati": "અંગમાલી"
+    },
+    {
+      "english": "Angaura",
+      "hindi": "अंगौरा",
+      "gujarati": "અંગૌરા"
+    },
+    {
+      "english": "Angul",
+      "hindi": "अंगुल",
+      "gujarati": "અંગુલ"
+    },
+    {
+      "english": "Angul(Atthamallick)",
+      "hindi": "अंगुल(अट्ठामल्लिक)",
+      "gujarati": "અંગુલ(અટ્ઠામલ્લિક)"
+    },
+    {
+      "english": "Angul(Jarapada)",
+      "hindi": "अंगुल(जरापाड़ा)",
+      "gujarati": "અંગુલ(જરાપાડા)"
+    },
+    {
+      "english": "Anjad",
+      "hindi": "अंजड़",
+      "gujarati": "અંજડ"
+    },
+    {
+      "english": "Anjad(F&V)",
+      "hindi": "अंजड़(एफएंडवी)",
+      "gujarati": "અંજડ(એફએન્ડવી)"
+    },
+    {
+      "english": "Anjar",
+      "hindi": "अंजार",
+      "gujarati": "અંજાર"
+    },
+    {
+      "english": "Anjar(Veg,Sub Yard)",
+      "hindi": "अंजार(सब्जी,उप यार्ड)",
+      "gujarati": "અંજાર(શાકભાજી,સબ યાર્ડ)"
+    },
+    {
+      "english": "Anjaw",
+      "hindi": "अंजाव",
+      "gujarati": "અંજાવ"
+    },
+    {
+      "english": "Anklav",
+      "hindi": "अंक्लाव",
+      "gujarati": "અંક્લાવ"
+    },
+    {
+      "english": "Anklav(Veg,Market,Asodar)",
+      "hindi": "अंक्लाव(सब्जी बाजार,असोदार)",
+      "gujarati": "અંક્લાવ(શાકભાજી માર્કેટ,અસોદર)"
+    },
+    {
+      "english": "Ankleshwar",
+      "hindi": "अंकलेश्वर",
+      "gujarati": "અંકલેશ્વર"
+    },
+    {
+      "english": "Anna nagar(Uzhavar Sandhai )",
+      "hindi": "अन्ना नगर(उझावर संधाई)",
+      "gujarati": "અન્ના નગર(ઉઝાવર સંધાઈ)"
+    },
+    {
+      "english": "Annamanada VFPCK",
+      "hindi": "अन्नामनदा वीएफपीसीके",
+      "gujarati": "અન્નામનદા વીએફપીસીકે"
+    },
+    {
+      "english": "Annigeri",
+      "hindi": "अन्निगेरी",
+      "gujarati": "અન્નિગેરી"
+    },
+    {
+      "english": "Annur",
+      "hindi": "अन्नूर",
+      "gujarati": "અન્નુર"
+    },
+    {
+      "english": "Anoop Shahar",
+      "hindi": "अनूप शहर",
+      "gujarati": "અનૂપ શહર"
+    },
+    {
+      "english": "Anoopgarh",
+      "hindi": "अनूपगढ़",
+      "gujarati": "અનૂપગઢ"
+    },
+    {
+      "english": "Anta",
+      "hindi": "अंता",
+      "gujarati": "અંતા"
+    },
+    {
+      "english": "Antagarh",
+      "hindi": "अंतागढ़",
+      "gujarati": "અંતાગઢ"
+    },
+    {
+      "english": "Anthiyur",
+      "hindi": "अंथीयुर",
+      "gujarati": "અંથીયુર"
+    },
+    {
+      "english": "Anupgarh",
+      "hindi": "अनूपगढ़",
+      "gujarati": "અનૂપગઢ"
+    },
+    {
+      "english": "Anuppur",
+      "hindi": "अनूपपुर",
+      "gujarati": "અનૂપપુર"
+    },
+    {
+      "english": "Anwala",
+      "hindi": "अनवाला",
+      "gujarati": "અનવાલા"
+    },
+    {
+      "english": "Anyara(EEC)",
+      "hindi": "अन्यारा(ईईसी)",
+      "gujarati": "અન્યારા(ઈઈસી)"
+    },
+    {
+      "english": "Appta",
+      "hindi": "अप्प्टा",
+      "gujarati": "અપ્પ્ટા"
+    },
+    {
+      "english": "Arakalgud",
+      "hindi": "अरकलगुड",
+      "gujarati": "અરકલગુડ"
+    },
+    {
+      "english": "Aralamoodu",
+      "hindi": "अरालामूडु",
+      "gujarati": "અરાલામૂડુ"
+    },
+    {
+      "english": "Arang",
+      "hindi": "अरंग",
+      "gujarati": "અરંગ"
+    },
+    {
+      "english": "Arani",
+      "hindi": "अरनी",
+      "gujarati": "અરણી"
+    },
+    {
+      "english": "Arani(Uzhavar Sandhai )",
+      "hindi": "अरनी(उझावर संधाई)",
+      "gujarati": "અરણી(ઉઝાવર સંધાઈ)"
+    },
+    {
+      "english": "Aranthangi",
+      "hindi": "अरंथांगी",
+      "gujarati": "અરંથાંગી"
+    },
+    {
+      "english": "Aranthangi(Uzhavar Sandhai )",
+      "hindi": "अरंथांगी(उझावर संधाई)",
+      "gujarati": "અરંથાંગી(ઉઝાવર સંધાઈ)"
+    },
+    {
+      "english": "Arasikere",
+      "hindi": "अरसिकेरे",
+      "gujarati": "અરસિકેરે"
+    },
+    {
+      "english": "Arcot",
+      "hindi": "अर्कोट",
+      "gujarati": "અર્કોટ"
+    },
+    {
+      "english": "Arcot(Uzhavar Sandhai )",
+      "hindi": "अर्कोट(उझावर संधाई)",
+      "gujarati": "અર્કોટ(ઉઝાવર સંધાઈ)"
+    },
+    {
+      "english": "Ariyalur Market",
+      "hindi": "अरियालुर बाजार",
+      "gujarati": "અરિયાલુર માર્કેટ"
+    },
+    {
+      "english": "Ariyalur(Uzhavar Sandhai )",
+      "hindi": "अरियालुर(उझावर संधाई)",
+      "gujarati": "અરિયાલુર(ઉઝાવર સંધાઈ)"
+    },
+    {
+      "english": "Arjuni",
+      "hindi": "अर्जुनी",
+      "gujarati": "અર્જુની"
+    },
+    {
+      "english": "Arkonam",
+      "hindi": "अर्कोनम",
+      "gujarati": "અર્કોનમ"
+    },
+    {
+      "english": "Armoor",
+      "hindi": "आरमूर",
+      "gujarati": "આરમૂર"
+    },
+    {
+      "english": "Armori",
+      "hindi": "आरमोरी",
+      "gujarati": "આરમોરી"
+    },
+    {
+      "english": "Armori(Desaiganj)",
+      "hindi": "आरमोरी(देसाईगंज)",
+      "gujarati": "આરમોરી(દેસાઈગંજ)"
+    },
+    {
+      "english": "Arnod",
+      "hindi": "अरनोड",
+      "gujarati": "અરનોડ"
+    },
+    {
+      "english": "Aron",
+      "hindi": "अरोन",
+      "gujarati": "અરોન"
+    },
+    {
+      "english": "Aroor",
+      "hindi": "अरूर",
+      "gujarati": "અરૂર"
+    },
+    {
+      "english": "Arreria",
+      "hindi": "अररेरिया",
+      "gujarati": "અરરેરિયા"
+    },
+    {
+      "english": "Aruppukottai",
+      "hindi": "अरुप्पुकोट्टई",
+      "gujarati": "અરુપ્પુકોટ્ટઈ"
+    },
+    {
+      "english": "Aruppukottai(Uzhavar Sandhai )",
+      "hindi": "अरुप्पुकोट्टई(उझावर संधाई)",
+      "gujarati": "અરુપ્પુકોટ્ટઈ(ઉઝાવર સંધાઈ)"
+    },
+    {
+      "english": "Arur",
+      "hindi": "अरुर",
+      "gujarati": "અરુર"
+    },
+    {
+      "english": "Arvi",
+      "hindi": "अरवी",
+      "gujarati": "અરવી"
+    },
+    {
+      "english": "Arwal",
+      "hindi": "अरवल",
+      "gujarati": "અરવલ"
+    },
+    {
+      "english": "ARYANAD VFPCK",
+      "hindi": "आर्यनाड वीएफपीसीके",
+      "gujarati": "આર્યનાડ વીએફપીસીકે"
+    },
+    {
+      "english": "Asandh",
+      "hindi": "असंध",
+      "gujarati": "અસંધ"
+    },
+    {
+      "english": "Asansol",
+      "hindi": "असनसोल",
+      "gujarati": "અસનસોલ"
+    },
+    {
+      "english": "Ashahipora (Anantnagh)",
+      "hindi": "अशाहीपोरा (अनंतनाग)",
+      "gujarati": "અશાહીપોરા (અનંતનાગ)"
+    },
+    {
+      "english": "Ashoknagar",
+      "hindi": "अशोकनगर",
+      "gujarati": "અશોકનગર"
+    },
+    {
+      "english": "Ashoknagar(F&V)",
+      "hindi": "अशोकनगर(एफएंडवी)",
+      "gujarati": "અશોકનગર(એફએન્ડવી)"
+    },
+    {
+      "english": "Ashpur",
+      "hindi": "अशपुर",
+      "gujarati": "અશપુર"
+    },
+    {
+      "english": "Ashta",
+      "hindi": "अष्टा",
+      "gujarati": "અષ્ટા"
+    },
+    {
+      "english": "Ashti",
+      "hindi": "अष्टि",
+      "gujarati": "અષ્ટી"
+    },
+    {
+      "english": "Ashti(Jalna)",
+      "hindi": "अष्टि(जालना)",
+      "gujarati": "અષ્ટી(જાલના)"
+    },
+    {
+      "english": "Ashti(Karanja)",
+      "hindi": "अष्टि(करंजा)",
+      "gujarati": "અષ્ટી(કરંજા)"
+    },
+    {
+      "english": "Asifabad",
+      "hindi": "असीफाबाद",
+      "gujarati": "અસીફાબાદ"
+    },
+    {
+      "english": "Asifabad(Wankidi)",
+      "hindi": "असीफाबाद(वानकिडी)",
+      "gujarati": "અસીફાબાદ(વાનકિડી)"
+    },
+    {
+      "english": "Atarra",
+      "hindi": "अतर्रा",
+      "gujarati": "અતર્રા"
+    },
+    {
+      "english": "Ateli",
+      "hindi": "अटेली",
+      "gujarati": "અટેલી"
+    },
+    {
+      "english": "Athagarh",
+      "hindi": "अथागढ़",
+      "gujarati": "અથાગઢ"
+    },
+    {
+      "english": "Athani",
+      "hindi": "अथानी",
+      "gujarati": "અથાની"
+    },
+    {
+      "english": "ATHANIKKAL VFPCK",
+      "hindi": "अथानिक्कल वीएफपीसीके",
+      "gujarati": "અથાનિક્કલ વીએફપીસીકે"
+    },
+    {
+      "english": "Athirampuzha",
+      "hindi": "अथिरामपुझा",
+      "gujarati": "અથિરામપુઝા"
+    },
+    {
+      "english": "ATHIRAMPUZHA VFPCK",
+      "hindi": "अथिरामपुझा वीएफपीसीके",
+      "gujarati": "અથિરામપુઝા વીએફપીસીકે"
+    },
+    {
+      "english": "Athur(Uzhavar Sandhai )",
+      "hindi": "अथुर(उझावर संधाई)",
+      "gujarati": "અથુર(ઉઝાવર સંધાઈ)"
+    },
+    {
+      "english": "Atla Kalan",
+      "hindi": "अटला कलां",
+      "gujarati": "અટલા કલાં"
+    },
+    {
+      "english": "Atmakur",
+      "hindi": "अटमकुर",
+      "gujarati": "અટમકુર"
+    },
+    {
+      "english": "Atmakur(SPS)",
+      "hindi": "अटमकुर(एसपीएस)",
+      "gujarati": "અટમકુર(એસપીએસ)"
+    },
+    {
+      "english": "Atrauli",
+      "hindi": "अत्रौली",
+      "gujarati": "અત્રૌલી"
+    },
+    {
+      "english": "Atru",
+      "hindi": "अत्रु",
+      "gujarati": "અત્રુ"
+    },
+    {
+      "english": "Atru(Kawai Salpura)",
+      "hindi": "अत्रु(कवाई सलपुरा)",
+      "gujarati": "અત્રુ(કવાઈ સલપુરા)"
+    },
+    {
+      "english": "Attabira",
+      "hindi": "अट्टाबीरा",
+      "gujarati": "અટ્ટાબીરા"
+    },
+    {
+      "english": "Attari",
+      "hindi": "अट्टारी",
+      "gujarati": "અટ્ટારી"
+    },
+    {
+      "english": "Attayampatti(Uzhavar Sandhai )",
+      "hindi": "अट्टायम्पट्टी(उझावर संधाई)",
+      "gujarati": "અટ્ટાયમ્પટ્ટી(ઉઝાવર સંધાઈ)"
+    },
+    {
+      "english": "Attili",
+      "hindi": "अट्टिली",
+      "gujarati": "અટ્ટિલી"
+    },
+    {
+      "english": "Attingal",
+      "hindi": "अट्टिंगल",
+      "gujarati": "અટ્ટિંગલ"
+    },
+    {
+      "english": "Attur",
+      "hindi": "अट्टूर",
+      "gujarati": "અટ્ટુર"
+    },
+    {
+      "english": "Aurad",
+      "hindi": "औराद",
+      "gujarati": "ઔરાદ"
+    },
+    {
+      "english": "Aurad Shahajani",
+      "hindi": "औराद शाहजानी",
+      "gujarati": "ઔરાદ શાહજાની"
+    },
+    {
+      "english": "Auraiya",
+      "hindi": "औरैया",
+      "gujarati": "ઔરૈયા"
+    },
+    {
+      "english": "Aurangabad",
+      "hindi": "औरंगाबाद",
+      "gujarati": "ઔરંગાબાદ"
+    },
+    {
+      "english": "Ausa",
+      "hindi": "औसा",
+      "gujarati": "ઔસા"
+    },
+    {
+      "english": "Avallapalli(Uzhavar Sandhai )",
+      "hindi": "अवल्लापल्ली(उझावर संधाई)",
+      "gujarati": "અવલ્લાપલ્લી(ઉઝાવર સંધાઈ)"
+    },
+    {
+      "english": "Avalpoonthurai",
+      "hindi": "अवलपूंthurai",
+      "gujarati": "અવલપૂંથુરાઈ"
+    },
+    {
+      "english": "Avalurpet",
+      "hindi": "अवलुरपेट",
+      "gujarati": "અવલુરપેટ"
+    },
+    {
+      "english": "Avarma",
+      "hindi": "अवरमा",
+      "gujarati": "અવરમા"
+    },
+    {
+      "english": "Avarma VFPCK",
+      "hindi": "अवरमा वीएफपीसीके",
+      "gujarati": "અવરમા વીએફપીસીકે"
+    },
+    {
+      "english": "Awagarh",
+      "hindi": "अवागढ़",
+      "gujarati": "અવાગઢ"
+    },
+    {
+      "english": "AYMANAM VFPCK",
+      "hindi": "आयमनम वीएफपीसीके",
+      "gujarati": "આયમનમ વીએફપીસીકે"
+    },
+    {
+      "english": "Azadpur",
+      "hindi": "आजादपुर",
+      "gujarati": "આઝાદપુર"
+    },
+    {
+      "english": "Azamgarh",
+      "hindi": "आजमगढ़",
+      "gujarati": "આઝમગઢ"
+    },
+    {
+      "english": "Babai",
+      "hindi": "बाबई",
+      "gujarati": "બાબઈ"
+    },
+    {
+      "english": "Babain",
+      "hindi": "बबैन",
+      "gujarati": "બબૈન"
+    },
+    {
+      "english": "Baberu",
+      "hindi": "बबेरू",
+      "gujarati": "બબેરુ"
+    },
+    {
+      "english": "Babhulgaon",
+      "hindi": "बाभुलगांव",
+      "gujarati": "બાભુલગાંવ"
+    },
+    {
+      "english": "Babra",
+      "hindi": "बाबरा",
+      "gujarati": "બાબરા"
+    },
+    {
+      "english": "Babrala",
+      "hindi": "बबराला",
+      "gujarati": "બબરાલા"
+    },
+    {
+      "english": "Bachaibari",
+      "hindi": "बचाइबारी",
+      "gujarati": "બચાઈબારી"
+    },
+    {
+      "english": "Bachau",
+      "hindi": "बछाऊ",
+      "gujarati": "બછાઉ"
+    },
+    {
+      "english": "Bachranwa",
+      "hindi": "बछरांवा",
+      "gujarati": "બછરાંવા"
+    },
+    {
+      "english": "Badamalhera",
+      "hindi": "बदामलhera",
+      "gujarati": "બદામલહેરા"
+    },
+    {
+      "english": "Badami",
+      "hindi": "बदामी",
+      "gujarati": "બદામી"
+    },
+    {
+      "english": "Badami(Keruru)",
+      "hindi": "बदामी(केरुरु)",
+      "gujarati": "બદામી(કેરુરુ)"
+    },
+    {
+      "english": "Badarwas",
+      "hindi": "बदरवा",
+      "gujarati": "બદરવા"
+    },
+    {
+      "english": "Badayoun",
+      "hindi": "बदायूं",
+      "gujarati": "બદાયૂં"
+    },
+    {
+      "english": "Badda",
+      "hindi": "बद्दा",
+      "gujarati": "બદ્દા"
+    },
+    {
+      "english": "Badepalli",
+      "hindi": "बडेपल्ली",
+      "gujarati": "બડેપલ્લી"
+    },
+    {
+      "english": "Badhni Kalan",
+      "hindi": "बधनी कलां",
+      "gujarati": "બધની કલાં"
+    },
+    {
+      "english": "Badhni Kallan (Bilaspur)",
+      "hindi": "बधनी कल्लां (बिलासपुर)",
+      "gujarati": "બધની કલ્લાં (બિલાસપુર)"
+    },
+    {
+      "english": "Badhore",
+      "hindi": "बधोरे",
+      "gujarati": "બધોરે"
+    },
+    {
+      "english": "Badi",
+      "hindi": "बड़ी",
+      "gujarati": "બડી"
+    },
+    {
+      "english": "Badnagar",
+      "hindi": "बदनगर",
+      "gujarati": "બદનગર"
+    },
+    {
+      "english": "Badnawar",
+      "hindi": "बदनावर",
+      "gujarati": "બદનાવર"
+    },
+    {
+      "english": "Badnawar(F&V)",
+      "hindi": "बदनावर(एफएंडवी)",
+      "gujarati": "બદનાવર(એફએન્ડવી)"
+    },
+    {
+      "english": "Badod",
+      "hindi": "बड़ोद",
+      "gujarati": "બડોદ"
+    },
+    {
+      "english": "Badrisadri",
+      "hindi": "बद्रीसादरी",
+      "gujarati": "બદ્રીસાદરી"
+    },
+    {
+      "english": "Badrukha",
+      "hindi": "बदरुखा",
+      "gujarati": "બદરુખા"
+    },
+    {
+      "english": "Badshahpur",
+      "hindi": "बादशाहपुर",
+      "gujarati": "બાદશાહપુર"
+    },
+    {
+      "english": "Badvel",
+      "hindi": "बडवेल",
+      "gujarati": "બડવેલ"
+    },
+    {
+      "english": "Badwah(F&V)",
+      "hindi": "बड़वाह(एफएंडवी)",
+      "gujarati": "બડવાહ(એફએન્ડવી)"
+    },
+    {
+      "english": "Badwaha",
+      "hindi": "बड़वाहा",
+      "gujarati": "બડવાહા"
+    },
+    {
+      "english": "Badwani",
+      "hindi": "बड़वानी",
+      "gujarati": "બડવાની"
+    },
+    {
+      "english": "Badwani(F&V)",
+      "hindi": "बड़वानी(एफएंडवी)",
+      "gujarati": "બડવાની(એફએન્ડવી)"
+    },
+    {
+      "english": "Bagalakot",
+      "hindi": "बागलकोट",
+      "gujarati": "બાગલકોટ"
+    },
+    {
+      "english": "Bagalkot(Bigali)",
+      "hindi": "बागलकोट(बिगाली)",
+      "gujarati": "બાગલકોટ(બિગાલી)"
+    },
+    {
+      "english": "Bagalkot(Bilagi)",
+      "hindi": "बागलकोट(बिलागी)",
+      "gujarati": "બાગલકોટ(બિલાગી)"
+    },
+    {
+      "english": "Bagasara",
+      "hindi": "बागासरा",
+      "gujarati": "બાગાસરા"
+    },
+    {
+      "english": "Bagbahra",
+      "hindi": "बागबाहरा",
+      "gujarati": "બાગબાહરા"
+    },
+    {
+      "english": "Bageecha",
+      "hindi": "बगीचा",
+      "gujarati": "બગીચા"
+    },
+    {
+      "english": "Bagepalli",
+      "hindi": "बागेपल्ली",
+      "gujarati": "બાગેપલ્લી"
+    },
+    {
+      "english": "Bagh(Srinagar)",
+      "hindi": "बाग(श्रीनगर)",
+      "gujarati": "બાગ(શ્રીનગર)"
+    },
+    {
+      "english": "Baghapurana",
+      "hindi": "बघापुराना",
+      "gujarati": "બઘાપુરાના"
+    },
+    {
+      "english": "Baghmara",
+      "hindi": "बाघमारा",
+      "gujarati": "બાઘમારા"
+    },
+    {
+      "english": "Baghry",
+      "hindi": "बाघरी",
+      "gujarati": "બાઘરી"
+    },
+    {
+      "english": "Baghty",
+      "hindi": "बाघ्टी",
+      "gujarati": "બાઘ્ટી"
+    },
+    {
+      "english": "Baginadi",
+      "hindi": "बागिनADI",
+      "gujarati": "બાગિનાડી"
+    },
+    {
+      "english": "Bagli",
+      "hindi": "बागली",
+      "gujarati": "બાગલી"
+    },
+    {
+      "english": "Bagpat",
+      "hindi": "बागपत",
+      "gujarati": "બાગપત"
+    },
+    {
+      "english": "Bagru",
+      "hindi": "बागरू",
+      "gujarati": "બાગરુ"
+    },
+    {
+      "english": "Bahadajholla",
+      "hindi": "बहादझोला",
+      "gujarati": "બહાદઝોલા"
+    },
+    {
+      "english": "Bahadurganj",
+      "hindi": "बहादुरगंज",
+      "gujarati": "બહાદુરગંજ"
+    },
+    {
+      "english": "Bahadurgarh",
+      "hindi": "बहादुरगढ़",
+      "gujarati": "બહાદુરગઢ"
+    },
+    {
+      "english": "Bahadurpur (Ekmi Ghat)",
+      "hindi": "बहादुरपुर (एकमी घाट)",
+      "gujarati": "બહાદુરપુર (એકમી ઘાટ)"
+    },
+    {
+      "english": "Bahdsora",
+      "hindi": "बहदसोरा",
+      "gujarati": "બહદસોરા"
+    },
+    {
+      "english": "Bahedi",
+      "hindi": "बाहेदी",
+      "gujarati": "બાહેદી"
+    },
+    {
+      "english": "Bahraich",
+      "hindi": "बहराइच",
+      "gujarati": "બહરાઇચ"
+    },
+    {
+      "english": "Bahrawandakhurd",
+      "hindi": "बह्रावंदाखुर्द",
+      "gujarati": "બહરાવંદાખુર્દ"
+    },
+    {
+      "english": "Bahroad",
+      "hindi": "बहरोड",
+      "gujarati": "બહરોડ"
+    },
+    {
+      "english": "Baikunthpur",
+      "hindi": "बैकुंठपुर",
+      "gujarati": "બૈકુંઠપુર"
+    },
+    {
+      "english": "Bailahongal",
+      "hindi": "बैलाहोंगल",
+      "gujarati": "બૈલાહોંગલ"
+    },
+    {
+      "english": "Bairabi",
+      "hindi": "बैराबी",
+      "gujarati": "બૈરાબી"
+    },
+    {
+      "english": "Bajju",
+      "hindi": "बज्जू",
+      "gujarati": "બજ્જુ"
+    },
+    {
+      "english": "Bajwal",
+      "hindi": "बजवाल",
+      "gujarati": "બજવાલ"
+    },
+    {
+      "english": "Bakani",
+      "hindi": "बकानी",
+      "gujarati": "બકાની"
+    },
+    {
+      "english": "Bakswaha",
+      "hindi": "बकस्वाहा",
+      "gujarati": "બકસ્વાહા"
+    },
+    {
+      "english": "Baktara",
+      "hindi": "बक्तरा",
+      "gujarati": "બક્તરા"
+    },
+    {
+      "english": "Bakthgarh",
+      "hindi": "बक्थगढ़",
+      "gujarati": "બક્થગઢ"
+    },
+    {
+      "english": "Balachaur",
+      "hindi": "बलाचौर",
+      "gujarati": "બલાચૌર"
+    },
+    {
+      "english": "Balaghat",
+      "hindi": "बालाघाट",
+      "gujarati": "બાલાઘાટ"
+    },
+    {
+      "english": "Balaghat(F&V)",
+      "hindi": "बालाघाट(एफएंडवी)",
+      "gujarati": "બાલાઘાટ(એફએન્ડવી)"
+    },
+    {
+      "english": "Balajan Tiniali",
+      "hindi": "बलाजन तिनिअली",
+      "gujarati": "બલાજન તિનિઅલી"
+    },
+    {
+      "english": "Balapur",
+      "hindi": "बालापुर",
+      "gujarati": "બાલાપુર"
+    },
+    {
+      "english": "Balaramapuram VFPCK",
+      "hindi": "बलारामपुरम वीएफपीसीके",
+      "gujarati": "બલારામપુરમ વીએફપીસીકે"
+    },
+    {
+      "english": "Balarampur",
+      "hindi": "बलारामपुर",
+      "gujarati": "બલારામપુર"
+    },
+    {
+      "english": "Balarampuram",
+      "hindi": "बलारामपुरम",
+      "gujarati": "બલારામપુરમ"
+    },
+    {
+      "english": "Balasinor",
+      "hindi": "बलासिनोर",
+      "gujarati": "બલાસિનોર"
+    },
+    {
+      "english": "Bali",
+      "hindi": "बाली",
+      "gujarati": "બાલી"
+    },
+    {
+      "english": "Balianwali",
+      "hindi": "बलियानवाली",
+      "gujarati": "બલિયાનવાલી"
+    },
+    {
+      "english": "Ballabhgarh",
+      "hindi": "बल्लभगढ़",
+      "gujarati": "બલ્લભગઢ"
+    },
+    {
+      "english": "Ballah",
+      "hindi": "बल्लाह",
+      "gujarati": "બલ્લાહ"
+    },
+    {
+      "english": "Ballia",
+      "hindi": "बलिया",
+      "gujarati": "બલિયા"
+    },
+    {
+      "english": "Balliah",
+      "hindi": "बल्लिया",
+      "gujarati": "બલ્લિયા"
+    },
+    {
+      "english": "Balod",
+      "hindi": "बालोद",
+      "gujarati": "બાલોદ"
+    },
+    {
+      "english": "Baloda",
+      "hindi": "बलोदा",
+      "gujarati": "બલોદા"
+    },
+    {
+      "english": "Baloda(Janjgir Campus)",
+      "hindi": "बलोदा(जांजगीर कैंपस)",
+      "gujarati": "બલોદા(જાંજગીર કેમ્પસ)"
+    },
+    {
+      "english": "Balodabazar",
+      "hindi": "बालोदाबाजार",
+      "gujarati": "બાલોદાબજાર"
+    },
+    {
+      "english": "Balotra",
+      "hindi": "बालोतरा",
+      "gujarati": "બાલોતરા"
+    },
+    {
+      "english": "Balrampur",
+      "hindi": "बलरामपुर",
+      "gujarati": "બલરામપુર"
+    },
+    {
+      "english": "Balu",
+      "hindi": "बालू",
+      "gujarati": "બાલુ"
+    },
+    {
+      "english": "Balugaon",
+      "hindi": "बालुगांव",
+      "gujarati": "બાલુગાંવ"
+    },
+    {
+      "english": "Balurghat",
+      "hindi": "बालुरघाट",
+      "gujarati": "બાલુરઘાટ"
+    },
+    {
+      "english": "Balwadi",
+      "hindi": "बलवाड़ी",
+      "gujarati": "બલવાડી"
+    },
+    {
+      "english": "Bamial",
+      "hindi": "बामियाल",
+      "gujarati": "બામિયાલ"
+    },
+    {
+      "english": "Bamora",
+      "hindi": "बमोरा",
+      "gujarati": "બમોરા"
+    },
+    {
+      "english": "Bampada",
+      "hindi": "बंपाड़ा",
+      "gujarati": "બંપાડા"
+    },
+    {
+      "english": "Banaganapalli",
+      "hindi": "बनगनपल्ली",
+      "gujarati": "બનગનપલ્લી"
+    },
+    {
+      "english": "Banapura",
+      "hindi": "बनापुरा",
+      "gujarati": "બનાપુરા"
+    },
+    {
+      "english": "Banapura(F&V)",
+      "hindi": "बनापुरा(एफएंडवी)",
+      "gujarati": "બનાપુરા(એફએન્ડવી)"
+    },
+    {
+      "english": "Banaskantha",
+      "hindi": "बनासकांठा",
+      "gujarati": "બનાસકાંઠા"
+    },
+    {
+      "english": "Banda",
+      "hindi": "बंदा",
+      "gujarati": "બાંદા"
+    },
+    {
+      "english": "Ban...(truncated 53959 characters)...tarthy",
+      "hindi": "बन...(संक्षिप्त 53959 अक्षर)...तर्थी",
+      "gujarati": "બન...(સંક્ષિપ્ત 53959 અક્ષર)...તર્થી"
+    },
+    {
+      "english": "Thodupuzha",
+      "hindi": "थोडुपुझा",
+      "gujarati": "થોડુપુઝા"
+    },
+    {
+      "english": "Thoduvetty",
+      "hindi": "थोडुवेट्टी",
+      "gujarati": "થોડુવેટ્ટી"
+    },
+    {
+      "english": "Thompramkudi",
+      "hindi": "थोम्प्रामकुडी",
+      "gujarati": "થોમ્પ્રામકુડી"
+    },
+    {
+      "english": "Thompramkudi VFPCK",
+      "hindi": "थोम्प्रामकुडी वीएफपीसीके",
+      "gujarati": "થોમ્પ્રામકુડી વીએફપીસીકે"
+    },
+    {
+      "english": "Thondamuthur",
+      "hindi": "थोंडामुथुर",
+      "gujarati": "થોંડામુથુર"
+    },
+    {
+      "english": "Thondernad",
+      "hindi": "थोंडर्नाड",
+      "gujarati": "થોંડરનાડ"
+    },
+    {
+      "english": "Thondernad VFPCK",
+      "hindi": "थोंडर्नाड वीएफपीसीके",
+      "gujarati": "થોંડરનાડ વીએફપીસીકે"
+    },
+    {
+      "english": "Thoothukudi",
+      "hindi": "थूथुकुडी",
+      "gujarati": "થૂથુકુડી"
+    },
+    {
+      "english": "Thorrur",
+      "hindi": "थोरुर",
+      "gujarati": "થોરુર"
+    },
+    {
+      "english": "Thottambedu",
+      "hindi": "थोट्टंबेडु",
+      "gujarati": "થોટ્ટમ્બેડુ"
+    },
+    {
+      "english": "THOTTIPPAL VFPCK",
+      "hindi": "थोट्टिप्पल वीएफपीसीके",
+      "gujarati": "થોટ્ટિપ્પલ વીએફપીસીકે"
+    },
+    {
+      "english": "Thottuva",
+      "hindi": "थोट्टुवा",
+      "gujarati": "થોટ્ટુવા"
+    },
+    {
+      "english": "Thottuva VFPCK",
+      "hindi": "थोट्टुवा वीएफपीसीके",
+      "gujarati": "થોટ્ટુવા વીએફપીસીકે"
+    },
+    {
+      "english": "Thoubal",
+      "hindi": "थौबल",
+      "gujarati": "થૌબલ"
+    },
+    {
+      "english": "Thrikkodithanam",
+      "hindi": "थ्रिक्कोदिथानम",
+      "gujarati": "થ્રિક્કોદિથાનમ"
+    },
+    {
+      "english": "Thrikkodithanam VFPCK",
+      "hindi": "थ्रिक्कोदिथानम वीएफपीसीके",
+      "gujarati": "થ્રિક્કોદિથાનમ વીએફપીસીકે"
+    },
+    {
+      "english": "Thrippunithura",
+      "hindi": "थ्रिप्पुनिथुरा",
+      "gujarati": "થ્રિપ્પુનિથુરા"
+    },
+    {
+      "english": "Thrissur",
+      "hindi": "थ्रिसूर",
+      "gujarati": "થ્રિસુર"
+    },
+    {
+      "english": "Thungathurthy",
+      "hindi": "थुंगाथुर्थी",
+      "gujarati": "થુંગાથુર્થી"
+    },
+    {
+      "english": "Thuraiyur",
+      "hindi": "थुरैयुर",
+      "gujarati": "થુરૈયુર"
+    },
+    {
+      "english": "THURAVOOR VFPCK",
+      "hindi": "थुरावूर वीएफपीसीके",
+      "gujarati": "થુરાવૂર વીએફપીસીકે"
+    },
+    {
+      "english": "Tibbi",
+      "hindi": "टिब्बी",
+      "gujarati": "ટિબ્બી"
+    },
+    {
+      "english": "Tijara",
+      "hindi": "तिजारा",
+      "gujarati": "તિજારા"
+    },
+    {
+      "english": "Tikabali",
+      "hindi": "टिकाबाली",
+      "gujarati": "ટિકાબાલી"
+    },
+    {
+      "english": "Tikamgarh",
+      "hindi": "टीकमगढ़",
+      "gujarati": "ટીકમગઢ"
+    },
+    {
+      "english": "Tikamgarh(F&V)",
+      "hindi": "टीकमगढ़(एफएंडवी)",
+      "gujarati": "ટીકમગઢ(એફએન્ડવી)"
+    },
+    {
+      "english": "Tikonia",
+      "hindi": "टिकोनिया",
+      "gujarati": "ટિકોનિયા"
+    },
+    {
+      "english": "Tilakwada",
+      "hindi": "तिलकवाड़ा",
+      "gujarati": "તિલકવાડા"
+    },
+    {
+      "english": "Tileibani",
+      "hindi": "टिलेइबानी",
+      "gujarati": "ટિલેઇબાની"
+    },
+    {
+      "english": "Tilhar",
+      "hindi": "तिलहर",
+      "gujarati": "તિલહર"
+    },
+    {
+      "english": "Timarni",
+      "hindi": "तिमारनी",
+      "gujarati": "તિમારની"
+    },
+    {
+      "english": "Timarni(F&V)",
+      "hindi": "तिमारनी(एफएंडवी)",
+      "gujarati": "તિમારની(એફએન્ડવી)"
+    },
+    {
+      "english": "Timbi",
+      "hindi": "टिंबी",
+      "gujarati": "ટિમ્બી"
+    },
+    {
+      "english": "Tindivanam",
+      "hindi": "टिंडिवनम",
+      "gujarati": "ટિંડિવનમ"
+    },
+    {
+      "english": "Tinsukia",
+      "hindi": "तिनसुकिया",
+      "gujarati": "તિનસુકિયા"
+    },
+    {
+      "english": "Tiphra",
+      "hindi": "टिफरा",
+      "gujarati": "ટિફરા"
+    },
+    {
+      "english": "Tiptur",
+      "hindi": "टिपटुर",
+      "gujarati": "ટિપ્ટુર"
+    },
+    {
+      "english": "Tiroda",
+      "hindi": "तिरोड़ा",
+      "gujarati": "તિરોડા"
+    },
+    {
+      "english": "Tiruchengode",
+      "hindi": "तिरुचेंगोड",
+      "gujarati": "તિરુચેંગોડ"
+    },
+    {
+      "english": "Tiruchengode(Agri. Coop. Marketing Society)",
+      "hindi": "तिरुचेंगोड(कृषि सहकारी विपणन सोसायटी)",
+      "gujarati": "તિરુચેંગોડ(કૃષિ કોઓપ. માર્કેટિંગ સોસાયટી)"
+    },
+    {
+      "english": "Tirumalagiri",
+      "hindi": "तिरुमलागिरी",
+      "gujarati": "તિરુમલાગિરી"
+    },
+    {
+      "english": "Tirunelvali",
+      "hindi": "तिरुनेलवेली",
+      "gujarati": "તિરુનેલવેલી"
+    },
+    {
+      "english": "Tirupati",
+      "hindi": "तिरुपति",
+      "gujarati": "તિરુપતિ"
+    },
+    {
+      "english": "Tirupati (TUDA),RBZ",
+      "hindi": "तिरुपति (टीयूडीए),आरबीजेड",
+      "gujarati": "તિરુપતિ (ટીયુડીએ),આરબીઝેડ"
+    },
+    {
+      "english": "Tirupatthur(Uzhavar Sandhai )",
+      "hindi": "तिरुपटthur(उझावर संधाई)",
+      "gujarati": "તિરુપટ્થુર(ઉઝાવર સંધાઈ)"
+    },
+    {
+      "english": "Tiruppur (North) (Uzhavar Sandhai )",
+      "hindi": "तिरुप्पुर (उत्तर) (उझावर संधाई)",
+      "gujarati": "તિરુપ્પુર (ઉત્તર) (ઉઝાવર સંધાઈ)"
+    },
+    {
+      "english": "Tiruppur (South) (Uzhavar Sandhai )",
+      "hindi": "तिरुप्पुर (दक्षिण) (उझावर संधाई)",
+      "gujarati": "તિરુપ્પુર (દક્ષિણ) (ઉઝાવર સંધાઈ)"
+    },
+    {
+      "english": "Tiruthuraipoondi",
+      "hindi": "तिरुथुराईपुंडी",
+      "gujarati": "તિરુથુરાઈપુંડી"
+    },
+    {
+      "english": "Tiruthuraipoondi(Uzhavar Sandhai )",
+      "hindi": "तिरुथुराईपुंडी(उझावर संधाई)",
+      "gujarati": "તિરુથુરાઈપુંડી(ઉઝાવર સંધાઈ)"
+    },
+    {
+      "english": "Tiruttani",
+      "hindi": "तिरुत्तनी",
+      "gujarati": "તિરુત્તની"
+    },
+    {
+      "english": "Tiruvallur(Uzhavar Sandhai )",
+      "hindi": "तिरुवल्लुर(उझावर संधाई)",
+      "gujarati": "તિરુવલ્લુર(ઉઝાવર સંધાઈ)"
+    },
+    {
+      "english": "Tiruvannamalai(Uzhavar Sandhai )",
+      "hindi": "तिरुवन्नमलाई(उझावर संधाई)",
+      "gujarati": "તિરુવન્નમલાઈ(ઉઝાવર સંધાઈ)"
+    },
+    {
+      "english": "Tiruvarur(Uzhavar Sandhai )",
+      "hindi": "तिरुवारुर(उझावर संधाई)",
+      "gujarati": "તિરુવારુર(ઉઝાવર સંધાઈ)"
+    },
+    {
+      "english": "Tiruvellore",
+      "hindi": "तिरुवेल्लोर",
+      "gujarati": "તિરુવેલ્લોર"
+    },
+    {
+      "english": "Tiruvennainallur",
+      "hindi": "तिरुवेन्नैनल्लुर",
+      "gujarati": "તિરુવેન્નૈનલ્લુર"
+    },
+    {
+      "english": "Tiruvuru",
+      "hindi": "तिरुवुरु",
+      "gujarati": "તિરુવુરુ"
+    },
+    {
+      "english": "Tittakudi",
+      "hindi": "तित्तकुड़ी",
+      "gujarati": "તિત્તકુડી"
+    },
+    {
+      "english": "Tiwasa",
+      "hindi": "तिवसा",
+      "gujarati": "તિવસા"
+    },
+    {
+      "english": "Todabhim",
+      "hindi": "टोडाभीम",
+      "gujarati": "ટોડાભીમ"
+    },
+    {
+      "english": "Togguta",
+      "hindi": "टोग्गुटा",
+      "gujarati": "ટોગ્ગુટા"
+    },
+    {
+      "english": "Tohana",
+      "hindi": "तोहाना",
+      "gujarati": "તોહાના"
+    },
+    {
+      "english": "Tohana(New Veg Market)",
+      "hindi": "तोहाना(नई सब्जी बाजार)",
+      "gujarati": "તોહાના(નવી શાકભાજી માર્કેટ)"
+    },
+    {
+      "english": "Tokapal",
+      "hindi": "टोकापाल",
+      "gujarati": "ટોકાપાલ"
+    },
+    {
+      "english": "Tonk",
+      "hindi": "टोंक",
+      "gujarati": "ટોંક"
+    },
+    {
+      "english": "Toofanganj",
+      "hindi": "टूफांगंज",
+      "gujarati": "ટૂફાંગંજ"
+    },
+    {
+      "english": "Tosham",
+      "hindi": "तोशाम",
+      "gujarati": "તોશમ"
+    },
+    {
+      "english": "Toshgaon",
+      "hindi": "तोशगांव",
+      "gujarati": "તોશગાંવ"
+    },
+    {
+      "english": "Tral",
+      "hindi": "ट्राल",
+      "gujarati": "ટ્રાલ"
+    },
+    {
+      "english": "Trichy",
+      "hindi": "त्रिची",
+      "gujarati": "ત્રિચી"
+    },
+    {
+      "english": "Triveniganj",
+      "hindi": "त्रिवेणीगंज",
+      "gujarati": "ત્રિવેણીગંજ"
+    },
+    {
+      "english": "Tsemenyu",
+      "hindi": "त्सेमेन्यू",
+      "gujarati": "ત્સેમેન્યુ"
+    },
+    {
+      "english": "Tseminyu",
+      "hindi": "त्सेमिन्यू",
+      "gujarati": "ત્સેમિન્યુ"
+    },
+    {
+      "english": "Tuensang",
+      "hindi": "तुएंसांग",
+      "gujarati": "તુએન્સાંગ"
+    },
+    {
+      "english": "Tukkapettai",
+      "hindi": "तुक्कापेट्टई",
+      "gujarati": "તુક્કાપેટ્ટઈ"
+    },
+    {
+      "english": "Tuli",
+      "hindi": "तुली",
+      "gujarati": "તુલી"
+    },
+    {
+      "english": "Tuljapur",
+      "hindi": "तुलजापुर",
+      "gujarati": "તુલજાપુર"
+    },
+    {
+      "english": "Tulsi",
+      "hindi": "तुलसी",
+      "gujarati": "તુલસી"
+    },
+    {
+      "english": "Tulsipur",
+      "hindi": "तुलसीपुर",
+      "gujarati": "તુલસીપુર"
+    },
+    {
+      "english": "Tumkur",
+      "hindi": "तुकुर",
+      "gujarati": "તુમકુર"
+    },
+    {
+      "english": "Tumsar",
+      "hindi": "तुमसार",
+      "gujarati": "તુમસાર"
+    },
+    {
+      "english": "Tundla",
+      "hindi": "टूंडला",
+      "gujarati": "ટુંડલા"
+    },
+    {
+      "english": "Tuni",
+      "hindi": "तुनी",
+      "gujarati": "તુની"
+    },
+    {
+      "english": "Tura",
+      "hindi": "तुरा",
+      "gujarati": "તુરા"
+    },
+    {
+      "english": "Turvekere",
+      "hindi": "तुर्वेकेरे",
+      "gujarati": "તુર્વેકેરે"
+    },
+    {
+      "english": "Tusura",
+      "hindi": "तुसुरा",
+      "gujarati": "તુસુરા"
+    },
+    {
+      "english": "Tuticorin(Uzhavar Sandhai )",
+      "hindi": "तुतिकोरिन(उझावर संधाई)",
+      "gujarati": "તુતિકોરિન(ઉઝાવર સંધાઈ)"
+    },
+    {
+      "english": "Uchana",
+      "hindi": "उचाना",
+      "gujarati": "ઉચાના"
+    },
+    {
+      "english": "Uchhal",
+      "hindi": "उछल",
+      "gujarati": "ઉછલ"
+    },
+    {
+      "english": "Uchhal(Karod)",
+      "hindi": "उछल(करोड़)",
+      "gujarati": "ઉછલ(કરોડ)"
+    },
+    {
+      "english": "Udaipur",
+      "hindi": "उदयपुर",
+      "gujarati": "ઉદયપુર"
+    },
+    {
+      "english": "Udaipur (F&V)",
+      "hindi": "उदयपुर (एफएंडवी)",
+      "gujarati": "ઉદયપુર (એફએન્ડવી)"
+    },
+    {
+      "english": "Udaipur (Grain)",
+      "hindi": "उदयपुर (अनाज)",
+      "gujarati": "ઉદયપુર (અનાજ)"
+    },
+    {
+      "english": "Udaipur(F&V)",
+      "hindi": "उदयपुर(एफएंडवी)",
+      "gujarati": "ઉદયપુર(એફએન્ડવી)"
+    },
+    {
+      "english": "Udaipura",
+      "hindi": "उदयपुरा",
+      "gujarati": "ઉદયપુરા"
+    },
+    {
+      "english": "Udala",
+      "hindi": "उदाला",
+      "gujarati": "ઉદાલા"
+    },
+    {
+      "english": "Udat Bhagta Ram",
+      "hindi": "उदत भगता राम",
+      "gujarati": "ઉદત ભગતા રામ"
+    },
+    {
+      "english": "Udayagiri",
+      "hindi": "उदयगिरि",
+      "gujarati": "ઉદયગિરિ"
+    },
+    {
+      "english": "Udaypur",
+      "hindi": "उदयपुर",
+      "gujarati": "ઉદયપુર"
+    },
+    {
+      "english": "Udgir",
+      "hindi": "उदगीर",
+      "gujarati": "ઉદગીર"
+    },
+    {
+      "english": "Udgir(Devanibud)",
+      "hindi": "उदगीर(देवनीबुड)",
+      "gujarati": "ઉદગીર(દેવનીબુડ)"
+    },
+    {
+      "english": "Udgir(Hali)",
+      "hindi": "उदगीर(हाली)",
+      "gujarati": "ઉદગીર(હાલી)"
+    },
+    {
+      "english": "Udhagamandalam(Uzhavar Sandhai )",
+      "hindi": "उधगमंडलम(उझावर संधाई)",
+      "gujarati": "ઉધગમંડલમ(ઉઝાવર સંધાઈ)"
+    },
+    {
+      "english": "Udhampur",
+      "hindi": "उधमपुर",
+      "gujarati": "ઉધમપુર"
+    },
+    {
+      "english": "Udumalpet",
+      "hindi": "उदुमलपेट",
+      "gujarati": "ઉદુમલપેટ"
+    },
+    {
+      "english": "Udumbannoor",
+      "hindi": "उदुम्बन्नूर",
+      "gujarati": "ઉદુમ્બન્નૂર"
+    },
+    {
+      "english": "Udumbannoor VFPCK",
+      "hindi": "उदुम्बन्नूर वीएफपीसीके",
+      "gujarati": "ઉદુમ્બન્નૂર વીએફપીસીકે"
+    },
+    {
+      "english": "Udupi",
+      "hindi": "उडुपी",
+      "gujarati": "ઉડુપી"
+    },
+    {
+      "english": "Ujhani",
+      "hindi": "उझानी",
+      "gujarati": "ઉઝાની"
+    },
+    {
+      "english": "Ujjain",
+      "hindi": "उज्जैन",
+      "gujarati": "ઉજ્જૈન"
+    },
+    {
+      "english": "Ujjain(F&V)",
+      "hindi": "उज्जैन(एफएंडवी)",
+      "gujarati": "ઉજ્જૈન(એફએન્ડવી)"
+    },
+    {
+      "english": "Uklana",
+      "hindi": "उकलाना",
+      "gujarati": "ઉકલાના"
+    },
+    {
+      "english": "Ulhasnagar",
+      "hindi": "उल्हासनगर",
+      "gujarati": "ઉલ્હાસનગર"
+    },
+    {
+      "english": "Uluberia",
+      "hindi": "उलुबेरिया",
+      "gujarati": "ઉલુબેરિયા"
+    },
+    {
+      "english": "Ulundurpettai",
+      "hindi": "उलुंदुरपेट्टई",
+      "gujarati": "ઉલુંદુરપેટ્ટઈ"
+    },
+    {
+      "english": "Umarala",
+      "hindi": "उमाराला",
+      "gujarati": "ઉમારાલા"
+    },
+    {
+      "english": "Umared",
+      "hindi": "उमारेड",
+      "gujarati": "ઉમારેડ"
+    },
+    {
+      "english": "Umarga",
+      "hindi": "उमार्गा",
+      "gujarati": "ઉમાર્ગા"
+    },
+    {
+      "english": "Umargam",
+      "hindi": "उमरगाम",
+      "gujarati": "ઉમરગામ"
+    },
+    {
+      "english": "Umari",
+      "hindi": "उमरी",
+      "gujarati": "ઉમરી"
+    },
+    {
+      "english": "Umariya",
+      "hindi": "उमरिया",
+      "gujarati": "ઉમરિયા"
+    },
+    {
+      "english": "Umarked(Danki)",
+      "hindi": "अनमार्केड(डांकी)",
+      "gujarati": "અનમાર્કેડ(ડાંકી)"
+    },
+    {
+      "english": "Umarkhed",
+      "hindi": "उमरखेड",
+      "gujarati": "ઉમરખેડ"
+    },
+    {
+      "english": "Umarpada",
+      "hindi": "उमारपाड़ा",
+      "gujarati": "ઉમારપાડા"
+    },
+    {
+      "english": "Umrane",
+      "hindi": "उमराने",
+      "gujarati": "ઉમરાને"
+    },
+    {
+      "english": "Umreth",
+      "hindi": "उमरेठ",
+      "gujarati": "ઉમરેઠ"
+    },
+    {
+      "english": "Una",
+      "hindi": "ऊना",
+      "gujarati": "ઊના"
+    },
+    {
+      "english": "Unava",
+      "hindi": "उनावा",
+      "gujarati": "ઉનાવા"
+    },
+    {
+      "english": "Undi",
+      "hindi": "उंडी",
+      "gujarati": "ઉંડી"
+    },
+    {
+      "english": "Ungatur",
+      "hindi": "उंगातुर",
+      "gujarati": "ઉંગાતુર"
+    },
+    {
+      "english": "Unhel",
+      "hindi": "उन्हेल",
+      "gujarati": "ઉન્હેલ"
+    },
+    {
+      "english": "Uniyara",
+      "hindi": "उनियारा",
+      "gujarati": "ઉનિયારા"
+    },
+    {
+      "english": "Unjha",
+      "hindi": "उंझा",
+      "gujarati": "ઉંઝા"
+    },
+    {
+      "english": "Unnao",
+      "hindi": "उन्नाव",
+      "gujarati": "ઉન્નાવ"
+    },
+    {
+      "english": "Upleta",
+      "hindi": "उपलेटा",
+      "gujarati": "ઉપલેટા"
+    },
+    {
+      "english": "Ursu Premises, Nalgonda,RBZ",
+      "hindi": "उर्सु परिसर, नलगोंडा,आरबीजेड",
+      "gujarati": "ઉર્સુ પરિસર, નલગોંડા,આરબીઝેડ"
+    },
+    {
+      "english": "Urvakonda",
+      "hindi": "उर्वाकोंडा",
+      "gujarati": "ઉર્વાકોંડા"
+    },
+    {
+      "english": "Usilampatty",
+      "hindi": "उसिलامپट्टी",
+      "gujarati": "ઉસિલામ્પટ્ટી"
+    },
+    {
+      "english": "Uthangarai",
+      "hindi": "उथंगाराई",
+      "gujarati": "ઉથંગારાઈ"
+    },
+    {
+      "english": "Uthiramerur",
+      "hindi": "उथिरामेरुर",
+      "gujarati": "ઉથિરામેરુર"
+    },
+    {
+      "english": "Uthukottai",
+      "hindi": "उथुकोट्टई",
+      "gujarati": "ઉથુકોટ્ટઈ"
+    },
+    {
+      "english": "Utraula",
+      "hindi": "उत्रौला",
+      "gujarati": "ઉત્રૌલા"
+    },
+    {
+      "english": "Uttaripura",
+      "hindi": "उत्तरिपुरा",
+      "gujarati": "ઉત્તરીપુરા"
+    },
+    {
+      "english": "V.Kota Mkt.Yard",
+      "hindi": "वी.कोटा एमकेटी.यार्ड",
+      "gujarati": "વી.કોટા માર્કેટ.યાર્ડ"
+    },
+    {
+      "english": "Vadakanandhal",
+      "hindi": "वडकानंधल",
+      "gujarati": "વડકાનંધલ"
+    },
+    {
+      "english": "Vadakara",
+      "hindi": "વડકરા",
+      "gujarati": "વડકરા"
+    },
+    {
+      "english": "vadakarapathy",
+      "hindi": "वडकारापथी",
+      "gujarati": "વડકારાપથી"
+    },
+    {
+      "english": "Vadakarapathy VFPCK",
+      "hindi": "वडकारापथी वीएफपीसीके",
+      "gujarati": "વડકારાપથી વીએફપીસીકે"
+    },
+    {
+      "english": "Vadakkenchery",
+      "hindi": "वडक्केंचेरी",
+      "gujarati": "વડક્કેંચેરી"
+    },
+    {
+      "english": "Vadali",
+      "hindi": "વડાલી",
+      "gujarati": "વડાલી"
+    },
+    {
+      "english": "Vadamadurai",
+      "hindi": "વડમદુરાઈ",
+      "gujarati": "વડમદુરાઈ"
+    },
+    {
+      "english": "Vadaseri",
+      "hindi": "વડાસેરી",
+      "gujarati": "વડાસેરી"
+    },
+    {
+      "english": "Vadavalli(Uzhavar Sandhai )",
+      "hindi": "વડવલ્લી(ઉઝાવર સંધાઈ)",
+      "gujarati": "વડવલ્લી(ઉઝાવર સંધાઈ)"
+    },
+    {
+      "english": "Vadgam",
+      "hindi": "વડગમ",
+      "gujarati": "વડગમ"
+    },
+    {
+      "english": "Vadgaonpeth",
+      "hindi": "વડગાંવપેઠ",
+      "gujarati": "વડગાંવપેઠ"
+    },
+    {
+      "english": "Vadhvan",
+      "hindi": "વધવન",
+      "gujarati": "વધવન"
+    },
+    {
+      "english": "Vadiya",
+      "hindi": "વડીયા",
+      "gujarati": "વડીયા"
+    },
+    {
+      "english": "Vadlapudi",
+      "hindi": "વડલાપુડી",
+      "gujarati": "વડલાપુડી"
+    },
+    {
+      "english": "Vadnagar",
+      "hindi": "વડનગર",
+      "gujarati": "વડનગર"
+    },
+    {
+      "english": "Vadnagar(Kheralu)",
+      "hindi": "વડનગર(ખેરાલુ)",
+      "gujarati": "વડનગર(ખેરાલુ)"
+    },
+    {
+      "english": "Vadodara",
+      "hindi": "વડોદરા",
+      "gujarati": "વડોદરા"
+    },
+    {
+      "english": "Vadodara(Navapura)",
+      "hindi": "વડોદરા(નવાપુરા)",
+      "gujarati": "વડોદરા(નવાપુરા)"
+    },
+    {
+      "english": "Vadodara(Sayajipura)",
+      "hindi": "વડોદરા(સયાજીપુરા)",
+      "gujarati": "વડોદરા(સયાજીપુરા)"
+    },
+    {
+      "english": "Vaduj",
+      "hindi": "વડુજ",
+      "gujarati": "વડુજ"
+    },
+    {
+      "english": "Vaduvur",
+      "hindi": "વડુવુર",
+      "gujarati": "વડુવુર"
+    },
+    {
+      "english": "Vadvani",
+      "hindi": "વડવાણી",
+      "gujarati": "વડવાણી"
+    },
+    {
+      "english": "Vaghai",
+      "hindi": "વાઘાઈ",
+      "gujarati": "વાઘાઈ"
+    },
+    {
+      "english": "Vagodiya",
+      "hindi": "વાગોડિયા",
+      "gujarati": "વાગોડિયા"
+    },
+    {
+      "english": "Vai",
+      "hindi": "વાઈ",
+      "gujarati": "વાઈ"
+    },
+    {
+      "english": "Vaijpur",
+      "hindi": "વૈજપુર",
+      "gujarati": "વૈજપુર"
+    },
+    {
+      "english": "Vairengte",
+      "hindi": "વૈરેંગ્તે",
+      "gujarati": "વૈરેંગ્તે"
+    },
+    {
+      "english": "Vakadu",
+      "hindi": "વાકડુ",
+      "gujarati": "વાકડુ"
+    },
+    {
+      "english": "VAKATHANAM VFPCK",
+      "hindi": "વકાથનમ વીએફપીસીકે",
+      "gujarati": "વકાથનમ વીએફપીસીકે"
+    },
+    {
+      "english": "Valakom",
+      "hindi": "વલાકોમ",
+      "gujarati": "વલાકોમ"
+    },
+    {
+      "english": "Valakom VFPCK",
+      "hindi": "વલાકોમ વીએફપીસીકે",
+      "gujarati": "વલાકોમ વીએફપીસીકે"
+    },
+    {
+      "english": "Valangaiman",
+      "hindi": "વલંગાઈમન",
+      "gujarati": "વલંગાઈમન"
+    },
+    {
+      "english": "Valathi",
+      "hindi": "વલાથી",
+      "gujarati": "વલાથી"
+    },
+    {
+      "english": "Valia",
+      "hindi": "વાલિયા",
+      "gujarati": "વાલિયા"
+    },
+    {
+      "english": "Valia(Nethrang)",
+      "hindi": "વાલિયા(નેથરંગ)",
+      "gujarati": "વાલિયા(નેથરંગ)"
+    },
+    {
+      "english": "Valigonda",
+      "hindi": "વલિગોંડા",
+      "gujarati": "વલિગોંડા"
+    },
+    {
+      "english": "Vallabhipur",
+      "hindi": "વલ્લભીપુર",
+      "gujarati": "વલ્લભીપુર"
+    },
+    {
+      "english": "Vallabhnagar",
+      "hindi": "વલ્લભનગર",
+      "gujarati": "વલ્લભનગર"
+    },
+    {
+      "english": "Vallam",
+      "hindi": "વલ્લમ",
+      "gujarati": "વલ્લમ"
+    },
+    {
+      "english": "Vallikunnam",
+      "hindi": "વલ્લિકુન્નમ",
+      "gujarati": "વલ્લિકુન્નમ"
+    },
+    {
+      "english": "Vallikunnam VFPCK",
+      "hindi": "વલ્લિકુન્નમ વીએફપીસીકે",
+      "gujarati": "વલ્લિકુન્નમ વીએફપીસીકે"
+    },
+    {
+      "english": "Valod",
+      "hindi": "વલોડ",
+      "gujarati": "વલોડ"
+    },
+    {
+      "english": "Valod(Buhari)",
+      "hindi": "વલોડ(બુહારી)",
+      "gujarati": "વલોડ(બુહારી)"
+    },
+    {
+      "english": "Valpol",
+      "hindi": "વલ્પોલ",
+      "gujarati": "વલ્પોલ"
+    },
+    {
+      "english": "Valsad",
+      "hindi": "વલસાડ",
+      "gujarati": "વલસાડ"
+    },
+    {
+      "english": "Valsad(Dungari)",
+      "hindi": "વલસાડ(ડુંગરી)",
+      "gujarati": "વલસાડ(ડુંગરી)"
+    },
+    {
+      "english": "Vamanapuram",
+      "hindi": "વામનપુરમ",
+      "gujarati": "વામનપુરમ"
+    },
+    {
+      "english": "Vanapuram",
+      "hindi": "વનપુરમ",
+      "gujarati": "વનપુરમ"
+    },
+    {
+      "english": "Vanasthalipuram,RBZ",
+      "hindi": "વનસ્થલીપુરમ,આરબીઝેડ",
+      "gujarati": "વનસ્થલીપુરમ,આરબીઝેડ"
+    },
+    {
+      "english": "Vandavasi",
+      "hindi": "વંડાવાસી",
+      "gujarati": "વંડાવાસી"
+    },
+    {
+      "english": "Vandavasi(Uzhavar Sandhai )",
+      "hindi": "વંડાવાસી(ઉઝાવર સંધાઈ)",
+      "gujarati": "વંડાવાસી(ઉઝાવર સંધાઈ)"
+    },
+    {
+      "english": "Vandiperiyar",
+      "hindi": "વંડીપેરિયાર",
+      "gujarati": "વંડીપેરિયાર"
+    },
+    {
+      "english": "Vani",
+      "hindi": "વાણી",
+      "gujarati": "વાણી"
+    },
+    {
+      "english": "Vaniyambadi",
+      "hindi": "વનિયંબાડી",
+      "gujarati": "વનિયંબાડી"
+    },
+    {
+      "english": "Vaniyamkulam",
+      "hindi": "વનિયમકુલમ",
+      "gujarati": "વનિયમકુલમ"
+    },
+    {
+      "english": "Vaniyamkulam VFPCK",
+      "hindi": "વનિયમકુલમ વીએફપીસીકે",
+      "gujarati": "વનિયમકુલમ વીએફપીસીકે"
+    },
+    {
+      "english": "Vaniyampadi(Uzhavar Sandhai )",
+      "hindi": "વનિયમ્પાડી(ઉઝાવર સંધાઈ)",
+      "gujarati": "વનિયમ્પાડી(ઉઝાવર સંધાઈ)"
+    },
+    {
+      "english": "Vankaner",
+      "hindi": "વંકાનેર",
+      "gujarati": "વંકાનેર"
+    },
+    {
+      "english": "Vankaner(Sub yard)",
+      "hindi": "વંકાનેર(સબ યાર્ડ)",
+      "gujarati": "વંકાનેર(સબ યાર્ડ)"
+    },
+    {
+      "english": "Vansda",
+      "hindi": "વાંસડા",
+      "gujarati": "વાંસડા"
+    },
+    {
+      "english": "Vansda(Limzar)",
+      "hindi": "વાંસડા(લિમઝાર)",
+      "gujarati": "વાંસડા(લિમઝાર)"
+    },
+    {
+      "english": "Vantamamidi",
+      "hindi": "વંતમામિડી",
+      "gujarati": "વંતમામિડી"
+    },
+    {
+      "english": "Vanthli",
+      "hindi": "વંથલી",
+      "gujarati": "વંથલી"
+    },
+    {
+      "english": "vapi",
+      "hindi": "વાપી",
+      "gujarati": "વાપી"
+    },
+    {
+      "english": "Varahi",
+      "hindi": "વરાહી",
+      "gujarati": "વરાહી"
+    },
+    {
+      "english": "Varanasi",
+      "hindi": "વારાણસી",
+      "gujarati": "વારાણસી"
+    },
+    {
+      "english": "Varanasi(F&V)",
+      "hindi": "વારાણસી(એફએન્ડવી)",
+      "gujarati": "વારાણસી(એફએન્ડવી)"
+    },
+    {
+      "english": "Varanasi(Grain)",
+      "hindi": "વારાણસી(અનાજ)",
+      "gujarati": "વારાણસી(અનાજ)"
+    },
+    {
+      "english": "Varandarappilly",
+      "hindi": "વરંદરપ્પિલ્લી",
+      "gujarati": "વરંદરપ્પિલ્લી"
+    },
+    {
+      "english": "Varandarappilly VFPCK",
+      "hindi": "વરંદરપ્પિલ્લી વીએફપીસીકે",
+      "gujarati": "વરંદરપ્પિલ્લી વીએફપીસીકે"
+    },
+    {
+      "english": "Varaseoni",
+      "hindi": "વરસેઓની",
+      "gujarati": "વરસેઓની"
+    },
+    {
+      "english": "Varipaal",
+      "hindi": "વરીપાલ",
+      "gujarati": "વરીપાલ"
+    },
+    {
+      "english": "Varora",
+      "hindi": "વરોરા",
+      "gujarati": "વરોરા"
+    },
+    {
+      "english": "Varud",
+      "hindi": "વરુદ",
+      "gujarati": "વરુદ"
+    },
+    {
+      "english": "Varud(Rajura Bazar)",
+      "hindi": "વરુદ(રાજુરા બજાર)",
+      "gujarati": "વરુદ(રાજુરા બજાર)"
+    },
+    {
+      "english": "Vasai",
+      "hindi": "વસઈ",
+      "gujarati": "વસઈ"
+    },
+    {
+      "english": "Vashi New Mumbai",
+      "hindi": "વાશી નવું મુંબઈ",
+      "gujarati": "વાશી નવું મુંબઈ"
+    },
+    {
+      "english": "Vaso",
+      "hindi": "વાસો",
+      "gujarati": "વાસો"
+    },
+    {
+      "english": "Vathlagundu",
+      "hindi": "વથ્લાગુંડુ",
+      "gujarati": "વથ્લાગુંડુ"
+    },
+    {
+      "english": "Vatpally",
+      "hindi": "વટપલ્લી",
+      "gujarati": "વટપલ્લી"
+    },
+    {
+      "english": "Vav",
+      "hindi": "વાવ",
+      "gujarati": "વાવ"
+    },
+    {
+      "english": "Vayala",
+      "hindi": "વયલા",
+      "gujarati": "વયલા"
+    },
+    {
+      "english": "Vayala VFPCK",
+      "hindi": "વયલા વીએફપીસીકે",
+      "gujarati": "વયલા વીએફપીસીકે"
+    },
+    {
+      "english": "Vayalapadu",
+      "hindi": "વયલપડુ",
+      "gujarati": "વયલપડુ"
+    },
+    {
+      "english": "Vazhapadi",
+      "hindi": "વઝાપડી",
+      "gujarati": "વઝાપડી"
+    },
+    {
+      "english": "VAZHAYUR VFPCK",
+      "hindi": "વઝાયુર વીએફપીસીકે",
+      "gujarati": "વઝાયુર વીએફપીસીકે"
+    },
+    {
+      "english": "Vedachandur",
+      "hindi": "વેદચંદુર",
+      "gujarati": "વેદચંદુર"
+    },
+    {
+      "english": "Vedaranyam",
+      "hindi": "વેદારણ્યમ",
+      "gujarati": "વેદારણ્યમ"
+    },
+    {
+      "english": "Vedasanthur(Uzhavar Sandhai )",
+      "hindi": "વેદાસંથુર(ઉઝાવર સંધાઈ)",
+      "gujarati": "વેદાસંથુર(ઉઝાવર સંધાઈ)"
+    },
+    {
+      "english": "Velayuthampalayam(Uzhavar Sandhai )",
+      "hindi": "વેલાયુથમ્પલાયમ(ઉઝાવર સંધાઈ)",
+      "gujarati": "વેલાયુથમ્પલાયમ(ઉઝાવર સંધાઈ)"
+    },
+    {
+      "english": "Veliyam",
+      "hindi": "વેલિયમ",
+      "gujarati": "વેલિયમ"
+    },
+    {
+      "english": "Veliyam VFPCK",
+      "hindi": "વેલિયમ વીએફપીસીકે",
+      "gujarati": "વેલિયમ વીએફપીસીકે"
+    },
+    {
+      "english": "Vellakkoil",
+      "hindi": "વેલ્લક્કોઈલ",
+      "gujarati": "વેલ્લક્કોઈલ"
+    },
+    {
+      "english": "Vellakovil",
+      "hindi": "વેલ્લકોવિલ",
+      "gujarati": "વેલ્લકોવિલ"
+    },
+    {
+      "english": "VELLANAD VFPCK",
+      "hindi": "વેલ્લનાડ વીએફપીસીકે",
+      "gujarati": "વેલ્લનાડ વીએફપીસીકે"
+    },
+    {
+      "english": "Vellankoil",
+      "hindi": "વેલ્લંકોઈલ",
+      "gujarati": "વેલ્લંકોઈલ"
+    },
+    {
+      "english": "Vellannur",
+      "hindi": "વેલ્લન્નુર",
+      "gujarati": "વેલ્લન્નુર"
+    },
+    {
+      "english": "Vellannur VFPCK",
+      "hindi": "વેલ્લન્નુર વીએફપીસીકે",
+      "gujarati": "વેલ્લન્નુર વીએફપીસીકે"
+    },
+    {
+      "english": "Vellarada",
+      "hindi": "વેલ્લરાડા",
+      "gujarati": "વેલ્લરાડા"
+    },
+    {
+      "english": "Vellarada VFPCK",
+      "hindi": "વેલ્લરાડા વીએફપીસીકે",
+      "gujarati": "વેલ્લરાડા વીએફપીસીકે"
+    },
+    {
+      "english": "Vellore",
+      "hindi": "વેલ્લોર",
+      "gujarati": "વેલ્લોર"
+    },
+    {
+      "english": "VELOORKKARA VFPCK",
+      "hindi": "વેલૂરક્કારા વીએફપીસીકે",
+      "gujarati": "વેલૂરક્કારા વીએફપીસીકે"
+    },
+    {
+      "english": "Velpur",
+      "hindi": "વેલ્પુર",
+      "gujarati": "વેલ્પુર"
+    },
+    {
+      "english": "Velur",
+      "hindi": "વેલુર",
+      "gujarati": "વેલુર"
+    },
+    {
+      "english": "VEMBAYAM VFPCK",
+      "hindi": "વેમ્બયમ વીએફપીસીકે",
+      "gujarati": "વેમ્બયમ વીએફપીસીકે"
+    },
+    {
+      "english": "Vempally",
+      "hindi": "વેમ્પલ્લી",
+      "gujarati": "વેમ્પલ્લી"
+    },
+    {
+      "english": "Vempally VFPCK",
+      "hindi": "વેમ્પલ્લી વીએફપીસીકે",
+      "gujarati": "વેમ્પલ્લી વીએફપીસીકે"
+    },
+    {
+      "english": "Vemulawada",
+      "hindi": "વેમુલવાડા",
+      "gujarati": "વેમુલવાડા"
+    },
+    {
+      "english": "Vemulawada(Boinpally)",
+      "hindi": "વેમુલવાડા(બોઈનપલ્લી)",
+      "gujarati": "વેમુલવાડા(બોઈનપલ્લી)"
+    },
+    {
+      "english": "Vengannore",
+      "hindi": "વેંગન્નોરે",
+      "gujarati": "વેંગન્નોરે"
+    },
+    {
+      "english": "Vengannore VFPCK",
+      "hindi": "વેંગન્નોરે વીએફપીસીકે",
+      "gujarati": "વેંગન્નોરે વીએફપીસીકે"
+    },
+    {
+      "english": "VENGAPALLY VFPCK",
+      "hindi": "વેંગપલ્લી વીએફપીસીકે",
+      "gujarati": "વેંગપલ્લી વીએફપીસીકે"
+    },
+    {
+      "english": "Vengeri(Kozhikode)",
+      "hindi": "વેંગેરી(કોઝિકોડ)",
+      "gujarati": "વેંગેરી(કોઝિકોડ)"
+    },
+    {
+      "english": "Vengola",
+      "hindi": "વેંગોલા",
+      "gujarati": "વેંગોલા"
+    },
+    {
+      "english": "Vengola VFPCK",
+      "hindi": "વેંગોલા વીએફપીસીકે",
+      "gujarati": "વેંગોલા વીએફપીસીકે"
+    },
+    {
+      "english": "Venkatagiri",
+      "hindi": "વેંકટગિરી",
+      "gujarati": "વેંકટગિરી"
+    },
+    {
+      "english": "Venkateswarnagar",
+      "hindi": "વેંકટેશ્વરનગર",
+      "gujarati": "વેંકટેશ્વરનગર"
+    },
+    {
+      "english": "Venkateswarnagar(Chintapalli)",
+      "hindi": "વેંકટેશ્વરનગર(ચિંતાપલ્લી)",
+      "gujarati": "વેંકટેશ્વરનગર(ચિંતાપલ્લી)"
+    },
+    {
+      "english": "Venmony",
+      "hindi": "વેન્મોની",
+      "gujarati": "વેન્મોની"
+    },
+    {
+      "english": "Venmony VFPCK",
+      "hindi": "વેન્મોની વીએફપીસીકે",
+      "gujarati": "વેન્મોની વીએફપીસીકે"
+    },
+    {
+      "english": "Vepanjari",
+      "hindi": "વેપંજરી",
+      "gujarati": "વેપંજરી"
+    },
+    {
+      "english": "Veraval",
+      "hindi": "વેરાવલ",
+      "gujarati": "વેરાવલ"
+    },
+    {
+      "english": "Vessue",
+      "hindi": "વેસુ",
+      "gujarati": "વેસુ"
+    },
+    {
+      "english": "Vettavalam",
+      "hindi": "વેત્તાવલમ",
+      "gujarati": "વેત્તાવલમ"
+    },
+    {
+      "english": "Vidisha",
+      "hindi": "વિદિશા",
+      "gujarati": "વિદિશા"
+    },
+    {
+      "english": "Vijapur",
+      "hindi": "વિજાપુર",
+      "gujarati": "વિજાપુર"
+    },
+    {
+      "english": "Vijapur(Gojjariya)",
+      "hindi": "વિજાપુર(ગોજ્જરીયા)",
+      "gujarati": "વિજાપુર(ગોજ્જરીયા)"
+    },
+    {
+      "english": "Vijapur(Kukarvada)",
+      "hindi": "વિજાપુર(કુકરવાડા)",
+      "gujarati": "વિજાપુર(કુકરવાડા)"
+    },
+    {
+      "english": "Vijapur(Ladol)",
+      "hindi": "વિજાપુર(લાડોલ)",
+      "gujarati": "વિજાપુર(લાડોલ)"
+    },
+    {
+      "english": "Vijapur(veg)",
+      "hindi": "વિજાપુર(સબ્જી)",
+      "gujarati": "વિજાપુર(શાકભાજી)"
+    },
+    {
+      "english": "Vijay Nagar(Gulabpura)",
+      "hindi": "વિજય નગર(ગુલાબપુરા)",
+      "gujarati": "વિજય નગર(ગુલાબપુરા)"
+    },
+    {
+      "english": "Vijayanagaram",
+      "hindi": "વિજયનગરમ",
+      "gujarati": "વિજયનગરમ"
+    },
+    {
+      "english": "Vijayanagaram(Rythu Bazar)",
+      "hindi": "વિજયનગરમ(રૈથુ બજાર)",
+      "gujarati": "વિજયનગરમ(રૈથુ બજાર)"
+    },
+    {
+      "english": "Vijayawada",
+      "hindi": "વિજયવાડા",
+      "gujarati": "વિજયવાડા"
+    },
+    {
+      "english": "Vijayawada(S.Maidan),RBZ",
+      "hindi": "વિજયવાડા(એસ.મૈદાન),આરબીઝેડ",
+      "gujarati": "વિજયવાડા(એસ.મૈદાન),આરબીઝેડ"
+    },
+    {
+      "english": "Vijaynagar",
+      "hindi": "વિજયનગર",
+      "gujarati": "વિજયનગર"
+    },
+    {
+      "english": "Vijaynagar(Kundlakap)",
+      "hindi": "વિજયનગર(કુંડલકાપ)",
+      "gujarati": "વિજયનગર(કુંડલકાપ)"
+    },
+    {
+      "english": "Vijaypur",
+      "hindi": "વિજયપુર",
+      "gujarati": "વિજયપુર"
+    },
+    {
+      "english": "Vikarabad",
+      "hindi": "વિકારાબાદ",
+      "gujarati": "વિકારાબાદ"
+    },
+    {
+      "english": "Vikasnagar",
+      "hindi": "વિકાસનગર",
+      "gujarati": "વિકાસનગર"
+    },
+    {
+      "english": "Vikkiravandi",
+      "hindi": "વિક્કિરવંડી",
+      "gujarati": "વિક્કિરવંડી"
+    },
+    {
+      "english": "Vikramganj",
+      "hindi": "વિક્રમગંજ",
+      "gujarati": "વિક્રમગંજ"
+    },
+    {
+      "english": "Vilaspur",
+      "hindi": "વિલાસપુર",
+      "gujarati": "વિલાસપુર"
+    },
+    {
+      "english": "Vilathikulam",
+      "hindi": "વિલાથિકુલમ",
+      "gujarati": "વિલાથિકુલમ"
+    },
+    {
+      "english": "Villupuram",
+      "hindi": "વિલુપ્પુરમ",
+      "gujarati": "વિલુપ્પુરમ"
+    },
+    {
+      "english": "Vilthararoad",
+      "hindi": "વિલ્થારારોડ",
+      "gujarati": "વિલ્થારારોડ"
+    },
+    {
+      "english": "Vinayak Krishi-Mandi Yard",
+      "hindi": "વિનાયક કૃષિ-મંડી યાર્ડ",
+      "gujarati": "વિનાયક કૃષિ-મંડી યાર્ડ"
+    },
+    {
+      "english": "Vinukonda",
+      "hindi": "વિનુકોંડા",
+      "gujarati": "વિનુકોંડા"
+    },
+    {
+      "english": "Viralimalai(Uzhavar Sandhai )",
+      "hindi": "વિરલિમલાઈ(ઉઝાવર સંધાઈ)",
+      "gujarati": "વિરલિમલાઈ(ઉઝાવર સંધાઈ)"
+    },
+    {
+      "english": "Viramgam",
+      "hindi": "વિરમગામ",
+      "gujarati": "વિરમગામ"
+    },
+    {
+      "english": "Virpur",
+      "hindi": "વીરપુર",
+      "gujarati": "વીરપુર"
+    },
+    {
+      "english": "Virudhachalam",
+      "hindi": "વિરુધાચલમ",
+      "gujarati": "વિરુધાચલમ"
+    },
+    {
+      "english": "Virudhunagar",
+      "hindi": "વિરુધુનગર",
+      "gujarati": "વિરુધુનગર"
+    },
+    {
+      "english": "Virudhunagar(Uzhavar Sandhai )",
+      "hindi": "વિરુધુનગર(ઉઝાવર સંધાઈ)",
+      "gujarati": "વિરુધુનગર(ઉઝાવર સંધાઈ)"
+    },
+    {
+      "english": "Viruthachalam(Uzhavar Sandhai )",
+      "hindi": "વિરુથાચલમ(ઉઝાવર સંધાઈ)",
+      "gujarati": "વિરુથાચલમ(ઉઝાવર સંધાઈ)"
+    },
+    {
+      "english": "Visakhapatnam",
+      "hindi": "વિશાખાપટ્ટનમ",
+      "gujarati": "વિશાખાપટ્ટનમ"
+    },
+    {
+      "english": "Visavadar",
+      "hindi": "વિસાવદર",
+      "gujarati": "વિસાવદર"
+    },
+    {
+      "english": "Vishalpur",
+      "hindi": "વિશાલપુર",
+      "gujarati": "વિશાલપુર"
+    },
+    {
+      "english": "Vishrampur",
+      "hindi": "વિશ્રામપુર",
+      "gujarati": "વિશ્રામપુર"
+    },
+    {
+      "english": "Visnagar",
+      "hindi": "વિસનગર",
+      "gujarati": "વિસનગર"
+    },
+    {
+      "english": "Visoli",
+      "hindi": "વિસોલી",
+      "gujarati": "વિસોલી"
+    },
+    {
+      "english": "Viswan",
+      "hindi": "વિસ્વન",
+      "gujarati": "વિસ્વન"
+    },
+    {
+      "english": "Vita",
+      "hindi": "વીતા",
+      "gujarati": "વીતા"
+    },
+    {
+      "english": "Vithinasserri",
+      "hindi": "વિથિનસ્સેરી",
+      "gujarati": "વિથિનસ્સેરી"
+    },
+    {
+      "english": "Vithinasserri VFPCK",
+      "hindi": "વિથિનસ્સેરી વીએફપીસીકે",
+      "gujarati": "વિથિનસ્સેરી વીએફપીસીકે"
+    },
+    {
+      "english": "Vitthal Krushi Utpanna Bazar",
+      "hindi": "વિત્થલ કૃષિ ઉત્પન્ન બજાર",
+      "gujarati": "વિત્થલ કૃષિ ઉત્પન્ન બજાર"
+    },
+    {
+      "english": "Voligonda",
+      "hindi": "વોલિગોંડા",
+      "gujarati": "વોલિગોંડા"
+    },
+    {
+      "english": "Voligonda(Ramannapet)",
+      "hindi": "વોલિગોંડા(રમન્નાપેટ)",
+      "gujarati": "વોલિગોંડા(રમન્નાપેટ)"
+    },
+    {
+      "english": "Vuyyur",
+      "hindi": "વુય્યુર",
+      "gujarati": "વુય્યુર"
+    },
+    {
+      "english": "Vuyyur,RBZ",
+      "hindi": "વુય્યુર,આરબીઝેડ",
+      "gujarati": "વુય્યુર,આરબીઝેડ"
+    },
+    {
+      "english": "Vuyyuru(Rythu Bazar)",
+      "hindi": "વુય્યુરુ(રૈથુ બજાર)",
+      "gujarati": "વુય્યુરુ(રૈથુ બજાર)"
+    },
+    {
+      "english": "Vyara(Paati)",
+      "hindi": "વ્યારા(પાતી)",
+      "gujarati": "વ્યારા(પાતી)"
+    },
+    {
+      "english": "Vyra",
+      "hindi": "વ્યરા",
+      "gujarati": "વ્યરા"
+    },
+    {
+      "english": "Wadakkanchery",
+      "hindi": "વડક્કન્ચેરી",
+      "gujarati": "વડક્કન્ચેરી"
+    },
+    {
+      "english": "Wahiajer",
+      "hindi": "વાહિયાજેર",
+      "gujarati": "વાહિયાજેર"
+    },
+    {
+      "english": "Waknaghat",
+      "hindi": "વાકનાઘાટ",
+      "gujarati": "વાકનાઘાટ"
+    },
+    {
+      "english": "Wanaparthy Road",
+      "hindi": "વનપર્થી રોડ",
+      "gujarati": "વનપર્થી રોડ"
+    },
+    {
+      "english": "Wanaparthy Road(Prbbair)",
+      "hindi": "વનપર્થી રોડ(પ્રબ્બૈર)",
+      "gujarati": "વનપર્થી રોડ(પ્રબ્બૈર)"
+    },
+    {
+      "english": "Wanaparthy town",
+      "hindi": "વનપર્થી શહેર",
+      "gujarati": "વનપર્થી શહેર"
+    },
+    {
+      "english": "Wansi",
+      "hindi": "વાંસી",
+      "gujarati": "વાંસી"
+    },
+    {
+      "english": "Warangal",
+      "hindi": "વરંગલ",
+      "gujarati": "વરંગલ"
+    },
+    {
+      "english": "Wardha",
+      "hindi": "વર્ધા",
+      "gujarati": "વર્ધા"
+    },
+    {
+      "english": "Wardhannapet",
+      "hindi": "વર્ધન્નાપેટ",
+      "gujarati": "વર્ધન્નાપેટ"
+    },
+    {
+      "english": "Warsola",
+      "hindi": "વારસોલા",
+      "gujarati": "વારસોલા"
+    },
+    {
+      "english": "Washi (Dharashiv)",
+      "hindi": "વાશી (ધારાશિવ)",
+      "gujarati": "વાશી (ધારાશિવ)"
+    },
+    {
+      "english": "Washi(Osmanabad)",
+      "hindi": "વાશી(ઓસ્માનાબાદ)",
+      "gujarati": "વાશી(ઓસ્માનાબાદ)"
+    },
+    {
+      "english": "Washi(Thane Market)",
+      "hindi": "વાશી(થાણે માર્કેટ)",
+      "gujarati": "વાશી(થાણે માર્કેટ)"
+    },
+    {
+      "english": "Washim",
+      "hindi": "વાશિમ",
+      "gujarati": "વાશિમ"
+    },
+    {
+      "english": "Washim(Ansing)",
+      "hindi": "વાશિમ(અંસિંગ)",
+      "gujarati": "વાશિમ(અંસિંગ)"
+    },
+    {
+      "english": "Wazirganj",
+      "hindi": "વઝીરગંજ",
+      "gujarati": "વઝીરગંજ"
+    },
+    {
+      "english": "Weekly Market Area,RBZ",
+      "hindi": "સાપ્તાહિક માર્કેટ વિસ્તાર,આરબીઝેડ",
+      "gujarati": "સાપ્તાહિક માર્કેટ વિસ્તાર,આરબીઝેડ"
+    },
+    {
+      "english": "Weir",
+      "hindi": "વેઈર",
+      "gujarati": "વેઈર"
+    },
+    {
+      "english": "Williamnagar",
+      "hindi": "વિલિયમનગર",
+      "gujarati": "વિલિયમનગર"
+    },
+    {
+      "english": "Wokha Town",
+      "hindi": "વોખા શહેર",
+      "gujarati": "વોખા શહેર"
+    },
+    {
+      "english": "Wyra",
+      "hindi": "વ્યરા",
+      "gujarati": "વ્યરા"
+    },
+    {
+      "english": "Yadagiri(Gurumittkal)",
+      "hindi": "યાદગિરી(ગુરુમિત્તકલ)",
+      "gujarati": "યાદગિરી(ગુરુમિત્તકલ)"
+    },
+    {
+      "english": "Yadgir",
+      "hindi": "યાદગિર",
+      "gujarati": "યાદગિર"
+    },
+    {
+      "english": "Yalburga",
+      "hindi": "યલબુર્ગા",
+      "gujarati": "યલબુર્ગા"
+    },
+    {
+      "english": "Yallapura(Kiruvathi)",
+      "hindi": "યલ્લાપુરા(કિરુવાથી)",
+      "gujarati": "યલ્લાપુરા(કિરુવાથી)"
+    },
+    {
+      "english": "Yamuna Nagar",
+      "hindi": "યમુના નગર",
+      "gujarati": "યમુના નગર"
+    },
+    {
+      "english": "Yamunanagar(Fish Market)",
+      "hindi": "યમુનાનગર(માછલી માર્કેટ)",
+      "gujarati": "યમુનાનગર(માછલી માર્કેટ)"
+    },
+    {
+      "english": "Yanam",
+      "hindi": "યાનમ",
+      "gujarati": "યાનમ"
+    },
+    {
+      "english": "Yawal",
+      "hindi": "યાવલ",
+      "gujarati": "યાવલ"
+    },
+    {
+      "english": "Yellamanchili",
+      "hindi": "યેલ્લમંચિલી",
+      "gujarati": "યેલ્લમંચિલી"
+    },
+    {
+      "english": "Yellandu",
+      "hindi": "યેલ્લંડુ",
+      "gujarati": "યેલ્લંડુ"
+    },
+    {
+      "english": "Yellapur",
+      "hindi": "યેલ્લાપુર",
+      "gujarati": "યેલ્લાપુર"
+    },
+    {
+      "english": "Yellareddy",
+      "hindi": "યેલ્લારેડ્ડી",
+      "gujarati": "યેલ્લારેડ્ડી"
+    },
+    {
+      "english": "Yemmiganur",
+      "hindi": "યેમ્મિગનુર",
+      "gujarati": "યેમ્મિગનુર"
+    },
+    {
+      "english": "Yeola",
+      "hindi": "યેઓલા",
+      "gujarati": "યેઓલા"
+    },
+    {
+      "english": "Yeotmal",
+      "hindi": "યેઓતમાલ",
+      "gujarati": "યેઓતમાલ"
+    },
+    {
+      "english": "Yingkiong",
+      "hindi": "યિંગકિઓંગ",
+      "gujarati": "યિંગકિઓંગ"
+    },
+    {
+      "english": "Yusufpur",
+      "hindi": "યુસુફપુર",
+      "gujarati": "યુસુફપુર"
+    },
+    {
+      "english": "Zaheerabad",
+      "hindi": "ઝહીરાબાદ",
+      "gujarati": "ઝહીરાબાદ"
+    },
+    {
+      "english": "Zalod(Sanjeli)",
+      "hindi": "ઝલોડ(સંજેલી)",
+      "gujarati": "ઝલોડ(સંજેલી)"
+    },
+    {
+      "english": "Zalod(Zalod)",
+      "hindi": "ઝલોડ(ઝલોડ)",
+      "gujarati": "ઝલોડ(ઝલોડ)"
+    },
+    {
+      "english": "Zaloosa-Chararishrief (F&V)",
+      "hindi": "ઝલૂસા-ચરારિશ્રીફ (એફએન્ડવી)",
+      "gujarati": "ઝલૂસા-ચરારિશ્રીફ (એફએન્ડવી)"
+    },
+    {
+      "english": "ZariZamini",
+      "hindi": "ઝરીઝમીની",
+      "gujarati": "ઝરીઝમીની"
+    },
+    {
+      "english": "Zerota",
+      "hindi": "ઝેરોટા",
+      "gujarati": "ઝેરોટા"
+    },
+    {
+      "english": "Zira",
+      "hindi": "ઝિરા",
+      "gujarati": "ઝિરા"
+    },
+    {
+      "english": "Ziro",
+      "hindi": "ઝિરો",
+      "gujarati": "ઝિરો"
+    },
+    {
+      "english": "Zunheboto",
+      "hindi": "ઝુન્હેબોટો",
+      "gujarati": "ઝુન્હેબોટો"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+    "states": [
+      {
+        "english": "Andaman and Nicobar",
+        "hindi": "अंडमान और निकोबार द्वीप समूह",
+        "gujarati": "અંદામાન અને નિકોબાર દ્વીપસમૂહ"
+      },
+      {
+        "english": "Andhra Pradesh",
+        "hindi": "आंध्र प्रदेश",
+        "gujarati": "આંધ્ર પ્રદેશ"
+      },
+      {
+        "english": "Arunachal Pradesh",
+        "hindi": "अरुणाचल प्रदेश",
+        "gujarati": "અરુણાચલ પ્રદેશ"
+      },
+      {
+        "english": "Assam",
+        "hindi": "असम",
+        "gujarati": "આસામ"
+      },
+      {
+        "english": "Bihar",
+        "hindi": "बिहार",
+        "gujarati": "બિહાર"
+      },
+      {
+        "english": "Chandigarh",
+        "hindi": "चंडीगढ़",
+        "gujarati": "ચંડીગઢ"
+      },
+      {
+        "english": "Chattisgarh",
+        "hindi": "छत्तीसगढ़",
+        "gujarati": "છત્તીસગઢ"
+      },
+      {
+        "english": "Dadra and Nagar Haveli",
+        "hindi": "दादरा और नगर हवेली",
+        "gujarati": "દાદરા અને નગર હવેલી"
+      },
+      {
+        "english": "Daman and Diu",
+        "hindi": "दमन और दीव",
+        "gujarati": "દમણ અને દીવ"
+      },
+      {
+        "english": "Goa",
+        "hindi": "गोआ",
+        "gujarati": "ગોઆ"
+      },
+      {
+        "english": "Gujarat",
+        "hindi": "गुजरात",
+        "gujarati": "ગુજરાત"
+      },
+      {
+        "english": "Haryana",
+        "hindi": "हरियाणा",
+        "gujarati": "હરિયાણા"
+      },
+      {
+        "english": "Himachal Pradesh",
+        "hindi": "हिमाचल प्रदेश",
+        "gujarati": "હિમાચલ પ્રદેશ"
+      },
+      {
+        "english": "Jammu and Kashmir",
+        "hindi": "जम्मू और कश्मीर",
+        "gujarati": "જમ્મુ અને કાશ્મીર"
+      },
+      {
+        "english": "Jharkhand",
+        "hindi": "झारखंड",
+        "gujarati": "ઝારખંડ"
+      },
+      {
+        "english": "Karnataka",
+        "hindi": "कर्नाटक",
+        "gujarati": "કર્ણાટક"
+      },
+      {
+        "english": "Kerala",
+        "hindi": "केरल",
+        "gujarati": "કેરળ"
+      },
+      {
+        "english": "Lakshadweep",
+        "hindi": "लक्षद्वीप",
+        "gujarati": "લક્ષદ્વીપ"
+      },
+      {
+        "english": "Madhya Pradesh",
+        "hindi": "मध्य प्रदेश",
+        "gujarati": "મધ્ય પ્રદેશ"
+      },
+      {
+        "english": "Maharashtra",
+        "hindi": "महाराष्ट्र",
+        "gujarati": "મહારાષ્ટ્ર"
+      },
+      {
+        "english": "Manipur",
+        "hindi": "मणिपुर",
+        "gujarati": "મણિપુર"
+      },
+      {
+        "english": "Meghalaya",
+        "hindi": "मेघालय",
+        "gujarati": "મેઘાલય"
+      },
+      {
+        "english": "Mizoram",
+        "hindi": "मिज़ोरम",
+        "gujarati": "મિઝોરમ"
+      },
+      {
+        "english": "Nagaland",
+        "hindi": "नागालैंड",
+        "gujarati": "નાગાલેંડ"
+      },
+      {
+        "english": "NCT of Delhi",
+        "hindi": "दिल्ली राष्ट्रीय राजधानी क्षेत्र",
+        "gujarati": "રાષ્ટ્રીય રાજધાનીનો પ્રદેશ, દિલ્હી"
+      },
+      {
+        "english": "Odisha",
+        "hindi": "ओडिशा",
+        "gujarati": "ઑડિશા"
+      },
+      {
+        "english": "Pondicherry",
+        "hindi": "पुडुचेरी",
+        "gujarati": "પૉંડિચેરી"
+      },
+      {
+        "english": "Punjab",
+        "hindi": "पंजाब",
+        "gujarati": "પંજાબ"
+      },
+      {
+        "english": "Rajasthan",
+        "hindi": "राजस्थान",
+        "gujarati": "રાજસ્થાન"
+      },
+      {
+        "english": "Sikkim",
+        "hindi": "सिक्किम",
+        "gujarati": "સિક્કિમ"
+      },
+      {
+        "english": "Tamil Nadu",
+        "hindi": "तमिलनाडु",
+        "gujarati": "તમિલ નાડુ"
+      },
+      {
+        "english": "Telangana",
+        "hindi": "तेलंगाना",
+        "gujarati": "તેલંગાણા"
+      },
+      {
+        "english": "Tripura",
+        "hindi": "त्रिपुरा",
+        "gujarati": "ત્રિપુરા"
+      },
+      {
+        "english": "Uttar Pradesh",
+        "hindi": "उत्तर प्रदेश",
+        "gujarati": "ઉત્તર પ્રદેશ"
+      },
+      {
+        "english": "Uttrakhand",
+        "hindi": "उत्तराखंड",
+        "gujarati": "ઉત્તરાખંડ"
+      },
+      {
+        "english": "West Bengal",
+        "hindi": "पश्चिम बंगाल",
+        "gujarati": "પશ્ચિમ બંગાળ"
+      }
+    ]
+  }

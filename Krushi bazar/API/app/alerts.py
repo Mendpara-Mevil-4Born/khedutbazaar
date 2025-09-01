@@ -1,5 +1,7 @@
 from flask import Blueprint, request, jsonify
 from API.db_connect import get_db
+from API.app.translation_service import HybridTranslationService
+import asyncio
 
 alerts_bp = Blueprint('alerts', __name__)
 
@@ -47,6 +49,7 @@ def alerts():
     elif action == 'get':
         if not userid:
             return jsonify({'status': 'error', 'message': 'userid is required for get'})
+        language = data.get('language', 'en').lower()  # Get language parameter
         get_query = """
             SELECT a.*, m.name AS market_name
             FROM alerts a
@@ -54,8 +57,39 @@ def alerts():
             WHERE a.userid = %s
         """
         cursor.execute(get_query, (userid,))
-        data = cursor.fetchall()  # DictCursor automatically returns dictionaries
-        return jsonify({'status': 'success', 'data': data})
+        alerts_data = cursor.fetchall()  # DictCursor automatically returns dictionaries
+
+        # Convert id and marketid to string
+        for alert in alerts_data:
+            alert['id'] = str(alert['id'])
+            alert['marketid'] = str(alert['marketid'])
+            alert['userid'] = str(alert['userid'])
+
+
+        if alerts_data:
+            if language in ['hi', 'gu']:
+                # Use the HybridTranslationService for accurate translations
+                # First translate market names
+                data_with_translated_markets = asyncio.run(
+                    HybridTranslationService.batch_hybrid_translate(alerts_data, language, 'market_name')
+                )
+                # Then translate commodity names
+                data_with_translated_commodities = asyncio.run(
+                    HybridTranslationService.batch_hybrid_translate(data_with_translated_markets, language, 'commodity')
+                )
+                # Then translate variety names
+                data_with_translated_varieties = asyncio.run(
+                    HybridTranslationService.batch_hybrid_translate(data_with_translated_commodities, language, 'variety')
+                )
+                # Finally translate conditions
+                translated_alerts = asyncio.run(
+                    HybridTranslationService.batch_hybrid_translate(data_with_translated_varieties, language, 'conditions')
+                )
+                return jsonify({'status': 'success', 'data': translated_alerts})
+            else:
+                return jsonify({'status': 'success', 'data': alerts_data})
+        else:
+            return jsonify({'status': 'error', 'message': 'No alerts found'})
 
     else:
         return jsonify({'status': 'error', 'message': 'Invalid action'})
