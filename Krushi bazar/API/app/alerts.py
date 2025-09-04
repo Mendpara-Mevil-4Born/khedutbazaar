@@ -67,27 +67,71 @@ def alerts():
 
 
         if alerts_data:
-            if language in ['hi', 'gu']:
-                # Use the HybridTranslationService for accurate translations
-                # First translate market names
-                data_with_translated_markets = asyncio.run(
-                    HybridTranslationService.batch_hybrid_translate(alerts_data, language, 'market_name')
-                )
-                # Then translate commodity names
-                data_with_translated_commodities = asyncio.run(
-                    HybridTranslationService.batch_hybrid_translate(data_with_translated_markets, language, 'commodity')
-                )
-                # Then translate variety names
-                data_with_translated_varieties = asyncio.run(
-                    HybridTranslationService.batch_hybrid_translate(data_with_translated_commodities, language, 'variety')
-                )
-                # Finally translate conditions
-                translated_alerts = asyncio.run(
-                    HybridTranslationService.batch_hybrid_translate(data_with_translated_varieties, language, 'conditions')
-                )
-                return jsonify({'status': 'success', 'data': translated_alerts})
-            else:
-                return jsonify({'status': 'success', 'data': alerts_data})
+            # Enhanced translation logic that handles all scenarios properly
+            translated_alerts = []
+            
+            for alert in alerts_data:
+                translated_alert = alert.copy()
+                
+                # Define fields to translate
+                fields_to_translate = ['market_name', 'commodity', 'variety', 'conditions']
+                
+                for field in fields_to_translate:
+                    if field in translated_alert and translated_alert[field]:
+                        original_value = translated_alert[field]
+                        
+                        if language == 'en':
+                            # Translate TO English (from any source language)
+                            try:
+                                # Check if it's already English
+                                if HybridTranslationService.is_english_text(original_value):
+                                    translated_alert[field] = original_value
+                                else:
+                                    # Detect language and translate to English
+                                    detected_lang = HybridTranslationService.detect_language_from_json(original_value)
+                                    if detected_lang:
+                                        translated_alert[field] = asyncio.run(
+                                            HybridTranslationService.reverse_translate_to_english(original_value, detected_lang)
+                                        )
+                                    else:
+                                        # Fallback: use Google Translate
+                                        translated_alert[field] = asyncio.run(
+                                            HybridTranslationService.detect_language_and_translate_to_english(original_value)
+                                        )
+                            except Exception as e:
+                                print(f"Translation error for {field}: {e}")
+                                translated_alert[field] = original_value
+                                
+                        elif language in ['hi', 'gu']:
+                            # Translate TO Hindi/Gujarati (from any source language)
+                            try:
+                                # First, get English version
+                                if HybridTranslationService.is_english_text(original_value):
+                                    english_value = original_value
+                                else:
+                                    # Convert to English first
+                                    detected_lang = HybridTranslationService.detect_language_from_json(original_value)
+                                    if detected_lang:
+                                        english_value = asyncio.run(
+                                            HybridTranslationService.reverse_translate_to_english(original_value, detected_lang)
+                                        )
+                                    else:
+                                        english_value = asyncio.run(
+                                            HybridTranslationService.detect_language_and_translate_to_english(original_value)
+                                        )
+                                
+                                # Then translate from English to target language
+                                translated_alert[field] = asyncio.run(
+                                    HybridTranslationService.hybrid_translate(english_value, language)
+                                )
+                            except Exception as e:
+                                print(f"Translation error for {field}: {e}")
+                                translated_alert[field] = original_value
+                        # For unsupported languages, keep original data
+                
+                translated_alerts.append(translated_alert)
+            
+            return jsonify({'status': 'success', 'data': translated_alerts})
         else:
             return jsonify({'status': 'error', 'message': 'No alerts found'})
 
