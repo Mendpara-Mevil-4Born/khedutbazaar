@@ -14,7 +14,8 @@ class HybridTranslationService:
         'commodity': 'commodity.json',
         'states': 'states.json', 
         'districts': 'districts.json',
-        'markets': 'markets.json'
+        'markets': 'markets.json',
+        'variety': 'variety.json'
     }
     
     # Translation cache
@@ -48,7 +49,7 @@ class HybridTranslationService:
     def _get_translation_from_json(cls, text, target_lang, file_types=None):
         """Get translation from JSON files"""
         if file_types is None:
-            file_types = ['commodity', 'states', 'districts', 'markets']
+            file_types = ['commodity', 'states', 'districts', 'markets', 'variety']
         
         # Map language codes to JSON field names
         lang_map = {
@@ -212,7 +213,7 @@ class HybridTranslationService:
     def detect_language_from_json(cls, text):
         """Detect language by checking JSON files"""
         # Check if text exists in Hindi translations
-        for file_type in ['commodity', 'states', 'districts', 'markets']:
+        for file_type in ['commodity', 'states', 'districts', 'markets', 'variety']:
             data = cls._load_json_file(file_type)
             if not data:
                 continue

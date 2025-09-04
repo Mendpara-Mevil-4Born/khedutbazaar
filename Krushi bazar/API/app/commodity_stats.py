@@ -58,8 +58,9 @@ def commodity_stats():
         )
         variety = translated_data[0]['variety']
         
-        print(f"Translated input - Original: {original_commodity} -> English: {commodity}")
-        print(f"Translated input - Original: {original_variety} -> English: {variety}")
+        # Debug logging (commented out for production)
+        # print(f"Translated input - Original: {original_commodity} -> English: {commodity}")
+        # print(f"Translated input - Original: {original_variety} -> English: {variety}")
         
     except Exception as e:
         print(f"Translation error for input parameters: {e}")

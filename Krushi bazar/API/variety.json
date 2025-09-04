@@ -1,0 +1,774 @@
+{
+  "markets": [
+    {
+      "english": "1001",
+      "hindi": "1001",
+      "gujarati": "1001"
+    },
+    {
+      "english": "2189 No. 1",
+      "hindi": "2189 नंबर 1",
+      "gujarati": "2189 નંબર 1"
+    },
+    {
+      "english": "2189 No. 2",
+      "hindi": "2189 नंबर 2",
+      "gujarati": "2189 નંબર 2"
+    },
+    {
+      "english": "999",
+      "hindi": "999",
+      "gujarati": "999"
+    },
+    {
+      "english": "147 Average",
+      "hindi": "147 औसत",
+      "gujarati": "147 સરેરાશ"
+    },
+    {
+      "english": "(Red Nanital)",
+      "hindi": "(रेड नैनिटल)",
+      "gujarati": "(લાલ નાનીટલ)"
+    },
+    {
+      "english": "African Sarson",
+      "hindi": "अफ्रीकी सरसन",
+      "gujarati": "આફ્રિકન સરસન"
+    },
+    {
+      "english": "A-1, Green",
+      "hindi": "ए -1, हरा",
+      "gujarati": "એ -1, લીલો"
+    },
+    {
+      "english": "Amaranthus",
+      "hindi": "चौलाई",
+      "gujarati": "અમરાન્થસ"
+    },
+    {
+      "english": "777 New Ind",
+      "hindi": "777 न्यू इंडस्ट्रीज़",
+      "gujarati": "777 નવી ઇન્ડસ્ટ્રી"
+    },
+    {
+      "english": "Ajwan",
+      "hindi": "अजवान",
+      "gujarati": "અજવાન"
+    },
+    {
+      "english": "Amruthapani",
+      "hindi": "अम्रुथापानी",
+      "gujarati": "અમૃતપની"
+    },
+    {
+      "english": "Alasande Gram",
+      "hindi": "अलासांडे ग्राम",
+      "gujarati": "અરેસંડે ગ્રામ"
+    },
+    {
+      "english": "Apple",
+      "hindi": "सेब",
+      "gujarati": "સફરજન"
+    },
+    {
+      "english": "Average",
+      "hindi": "औसत",
+      "gujarati": "સરેરાશ"
+    },
+    {
+      "english": "Average (Whole)",
+      "hindi": "औसत (साबुत)",
+      "gujarati": "સરેરાશ (આખા)"
+    },
+    {
+      "english": "Banana - Green",
+      "hindi": "केला - हरा",
+      "gujarati": "કેળા - લીલોતરી"
+    },
+    {
+      "english": "Arhar (Whole)",
+      "hindi": "अरहर (साबुत)",
+      "gujarati": "અરહર (આખા)"
+    },
+    {
+      "english": "Asalia-Organic",
+      "hindi": "असीलिया",
+      "gujarati": "અસલિયા"
+    },
+    {
+      "english": "Arkasheela Mattigulla",
+      "hindi": "अरकाशिला मैटिगुला",
+      "gujarati": "અર્કાશીલા મેટિગુલ્લા"
+    },
+    {
+      "english": "Arhar Dal(Tur)",
+      "hindi": "अरहर दाल(तुअर)",
+      "gujarati": "અરહર દાળ (તુર)"
+    },
+    {
+      "english": "Balli/Habbu",
+      "hindi": "बल्ली/हब्बु",
+      "gujarati": "બલી/હબ્બુ"
+    },
+    {
+      "english": "Bansi",
+      "hindi": "बंसी",
+      "gujarati": "બંસી"
+    },
+    {
+      "english": "Beans (Whole)",
+      "hindi": "बीन्स (આખા)",
+      "gujarati": "કઠોળ (આખા)"
+    },
+    {
+      "english": "Best",
+      "hindi": "श्रेष्ठ",
+      "gujarati": "શ્રેષ્ઠ"
+    },
+    {
+      "english": "Bhindi",
+      "hindi": "भिंडी",
+      "gujarati": "ભીંડી"
+    },
+    {
+      "english": "Black",
+      "hindi": "काला",
+      "gujarati": "કાળું"
+    },
+    {
+      "english": "Big (With Shell)",
+      "hindi": "बड़ा (शेल के साथ)",
+      "gujarati": "મોટા (શેલ સાથે)"
+    },
+    {
+      "english": "Black Gram (Whole)",
+      "hindi": "काला चना (साबुत)",
+      "gujarati": "કાળા ચણા (આખા)"
+    },
+    {
+      "english": "Bitter Gourd",
+      "hindi": "करेला",
+      "gujarati": "કારેલા"
+    },
+    {
+      "english": "Big 100 Kg",
+      "hindi": "बिग 100 किग्रा",
+      "gujarati": "મોટા 100 કિલો"
+    },
+    {
+      "english": "Bold",
+      "hindi": "बोल्ड",
+      "gujarati": "બોલ્ડ"
+    },
+    {
+      "english": "Bunny",
+      "hindi": "करगोश",
+      "gujarati": "સસલું"
+    },
+    {
+      "english": "Bottle Gourd",
+      "hindi": "लौकी",
+      "gujarati": "બોટલ ગોળા"
+    },
+    {
+      "english": "Brinjal",
+      "hindi": "बैंगन",
+      "gujarati": "રીંગણ"
+    },
+    {
+      "english": "Capsicum",
+      "hindi": "शिमला मिर्च",
+      "gujarati": "કેપ્સીકમ"
+    },
+    {
+      "english": "Caster",
+      "hindi": "कास्टर",
+      "gujarati": "ઢાળગર"
+    },
+    {
+      "english": "Carrot",
+      "hindi": "गाजर",
+      "gujarati": "ગાજર"
+    },
+    {
+      "english": "Cabbage",
+      "hindi": "पत्ता गोभी",
+      "gujarati": "કોબી"
+    },
+    {
+      "english": "Cauliflower",
+      "hindi": "फूलगोभी",
+      "gujarati": "ફૂલકોબી"
+    },
+    {
+      "english": "Chips",
+      "hindi": "चिप्स",
+      "gujarati": "ચિપ્સ"
+    },
+    {
+      "english": "Castor seed",
+      "hindi": "अरंडी का बीज",
+      "gujarati": "એરંડા"
+    },
+    {
+      "english": "Coriander",
+      "hindi": "धनिया",
+      "gujarati": "કોથમીર"
+    },
+    {
+      "english": "Cluster Beans",
+      "hindi": "क्लस्टर बीन्स",
+      "gujarati": "ક્લસ્ટર બીન્સ"
+    },
+    {
+      "english": "Coarse",
+      "hindi": "खुरदुरा",
+      "gujarati": "બરછટ"
+    },
+    {
+      "english": "Common",
+      "hindi": "सामान्य",
+      "gujarati": "સામાન્ય"
+    },
+    {
+      "english": "Coriander Seed",
+      "hindi": "धनिया बीज",
+      "gujarati": "કોથળી"
+    },
+    {
+      "english": "Cotton (Unginned)",
+      "hindi": "कपास (बिना ओटा हुआ)",
+      "gujarati": "કપાસ (અનગિન્ડ)"
+    },
+    {
+      "english": "Cowpea (Veg)",
+      "hindi": "लोबिया (VEG)",
+      "gujarati": "ચોળી  (શાકાહારી)"
+    },
+    {
+      "english": "Cucumbar",
+      "hindi": "ककड़ी",
+      "gujarati": "કાકડી"
+    },
+    {
+      "english": "Cummin Seed(Jeera)",
+      "hindi": "क्यूमिन सीड (जीरा)",
+      "gujarati": "જીરું (જીરું)"
+    },
+    {
+      "english": "Deshi",
+      "hindi": "देशी",
+      "gujarati": "દેશી"
+    },
+    {
+      "english": "Deshi Red",
+      "hindi": "देशी रेड",
+      "gujarati": "દેશી લાલ"
+    },
+    {
+      "english": "Darjeeling",
+      "hindi": "दार्जिलिंग",
+      "gujarati": "દાર્જિલિંગ"
+    },
+    {
+      "english": "Desi",
+      "hindi": "देसी",
+      "gujarati": "દેશી"
+    },
+    {
+      "english": "Drumstick",
+      "hindi": "ढोल का छड़ी",
+      "gujarati": "ડ્રમસ્ટિક"
+    },
+    {
+      "english": "Deshi White",
+      "hindi": "देशी व्हाइट",
+      "gujarati": "દેશી સફેદ"
+    },
+    {
+      "english": "Dry Chillies",
+      "hindi": "सूखी मिर्च",
+      "gujarati": "સૂકા મરચાં"
+    },
+    {
+      "english": "Desi (Whole)",
+      "hindi": "देसी (साबुत)",
+      "gujarati": "દેશી (આખા)"
+    },
+    {
+      "english": "G20",
+      "hindi": "जी -20",
+      "gujarati": "જી -20"
+    },
+    {
+      "english": "Garlic",
+      "hindi": "लहसुन",
+      "gujarati": "લસણ"
+    },
+    {
+      "english": "Full Green",
+      "hindi": "पूर्ण हरा",
+      "gujarati": "સંપૂર્ણ લીલોતરી"
+    },
+    {
+      "english": "Green (Whole)",
+      "hindi": "हरा (साबुत)",
+      "gujarati": "લીલો (આખા)"
+    },
+    {
+      "english": "Gajjar",
+      "hindi": "गज्जर",
+      "gujarati": "ગજ્જર"
+    },
+    {
+      "english": "Elephant Yam (Suran)",
+      "hindi": "हाथी याम (सूरना)",
+      "gujarati": "હાથી યમ (સુરન)"
+    },
+    {
+      "english": "Green Gram Dal",
+      "hindi": "ग्रीन ग्राम दाल",
+      "gujarati": "લીલો ગ્રામ દાળ"
+    },
+    {
+      "english": "Green Gram Dhall-I",
+      "hindi": "हरी चना दाल-I",
+      "gujarati": "લીલીલા ચણાની દાળ-I"
+    },
+    {
+      "english": "Green Ginger",
+      "hindi": "हरी अदरक",
+      "gujarati": "લીલું આદુ"
+    },
+    {
+      "english": "Green Chilly",
+      "hindi": "हरी मिर्च",
+      "gujarati": "લીલું મરચું"
+    },
+    {
+      "english": "Guava",
+      "hindi": "अमरूद",
+      "gujarati": "જામફળ"
+    },
+    {
+      "english": "Ground Nut Seed",
+      "hindi": "मूंगफली का बीज",
+      "gujarati": "ગ્રાઉન્ડ નટ બીજ"
+    },
+    {
+      "english": "Groundnut(Split)",
+      "hindi": "मूंगफली(विभाजित)",
+      "gujarati": "મગફળી (વિભાજીત)"
+    },
+    {
+      "english": "Guaar",
+      "hindi": "गुआर",
+      "gujarati": "ગુવાર"
+    },
+    {
+      "english": "Hybrid",
+      "hindi": "हाइब्रिड",
+      "gujarati": "સંકર"
+    },
+    {
+      "english": "Horse gram (Whole)",
+      "hindi": "घोड़ा ग्राम (साबुत)",
+      "gujarati": "ઘોડો ગ્રામ (આખા)"
+    },
+    {
+      "english": "H.B (Unginned)",
+      "hindi": "एच.बी (बिना ओटा हुआ).",
+      "gujarati": "એચ.બી (અનગિન્ડ)"
+    },
+    {
+      "english": "Gwar",
+      "hindi": "गुआर",
+      "gujarati": "ગુવાર"
+    },
+    {
+      "english": "Isabgul (Psyllium)",
+      "hindi": "इसबगुल (सिसिलियम)",
+      "gujarati": "ઇસબગુલ (સાયલિયમ)"
+    },
+    {
+      "english": "Hybrid Red (Cattle Feed)",
+      "hindi": "हाइब्रिड रेड (मवेशी चारा)",
+      "gujarati": "હાઇબ્રિડ લાલ (પશુઓનો ખોરાક)"
+    },
+    {
+      "english": "Jowar ( White)",
+      "hindi": "ज्वार (सफेद)",
+      "gujarati": "જુવાર (સફેદ)"
+    },
+    {
+      "english": "JL-24",
+      "hindi": "जेएल -24",
+      "gujarati": "જેએલ -24"
+    },
+    {
+      "english": "Hybrid/Local",
+      "hindi": "संकर/स्थानीय",
+      "gujarati": "સંકર/સ્થાનિક"
+    },
+    {
+      "english": "Kabuli Chana(Chickpeas-white)",
+      "hindi": "काबुली चना (छोले-सफेद)",
+      "gujarati": "કાબુલી ચના (ચણા-સફેદ)"
+    },
+    {
+      "english": "Kalyan",
+      "hindi": "कल्याण",
+      "gujarati": "કલ્યાણ"
+    },
+    {
+      "english": "Kabul",
+      "hindi": "काबुल",
+      "gujarati": "કાબુલ"
+    },
+    {
+      "english": "Jowar (Yellow)",
+      "hindi": "ज्वार (पीला)",
+      "gujarati": "જુવાર (પીળો)"
+    },
+    {
+      "english": "Keshar",
+      "hindi": "केशर",
+      "gujarati": "કેશર"
+    },
+    {
+      "english": "Kartali (Kantola)",
+      "hindi": "करताली (कंटोला)",
+      "gujarati": "કરતલી (કંટોલા)"
+    },
+    {
+      "english": "Langra",
+      "hindi": "लंगड़ा",
+      "gujarati": "લંગરા"
+    },
+    {
+      "english": "Lemon",
+      "hindi": "नींबू",
+      "gujarati": "લીંબુ"
+    },
+    {
+      "english": "Local",
+      "hindi": "स्थानीय",
+      "gujarati": "સ્થાનિક"
+    },
+    {
+      "english": "Medium",
+      "hindi": "मध्यम",
+      "gujarati": "માધ્યમ"
+    },
+    {
+      "english": "Mataki (W)",
+      "hindi": "मटकी (w)",
+      "gujarati": "માટાકી  (w)"
+    },
+    {
+      "english": "Lokwan",
+      "hindi": "लोकवन",
+      "gujarati": "લોકવાન"
+    },
+    {
+      "english": "Lok-1",
+      "hindi": "लोक -1",
+      "gujarati": "લોક -1"
+    },
+    {
+      "english": "Mango - Raw-Ripe",
+      "hindi": "आम - कच्चा-पका",
+      "gujarati": "કેરી - કાચી-પાકેલી"
+    },
+    {
+      "english": "M-37",
+      "hindi": "एम 37",
+      "gujarati": "એમ -37"
+    },
+    {
+      "english": "Lokwan Gujrat",
+      "hindi": "लोकवान गुजरात",
+      "gujarati": "લોકવાન ગુજરાત"
+    },
+    {
+      "english": "Mustard",
+      "hindi": "सरसों",
+      "gujarati": "સરસવ"
+    },
+    {
+      "english": "Methi",
+      "hindi": "मेथी",
+      "gujarati": "મેથિ"
+    },
+    {
+      "english": "Medium Fine",
+      "hindi": "मध्यम जुर्माना",
+      "gujarati": "મધ્યમ દંડ"
+    },
+    {
+      "english": "Mousambi",
+      "hindi": "मौसम्बी",
+      "gujarati": "મોસંબી"
+    },
+    {
+      "english": "Methiseeds",
+      "hindi": "मेथी बीज",
+      "gujarati": "મેથીસીડ્સ"
+    },
+    {
+      "english": "Millets",
+      "hindi": "बाजरा",
+      "gujarati": "બાજરી"
+    },
+    {
+      "english": "Mint(Pudina)",
+      "hindi": "पुदीना",
+      "gujarati": "ફુદીનો (ફુદીનો)"
+    },
+    {
+      "english": "Milbar",
+      "hindi": "मिल्बर",
+      "gujarati": "મિલબાર"
+    },
+    {
+      "english": "Nasik",
+      "hindi": "नासिक",
+      "gujarati": "નાસિક"
+    },
+    {
+      "english": "Organic",
+      "hindi": "जैविक",
+      "gujarati": "ઓર્ગેનિક"
+    },
+    {
+      "english": "Other",
+      "hindi": "अन्य",
+      "gujarati": "અન્ય"
+    },
+    {
+      "english": "Onion",
+      "hindi": "प्याज",
+      "gujarati": "ડુંગળી"
+    },
+    {
+      "english": "Navane Hybrid",
+      "hindi": "नवीन हाइब्रिड",
+      "gujarati": "નાવને હાઇબ્રિડ"
+    },
+    {
+      "english": "Narma BT Cotton",
+      "hindi": "नर्मा बीटी कॉटन",
+      "gujarati": "નર્મા બીટી કપાસ"
+    },
+    {
+      "english": "Onion Green",
+      "hindi": "प्याज",
+      "gujarati": "ડુંગળી"
+    },
+    {
+      "english": "Paddy",
+      "hindi": "धान का खेत",
+      "gujarati": "ડાંગર"
+    },
+    {
+      "english": "PISSI",
+      "hindi": "पिसी",
+      "gujarati": "પિસી"
+    },
+    {
+      "english": "Paddy Coarse",
+      "hindi": "धान",
+      "gujarati": "ડાંગર બરછટ"
+    },
+    {
+      "english": "Pumpkin",
+      "hindi": "कद्दू",
+      "gujarati": "કોળું"
+    },
+    {
+      "english": "Pigeon Pea (Arhar Fali)",
+      "hindi": "अरहर फली",
+      "gujarati": "તુવેર (અરહર ફાલી)"
+    },
+    {
+      "english": "Peas cod",
+      "hindi": "मटर कॉड",
+      "gujarati": "વટાણા"
+    },
+    {
+      "english": "Potato",
+      "hindi": "आलू",
+      "gujarati": "બટાટા"
+    },
+    {
+      "english": "Peas Wet",
+      "hindi": "मटर गीला",
+      "gujarati": "વટાણા ભીનું"
+    },
+    {
+      "english": "Paddy Medium",
+      "hindi": "धान मध्यम",
+      "gujarati": "ડાંગર મધ્યમ"
+    },
+    {
+      "english": "Paddy fine",
+      "hindi": "धान",
+      "gujarati": "ડાંગર દંડ"
+    },
+    {
+      "english": "RCH-2",
+      "hindi": "आरसीएच -2",
+      "gujarati": "આરસીએચ -2"
+    },
+    {
+      "english": "Raddish",
+      "hindi": "मूली",
+      "gujarati": "મૂળા"
+    },
+    {
+      "english": "Red",
+      "hindi": "लाल",
+      "gujarati": "લાલ"
+    },
+    {
+      "english": "Sarson(Black)",
+      "hindi": "सरसों (काला)",
+      "gujarati": "સરસોન (કાળો)"
+    },
+    {
+      "english": "Rajasthan Tukdi",
+      "hindi": "राजस्थान तुकदी",
+      "gujarati": "રાજસ્થાન તુકદી"
+    },
+    {
+      "english": "Rai UP",
+      "hindi": "राई UP",
+      "gujarati": "રાય UP"
+    },
+    {
+      "english": "Rajgir",
+      "hindi": "राजगीर",
+      "gujarati": "રાજગિર"
+    },
+    {
+      "english": "Ridgeguard(Tori)",
+      "hindi": "रिजगार्ड (तोरी)",
+      "gujarati": "રિજગાર્ડ (તોરી)"
+    },
+    {
+      "english": "Seed",
+      "hindi": "बीज",
+      "gujarati": "બીજ"
+    },
+    {
+      "english": "Shanker 6 (B) 30mm FIne",
+      "hindi": "शंकर 6 (बी) 30 मिमी FIne",
+      "gujarati": "શંકર 6 (બી) 30 મીમી FIne"
+    },
+    {
+      "english": "Small",
+      "hindi": "छोटा",
+      "gujarati": "નાનું"
+    },
+    {
+      "english": "Sesame",
+      "hindi": "तिल",
+      "gujarati": "તલ"
+    },
+    {
+      "english": "Spinach",
+      "hindi": "पालक",
+      "gujarati": "પાલક"
+    },
+    {
+      "english": "Sonalika",
+      "hindi": "सोनालिका",
+      "gujarati": "સોનાલિકા"
+    },
+    {
+      "english": "Sharbati",
+      "hindi": "शरबती",
+      "gujarati": "શારબતી"
+    },
+    {
+      "english": "Soanf",
+      "hindi": "सोना",
+      "gujarati": "સોનફ"
+    },
+    {
+      "english": "Small (Whole)",
+      "hindi": "छोटा (साबुत)",
+      "gujarati": "નાના (આખા)"
+    },
+    {
+      "english": "Soyabeen",
+      "hindi": "सोयाबीन",
+      "gujarati": "સોયાબીન"
+    },
+    {
+      "english": "Split",
+      "hindi": "विभाजित करना",
+      "gujarati": "વિભાજન"
+    },
+    {
+      "english": "Sponge gourd",
+      "hindi": "स्पंज लौकी",
+      "gujarati": "સ્પોન્જ"
+    },
+    {
+      "english": "Water Melon",
+      "hindi": "तरबूज",
+      "gujarati": "તરબૂચ"
+    },
+    {
+      "english": "White",
+      "hindi": "सफ़ेद",
+      "gujarati": "સફેદ"
+    },
+    {
+      "english": "Wheat",
+      "hindi": "गेहूँ",
+      "gujarati": "ઘઉં"
+    },
+    {
+      "english": "Totapuri",
+      "hindi": "टोटापुरी",
+      "gujarati": "મસ્તર"
+    },
+    {
+      "english": "Tomato",
+      "hindi": "टमाटर",
+      "gujarati": "ટમેટા"
+    },
+    {
+      "english": "Tinda",
+      "hindi": "टिंडा",
+      "gujarati": "ટિંડા"
+    },
+    {
+      "english": "Suva (Dill Seed)",
+      "hindi": "सुवा (डिल सीड)",
+      "gujarati": "સુવા (સુવાદાણા બીજ)"
+    },
+    {
+      "english": "Whole",
+      "hindi": "साबुत",
+      "gujarati": "આખા"
+    },
+    {
+      "english": "White (SAFED)",
+      "hindi": "सफेद (SAFED)",
+      "gujarati": "સફેદ (SAFED)"
+    },
+    {
+      "english": "variety",
+      "hindi": "विविधता",
+      "gujarati": "જાત"
+    },
+    {
+      "english": "Yellow",
+      "hindi": "पीला",
+      "gujarati": "પીળું"
+    }
+  ]
+}
